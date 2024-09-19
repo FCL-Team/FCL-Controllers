@@ -1,0 +1,41 @@
+[
+    {
+        "id": 0,
+        "lang": [
+            {
+                "locale": "en",
+                "text": "Universal"
+            },
+            {
+                "locale": "zh_CN",
+                "text": "通用"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "lang": [
+            {
+                "locale": "en",
+                "text": "Modpack"
+            },
+            {
+                "locale": "zh_CN",
+                "text": "整合包"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "lang": [
+            {
+                "locale": "en",
+                "text": "BE style"
+            },
+            {
+                "locale": "zh_CN",
+                "text": "基岩版"
+            }
+        ]
+    }
+]
