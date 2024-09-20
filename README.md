@@ -92,6 +92,7 @@ The content should be:
             "versionCode": Example,
             "versionName": "Example"
         },
+        ...
     ] // Old versions, excluding latest version.
 }
 ```
