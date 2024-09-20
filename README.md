@@ -76,7 +76,6 @@ So we can display the controller in the launcher.
 The content should be:
 ```
 {
-    "version": "Example", // Version name of the controller, like "1.0", "2.8.5", etc.
     "screenshot": Example, // Integer, number of the screenshots.
     "description": "Example", // Detailed description of the controller.
     "author": "Example", // Your name.
