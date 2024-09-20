@@ -4,6 +4,11 @@
         "lang": "all",
         "name": "Default",
         "introduction": "Default controller of Fold Craft Launcher.",
+        "device": [
+            0,
+            1,
+            2
+        ],
         "categories": [
             0
         ]
