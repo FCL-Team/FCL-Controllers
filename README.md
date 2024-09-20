@@ -63,6 +63,7 @@ Add an object like this:
     "lang": "Example", // Controller language, like "en", "zh_CN", etc, if fits all language, fill in "all".
     "name": "Example", // Name of the controller.
     "introduction": "Example", // Introduction of the controller.
+    "device": Example, // Integer, 0/1/2, 0 is phone, 1 is pad, 2 is other device.
     "categories": [
         0,
         1
