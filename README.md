@@ -21,6 +21,11 @@ Place your version.json file at
 repo_json/<controller_id>/version.json
 ```
 
+Place your icon.png file at
+```
+repo_json/<controller_id>/icon.png
+```
+
 `<controller_id>` is the id of this controller.
 `<version_code>` is the version code of this controller.
 `<number>` is the serial number of the screenshot, the maximum number of screenshot is 16, it should be 01, 02, 03... 16.
