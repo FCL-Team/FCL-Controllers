@@ -12,5 +12,19 @@
         "categories": [
             1
         ]
+    },
+    {
+        "id": "91a8c076",
+        "lang": "all",
+        "name": "HY://Pojav/lite",
+        "introduction": "和 Pojav Launcher 的默认控制器几乎一模一样。",
+        "device": [
+            0,
+            1,
+            2
+        ],
+        "categories": [
+            1
+        ]
     }
 ]
