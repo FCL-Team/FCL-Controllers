@@ -25,4 +25,4 @@ jobs:
           account_type: org
           force_update: true
           timeout: 300
-          debug: false
+          debug: true
