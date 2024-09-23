@@ -10,8 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  run:
-    name: Sync GitHub to GitCode
+  build:
     runs-on: ubuntu-latest
     steps:
 
@@ -26,4 +25,4 @@ jobs:
           account_type: org
           force_update: true
           timeout: 300
-          debug: true
+          debug: false
