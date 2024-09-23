@@ -1,4 +1,4 @@
-name: Sync GitHub to GitCode
+name: Sync GitHub to Gitee
 
 on:
   pull_request:
@@ -14,13 +14,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: Mirror the GitHub repo to GitCode
+      - name: Mirror the GitHub repo to Gitee
         uses: Yikun/hub-mirror-action@v1.4
         with:
           src: github/FCL-Team
-          dst: gitcode/FCL-Team
-          dst_key: ${{ secrets.GITCODE_PRIVATE_KEY }}
-          dst_token: ${{ secrets.GITCODE_TOKEN }}
+          dst: gitee/FCL-Team
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
           static_list: 'FCL-Controllers'
           account_type: org
           force_update: true
