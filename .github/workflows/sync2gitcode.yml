@@ -1,0 +1,28 @@
+name: Sync GitHub to GitCode
+
+on:
+  pull_request:
+    branches-ignore:
+      - ''
+  push:
+    branches-ignore:
+      - ''
+  workflow_dispatch:
+
+jobs:
+  run:
+    name: Sync GitHub to GitCode
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Mirror the GitHub repo to GitCode
+        uses: Yikun/hub-mirror-action@v1.2
+        with:
+          src: github/FCL-Team
+          dst: gitcode/FCL-Team
+          dst_key: ${{ secrets.GITCODE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITCODE_TOKEN }}
+          static_list: 'FCL-Controllers'
+          account_type: org
+          force_update: true
+          timeout: 300
