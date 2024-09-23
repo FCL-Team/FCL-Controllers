@@ -15,7 +15,7 @@ jobs:
     steps:
 
       - name: Mirror the GitHub repo to GitCode
-        uses: Yikun/hub-mirror-action@v1.2
+        uses: Yikun/hub-mirror-action@v1.4
         with:
           src: github/FCL-Team
           dst: gitcode/FCL-Team
