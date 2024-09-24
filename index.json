@@ -77,5 +77,18 @@
             2,
             4
         ]
+    },
+    {
+        "id": "6bf9394a",
+        "lang": "en",
+        "name": "MBE-UM控件1.8.42.4 En",
+        "introduction": "The Mimic the Bedrock Edition controller",
+        "device": [
+            0
+        ],
+        "categories": [
+            1,
+            3
+        ]
     }
 ]
