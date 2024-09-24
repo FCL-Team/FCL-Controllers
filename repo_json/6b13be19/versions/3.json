@@ -1,10 +1,10 @@
 {
-  "id": "91a8c076",
-  "name": "HY:Pojav-lite",
+  "id": "6b13be19",
+  "name": "HY:Pojav-lite_4:3",
   "version": "1.0.0",
   "versionCode": 3,
   "author": "Hyplant",
-  "description": "和 Pojav Launcher 的默认控制器几乎一模一样。",
+  "description": "和 Pojav Launcher 的默认控制器几乎一模一样。\n适用于平板、小屏手机等4:3屏幕的设备。",
   "controllerVersion": 20,
   "buttonStyles": [
     {
@@ -41,6 +41,237 @@
   "directionStyles": [],
   "viewGroups": [
     {
+      "id": "a8f2d464-3cf2-4f2c-893f-bb5e20f944a3",
+      "name": "_SPECIAL",
+      "visibility": "VISIBLE",
+      "viewData": {
+        "buttonList": [
+          {
+            "id": "14561ed5-73e2-461d-96ee-8d00891fa70a",
+            "text": "GUI",
+            "style": "HY://Pojav/normal",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 5,
+              "yPosition": 990,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_HEIGHT",
+                "size": 130
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_HEIGHT",
+                "size": 130
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": [
+                  "f5c607a6-da93-44a7-8ebc-ee75449eae58"
+                ]
+              },
+              "longPressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "clickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "doubleClickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "46ed54c9-7fe6-4bd2-9df6-0725cbbe966a",
+            "text": "Mouse",
+            "style": "HY://Pojav/normal",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 990,
+              "yPosition": 10,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_HEIGHT",
+                "size": 150
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_HEIGHT",
+                "size": 60
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": true,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "longPressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "clickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "doubleClickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "f39fd127-9c4b-483b-8d35-f3c7e2128408",
+            "text": "⚙️",
+            "style": "HY://Pojav/menu",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 500,
+              "yPosition": 0,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_HEIGHT",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_HEIGHT",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": true,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "longPressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "clickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "doubleClickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              }
+            }
+          }
+        ],
+        "directionList": []
+      }
+    },
+    {
       "id": "f5c607a6-da93-44a7-8ebc-ee75449eae58",
       "name": "NORMAL",
       "visibility": "VISIBLE",
@@ -59,11 +290,11 @@
               "absoluteHeight": 50,
               "percentageWidth": {
                 "reference": "SCREEN_HEIGHT",
-                "size": 190
+                "size": 150
               },
               "percentageHeight": {
                 "reference": "SCREEN_HEIGHT",
-                "size": 80
+                "size": 60
               }
             },
             "event": {
@@ -127,18 +358,18 @@
             "style": "HY://Pojav/normal",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 110,
+              "xPosition": 135,
               "yPosition": 10,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
               "percentageWidth": {
                 "reference": "SCREEN_HEIGHT",
-                "size": 190
+                "size": 150
               },
               "percentageHeight": {
                 "reference": "SCREEN_HEIGHT",
-                "size": 80
+                "size": 60
               }
             },
             "event": {
@@ -202,18 +433,18 @@
             "style": "HY://Pojav/normal",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 215,
+              "xPosition": 265,
               "yPosition": 10,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
               "percentageWidth": {
                 "reference": "SCREEN_HEIGHT",
-                "size": 190
+                "size": 150
               },
               "percentageHeight": {
                 "reference": "SCREEN_HEIGHT",
-                "size": 80
+                "size": 60
               }
             },
             "event": {
@@ -275,18 +506,18 @@
             "style": "HY://Pojav/normal",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 320,
+              "xPosition": 395,
               "yPosition": 10,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
               "percentageWidth": {
                 "reference": "SCREEN_HEIGHT",
-                "size": 190
+                "size": 150
               },
               "percentageHeight": {
                 "reference": "SCREEN_HEIGHT",
-                "size": 80
+                "size": 60
               }
             },
             "event": {
@@ -351,17 +582,17 @@
             "baseInfo": {
               "visibilityType": "ALWAYS",
               "xPosition": 5,
-              "yPosition": 100,
+              "yPosition": 75,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
               "percentageWidth": {
                 "reference": "SCREEN_HEIGHT",
-                "size": 190
+                "size": 150
               },
               "percentageHeight": {
                 "reference": "SCREEN_HEIGHT",
-                "size": 80
+                "size": 60
               }
             },
             "event": {
@@ -425,8 +656,8 @@
             "style": "HY://Pojav/normal",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 73,
-              "yPosition": 840,
+              "xPosition": 115,
+              "yPosition": 837,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -500,8 +731,8 @@
             "style": "HY://Pojav/normal",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 73,
-              "yPosition": 690,
+              "xPosition": 115,
+              "yPosition": 683,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -575,7 +806,7 @@
             "style": "HY://Pojav/normal",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 73,
+              "xPosition": 115,
               "yPosition": 990,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
@@ -651,7 +882,7 @@
             "baseInfo": {
               "visibilityType": "ALWAYS",
               "xPosition": 5,
-              "yPosition": 840,
+              "yPosition": 837,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -725,8 +956,8 @@
             "style": "HY://Pojav/normal",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 141,
-              "yPosition": 840,
+              "xPosition": 226,
+              "yPosition": 837,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -801,7 +1032,7 @@
             "baseInfo": {
               "visibilityType": "ALWAYS",
               "xPosition": 5,
-              "yPosition": 690,
+              "yPosition": 683,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -875,8 +1106,8 @@
             "style": "HY://Pojav/normal",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 141,
-              "yPosition": 690,
+              "xPosition": 226,
+              "yPosition": 683,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -950,7 +1181,7 @@
             "style": "HY://Pojav/normal",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 141,
+              "xPosition": 226,
               "yPosition": 990,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
@@ -1054,237 +1285,6 @@
                 "outputKeycodes": [
                   57
                 ],
-                "bindViewGroup": []
-              },
-              "longPressEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
-                "bindViewGroup": []
-              },
-              "clickEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
-                "bindViewGroup": []
-              },
-              "doubleClickEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
-                "bindViewGroup": []
-              }
-            }
-          }
-        ],
-        "directionList": []
-      }
-    },
-    {
-      "id": "a8f2d464-3cf2-4f2c-893f-bb5e20f944a3",
-      "name": "_SPECIAL",
-      "visibility": "VISIBLE",
-      "viewData": {
-        "buttonList": [
-          {
-            "id": "14561ed5-73e2-461d-96ee-8d00891fa70a",
-            "text": "GUI",
-            "style": "HY://Pojav/normal",
-            "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 5,
-              "yPosition": 990,
-              "sizeType": "PERCENTAGE",
-              "absoluteWidth": 50,
-              "absoluteHeight": 50,
-              "percentageWidth": {
-                "reference": "SCREEN_HEIGHT",
-                "size": 130
-              },
-              "percentageHeight": {
-                "reference": "SCREEN_HEIGHT",
-                "size": 130
-              }
-            },
-            "event": {
-              "pointerFollow": false,
-              "Movable": false,
-              "pressEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
-                "bindViewGroup": [
-                  "f5c607a6-da93-44a7-8ebc-ee75449eae58"
-                ]
-              },
-              "longPressEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
-                "bindViewGroup": []
-              },
-              "clickEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
-                "bindViewGroup": []
-              },
-              "doubleClickEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
-                "bindViewGroup": []
-              }
-            }
-          },
-          {
-            "id": "46ed54c9-7fe6-4bd2-9df6-0725cbbe966a",
-            "text": "Mouse",
-            "style": "HY://Pojav/normal",
-            "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 990,
-              "yPosition": 10,
-              "sizeType": "PERCENTAGE",
-              "absoluteWidth": 50,
-              "absoluteHeight": 50,
-              "percentageWidth": {
-                "reference": "SCREEN_HEIGHT",
-                "size": 190
-              },
-              "percentageHeight": {
-                "reference": "SCREEN_HEIGHT",
-                "size": 80
-              }
-            },
-            "event": {
-              "pointerFollow": false,
-              "Movable": false,
-              "pressEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": true,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
-                "bindViewGroup": []
-              },
-              "longPressEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
-                "bindViewGroup": []
-              },
-              "clickEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
-                "bindViewGroup": []
-              },
-              "doubleClickEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
-                "bindViewGroup": []
-              }
-            }
-          },
-          {
-            "id": "f39fd127-9c4b-483b-8d35-f3c7e2128408",
-            "text": "⚙️",
-            "style": "HY://Pojav/menu",
-            "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 500,
-              "yPosition": 0,
-              "sizeType": "PERCENTAGE",
-              "absoluteWidth": 50,
-              "absoluteHeight": 50,
-              "percentageWidth": {
-                "reference": "SCREEN_HEIGHT",
-                "size": 50
-              },
-              "percentageHeight": {
-                "reference": "SCREEN_HEIGHT",
-                "size": 50
-              }
-            },
-            "event": {
-              "pointerFollow": false,
-              "Movable": false,
-              "pressEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": true,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
                 "bindViewGroup": []
               },
               "longPressEvent": {
