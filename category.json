@@ -37,5 +37,18 @@
                 "text": "基岩版"
             }
         ]
+    },
+    {
+        "id": 4,
+        "lang": [
+            {
+                "locale": "en",
+                "text": "pvp"
+            },
+            {
+                "locale": "zh_CN",
+                "text": "pvp"
+            }
+        ]
     }
 ]

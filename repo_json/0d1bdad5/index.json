@@ -1,5 +1,7 @@
 {
-  "categories": [],
+  "categories": [
+    1
+  ],
   "device": [
     0,
     1
