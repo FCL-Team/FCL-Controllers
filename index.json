@@ -139,5 +139,18 @@
         "categories": [
             1
         ]
+    },
+    {
+        "id": "27aeff6e",
+        "lang": "zh_CN",
+        "name": "简洁",
+        "introduction": "很简洁",
+        "device": [
+            0
+        ],
+        "categories": [
+            1,
+            3
+        ]
     }
 ]
