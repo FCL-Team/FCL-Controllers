@@ -115,5 +115,17 @@
         "categories": [
             1
         ]
+    },
+    {
+        "id": "4a05f23c",
+        "lang": "zh_CN",
+        "name": "开车",
+        "introduction": "适用于模组驾车功能",
+        "device": [
+            0
+        ],
+        "categories": [
+            1
+        ]
     }
 ]
