@@ -90,5 +90,67 @@
             1,
             3
         ]
+    },
+    {
+        "id": "0294b868",
+        "lang": "zh_CN",
+        "name": "仿电脑键盘布局",
+        "introduction": "仿电脑版按键",
+        "device": [
+            0,
+            1
+        ],
+        "categories": [
+            1
+        ]
+    },
+    {
+        "id": "8e8f5abf",
+        "lang": "zh_CN",
+        "name": "“键”易布局-生存版",
+        "introduction": "专注于场景的模块化键位，底部布局不挡游戏画面，简约美观，适配多种手机DPI。\n",
+        "device": [
+            0
+        ],
+        "categories": [
+            1
+        ]
+    },
+    {
+        "id": "4a05f23c",
+        "lang": "zh_CN",
+        "name": "开车",
+        "introduction": "适用于模组驾车功能",
+        "device": [
+            0
+        ],
+        "categories": [
+            1
+        ]
+    },
+    {
+        "id": "ad6090b0",
+        "lang": "zh_CN",
+        "name": "普普通般的控件布局方案",
+        "introduction": "yuangudabao制作",
+        "device": [
+            0
+        ],
+        "categories": [
+            1
+        ]
+    },
+    {
+        "id": "27aeff6e",
+        "lang": "zh_CN",
+        "name": "简洁",
+        "introduction": "很简洁",
+        "device": [
+            0
+        ],
+        "categories": [
+            1,
+            3
+        ]
     }
 ]

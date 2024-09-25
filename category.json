@@ -50,5 +50,18 @@
                 "text": "PVP"
             }
         ]
+    },
+    {
+        "id": 5,
+        "lang": [
+            {
+                "locale": "en",
+                "text": "Traffic"
+            },
+            {
+                "locale": "zh_CN",
+                "text": "交通"
+            }
+        ]
     }
 ]
