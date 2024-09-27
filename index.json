@@ -214,5 +214,19 @@
             1,
             4
         ]
+    },
+    {
+        "id": "7b932c02",
+        "lang": "en",
+        "name": "Chickens",
+        "introduction": "This is a bad controller.",
+        "device": [
+            0,
+            1,
+            2
+        ],
+        "categories": [
+            1
+        ]
     }
 ]
