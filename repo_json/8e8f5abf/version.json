@@ -1,10 +1,15 @@
 {
   "author": "XLuoFox.DSY",
   "description": "见图片",
-  "history": [],
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "版本：生存版v2 | 作者：XLuoFox.DSY"
+    }
+  ],
   "latest": {
-    "versionCode": 1,
-    "versionName": "版本：生存版v2 | 作者：XLuoFox.DSY"
+    "versionCode": 2,
+    "versionName": "版本：生存版v3 | 作者：XLuoFox.DSY"
   },
   "screenshot": 5
 }
