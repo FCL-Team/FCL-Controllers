@@ -3,10 +3,13 @@
     "description": "Default controller of Fold Craft Launcher.",
     "author": "Tungsten",
     "latest": {
-        "versionCode": 1,
-        "versionName": "1.2.0"
+        "versionCode": 1210,
+        "versionName": "1.2.1"
     },
     "history": [
-        
+        {
+            "versionCode": 1,
+            "versionName": "1.2.0"
+        }
     ]
 }
