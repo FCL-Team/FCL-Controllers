@@ -1,3 +1,5 @@
+[中文](README-CN.md)
+
 # FCL-Controllers
 
 Controller repository of FCL.
