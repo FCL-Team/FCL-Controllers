@@ -252,5 +252,17 @@
         "categories": [
             1
         ]
+    },
+    {
+        "id": "4bf3d919",
+        "lang": "zh_CN",
+        "name": "仿原神键位",
+        "introduction": "Default controller of YuanShen.",
+        "device": [
+            0
+        ],
+        "categories": [
+            1
+        ]
     }
 ]
