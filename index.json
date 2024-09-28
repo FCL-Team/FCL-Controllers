@@ -228,5 +228,17 @@
         "categories": [
             1
         ]
+    },
+    {
+        "id": "de51f6d7",
+        "lang": "zh_CN",
+        "name": "四指PVP键位",
+        "introduction": "四指PVP按键布局",
+        "device": [
+            0
+        ],
+        "categories": [
+            4
+        ]
     }
 ]
