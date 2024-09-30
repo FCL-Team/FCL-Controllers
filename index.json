@@ -277,5 +277,17 @@
         "categories": [
             1
         ]
+    },
+    {
+        "id": "cd792f25",
+        "lang": "zh_CN",
+        "name": "三折叠屏",
+        "introduction": "有事联系qq 3791193182",
+        "device": [
+            0
+        ],
+        "categories": [
+            1
+        ]
     }
 ]
