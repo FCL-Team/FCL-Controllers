@@ -264,5 +264,18 @@
         "categories": [
             1
         ]
+    },
+    {
+        "id": "726214ca",
+        "lang": "zh_CN",
+        "name": "LightUI",
+        "introduction": "豪用，适合大屏的四指键位",
+        "device": [
+            0,
+            1
+        ],
+        "categories": [
+            1
+        ]
     }
 ]
