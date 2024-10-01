@@ -63,5 +63,18 @@
                 "text": "交通"
             }
         ]
+    },
+    {
+        "id": 6,
+        "lang": [
+            {
+                "locale": "en",
+                "text": "Full keyboard"
+            },
+            {
+                "locale": "zh_CN",
+                "text": "全键盘"
+            }
+        ]
     }
 ]

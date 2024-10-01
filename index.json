@@ -289,5 +289,19 @@
         "categories": [
             1
         ]
+    },
+    {
+        "id": "d237e382",
+        "lang": "zh_CN",
+        "name": "Moffince Lite",
+        "introduction": "生存键位，偷盗者死！",
+        "device": [
+            0
+        ],
+        "categories": [
+            1,
+            4,
+            6
+        ]
     }
 ]
