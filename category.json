@@ -37,5 +37,31 @@
                 "text": "基岩版"
             }
         ]
+    },
+    {
+        "id": 4,
+        "lang": [
+            {
+                "locale": "en",
+                "text": "PVP"
+            },
+            {
+                "locale": "zh_CN",
+                "text": "PVP"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "lang": [
+            {
+                "locale": "en",
+                "text": "Traffic"
+            },
+            {
+                "locale": "zh_CN",
+                "text": "交通"
+            }
+        ]
     }
 ]
