@@ -1,10 +1,15 @@
 {
   "author": "CRGMxhzzzzzz",
-  "description": "一个主打精简和美观的键位",
-  "history": [],
+  "description": "一个主打精简和美观的键位\n更新指令库。",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "1.0.0sc"
+    }
+  ],
   "latest": {
-    "versionCode": 1,
-    "versionName": "1.0.0sc"
+    "versionCode": 2,
+    "versionName": "1.0.0cx"
   },
   "screenshot": 1
 }

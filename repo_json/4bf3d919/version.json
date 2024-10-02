@@ -1,10 +1,15 @@
 {
   "author": "coMicBox",
   "description": "为旅行者提供的简单键位",
-  "history": [],
+  "history": [
+    {
+      "versionCode": 2,
+      "versionName": "5.0"
+    }
+  ],
   "latest": {
-    "versionCode": 2,
-    "versionName": "5.0"
+    "versionCode": 3,
+    "versionName": "5.1前瞻"
   },
   "screenshot": 3
 }
