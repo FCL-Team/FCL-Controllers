@@ -39,6 +39,21 @@
         ]
     },
     {
+        "id": "9329f2ce",
+        "lang": "en_US",
+        "name": "HMCL-PE Default",
+        "introduction": "HMCL-PE Default controller for Fold Craft Launcher.",
+        "device": [
+            0,
+            1,
+            2
+        ],
+        "categories": [
+            1,
+            6
+        ]
+    },
+    {
         "id": "a90a5e03",
         "lang": "zh_CN",
         "name": "MBE键位",
