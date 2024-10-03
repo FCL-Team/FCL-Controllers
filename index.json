@@ -354,5 +354,18 @@
             1,
             6
           ]
+    },
+    {
+        "id": "d01659ea",
+        "lang": "zh_CN",
+        "name": "GXSKEY",
+        "introduction": "龟先生仿基岩版键位\n            作者：小龟不会游泳\n         参考MBE",
+        "device": [
+            0
+        ],
+        "categories": [
+            1,
+            3
+        ]
     }
 ]
