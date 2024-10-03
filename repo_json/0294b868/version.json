@@ -1,10 +1,15 @@
 {
   "author": "草方块",
-  "description": "此按键是模仿电脑的位置制作的",
-  "history": [],
+  "description": "仿电脑版排位控件注意:从此版本开始此控件将永久停止更新",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "1.0.0"
+    }
+  ],
   "latest": {
-    "versionCode": 1,
-    "versionName": ""
+    "versionCode": 2,
+    "versionName": "1.1.0"
   },
   "screenshot": 1
 }
