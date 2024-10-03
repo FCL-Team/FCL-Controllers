@@ -1,10 +1,15 @@
 {
   "author": "い陌笙う",
-  "description": "船新键位",
-  "history": [],
-  "latest": {
+  "description": "主打功能多，简洁，精细的键位",
+  "history": [
+    {
     "versionCode": 9851,
     "versionName": "1.0"
+    }
+  ],
+  "latest": {
+    "versionCode": 9852,
+    "versionName": "1.0"
   },
-  "screenshot": 6
+  "screenshot": 8
 }

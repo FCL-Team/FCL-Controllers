@@ -83,7 +83,7 @@
     {
         "id": "15d8febe",
         "lang": "zh_CN",
-        "name": "[FCL]便捷触控键位1.4.6.5",
+        "name": "[FCL]便捷触控键位1.4.7.2",
         "introduction": "功能较为齐全，切换较为便捷，样式较为舒适，适用于史诗级战斗模组，但不支持烦村。",
         "device": [
             0
@@ -315,8 +315,8 @@
     {
         "id": "d237e382",
         "lang": "zh_CN",
-        "name": "Moffince Lite",
-        "introduction": "生存键位，偷盗者死！",
+        "name": "Fine星辰",
+        "introduction": "主打功能多，简洁，精细的键位",
         "device": [
             0
         ],
