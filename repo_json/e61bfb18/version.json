@@ -1,15 +1,19 @@
 {
   "author": "CRGMxhzzzzzz",
-  "description": "一个主打精简和美观的键位\n更新指令库。",
+  "description": "Fire潮汐精简美观的键位",
   "history": [
     {
       "versionCode": 1,
       "versionName": "1.0.0sc"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "1.0.0cx"
     }
   ],
   "latest": {
-    "versionCode": 2,
-    "versionName": "1.0.0cx"
+    "versionCode": 3,
+    "versionName": "1.1.0"
   },
-  "screenshot": 1
+  "screenshot": 4
 }
