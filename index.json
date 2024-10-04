@@ -367,5 +367,18 @@
             1,
             3
         ]
+    },
+    {
+        "id": "69c32f5c",
+        "lang": "zh_CN",
+        "name": "〖星霜〗轻量版",
+        "introduction": "轻量、简约、整齐、美观",
+        "device": [
+            0
+        ],
+        "categories": [
+            1,
+            6
+        ]
     }
 ]
