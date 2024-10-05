@@ -367,5 +367,31 @@
             1,
             3
         ]
+    },
+    {
+        "id": "69c32f5c",
+        "lang": "zh_CN",
+        "name": "〖星霜〗轻量版",
+        "introduction": "轻量、简约、整齐、美观",
+        "device": [
+            0
+        ],
+        "categories": [
+            1,
+            6
+        ]
+    },
+    {
+        "id": "9e6f85df",
+        "lang": "zh_CN",
+        "name": "土豆的键位",
+        "introduction": "一个简洁又不失功能的键位，基于FCL默认键位的控制方式制作(目前仅支持平板，手机端正在开发)",
+        "device": [
+            1
+        ],
+        "categories": [
+            1,
+            3
+        ]
     }
 ]
