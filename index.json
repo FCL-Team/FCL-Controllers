@@ -405,5 +405,18 @@
         "categories": [
             1
         ]
+    },
+    {
+        "id": "69ede3be",
+        "lang": "en",
+        "name": "MBE controller",
+        "introduction": "Mimicking the MCBE controller.",
+        "device": [
+            0
+        ],
+        "categories": [
+            1,
+            3
+        ]
     }
 ]
