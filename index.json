@@ -432,5 +432,17 @@
             4,
             5
         ]
+    },
+    {
+        "id": "14b99193",
+        "lang": "zh_CN",
+        "name": "QE",
+        "introduction": "简而不简，功能完善",
+        "device": [
+            0
+        ],
+        "categories": [
+            1
+        ]
     }
 ]
