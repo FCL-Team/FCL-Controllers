@@ -1,15 +1,19 @@
 {
   "author": "Tungsten & Xy_Lose",
-  "description": "HMCL-PE Default controller for Fold Craft Launcher.",
+  "description": "HMCL-PE Default controller of Fold Craft Launcher.",
   "history": [
     {
       "versionCode": 1000,
       "versionName": "1.0.0"
+    },
+    {
+      "versionCode": 1210,
+      "versionName": "1.2.1"
     }
   ],
   "latest": {
-    "versionCode": 1210,
-    "versionName": "1.2.1"
+    "versionCode": 1300,
+    "versionName": "1.3.0"
   },
   "screenshot": 3
 }
