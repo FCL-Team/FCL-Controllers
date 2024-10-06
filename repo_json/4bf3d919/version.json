@@ -1,15 +1,19 @@
 {
   "author": "coMicBox",
-  "description": "为旅行者提供的简单键位",
+  "description": "为旅行者提供的实用键位兼容fcl版本：1.1.8",
   "history": [
     {
       "versionCode": 2,
       "versionName": "5.0"
+    },
+    {
+      "versionCode": 3,
+      "versionName": "5.1前瞻"
     }
   ],
   "latest": {
-    "versionCode": 3,
-    "versionName": "5.1前瞻"
+    "versionCode": 5,
+    "versionName": "5.1"
   },
-  "screenshot": 3
+  "screenshot": 6
 }
