@@ -3,8 +3,8 @@
   "description": "一个简洁又不失功能的键位，基于FCL默认键位的控制方式制作(目前仅支持平板，手机端正在开发)",
   "history": [],
   "latest": {
-    "versionCode": 5,
-    "versionName": "Alpha 0.0.5(pad)"
+    "versionCode": 10,
+    "versionName": "Alpha 0.1.0(pad)"
   },
-  "screenshot": 1
+  "screenshot": 3
 }
