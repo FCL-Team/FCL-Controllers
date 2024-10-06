@@ -5,11 +5,15 @@
     {
     "versionCode": 1,
     "versionName": "1.4.6.5"
+    },
+    {
+      "versionCode": 1472114514,
+      "versionName": "1.4.7.2"
     }
   ],
   "latest": {
-    "versionCode": 1472114514,
-    "versionName": "1.4.7.2"
+    "versionCode": 14781,
+    "versionName": "1.4.7.8"
   },
   "screenshot": 16
 }
