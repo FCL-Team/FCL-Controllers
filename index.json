@@ -437,12 +437,13 @@
         "id": "14b99193",
         "lang": "zh_CN",
         "name": "QE",
-        "introduction": "简而不简，功能完善",
+        "introduction": "简而不简，功能完善。内置快捷指令及全键盘",
         "device": [
             0
         ],
         "categories": [
-            1
+            1,
+            6
         ]
     }
 ]
