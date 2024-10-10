@@ -1,6 +1,6 @@
 {
-  "author": "CRGMxhzzzzzz",
-  "description": "Fire潮汐精简美观的键位",
+  "author": "OxnalyCRGM",
+  "description": "一个精简又美观的键位",
   "history": [
     {
       "versionCode": 1,
@@ -9,11 +9,15 @@
     {
       "versionCode": 2,
       "versionName": "1.0.0cx"
+    },
+    {
+      "versionCode": 3,
+      "versionName": "1.1.0"
     }
   ],
   "latest": {
-    "versionCode": 3,
-    "versionName": "1.1.0"
+    "versionCode": 4,
+    "versionName": "1.2.0"
   },
-  "screenshot": 4
+  "screenshot": 9
 }
