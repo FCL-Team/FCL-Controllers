@@ -267,7 +267,7 @@
         "id": "e61bfb18",
         "lang": "zh_CN",
         "name": "Fire潮汐",
-        "introduction": "Fire潮汐精简美观的键位",
+        "introduction": "一个精简又美观的键位",
         "device": [
             0
         ],
@@ -437,12 +437,13 @@
         "id": "14b99193",
         "lang": "zh_CN",
         "name": "QE",
-        "introduction": "简而不简，功能完善",
+        "introduction": "简而不简，功能完善。内置快捷指令及全键盘",
         "device": [
             0
         ],
         "categories": [
-            1
+            1,
+            6
         ]
     }
 ]
