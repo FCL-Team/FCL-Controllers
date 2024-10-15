@@ -1,10 +1,15 @@
 {
   "author": "White_sheep",
   "description": "This is a bad controller.",
-  "history": [],
-  "latest": {
+  "history": [
+    {
     "versionCode": 1,
     "versionName": "1.0.7"
+    }
+  ],
+  "latest": {
+    "versionCode": 2,
+    "versionName": "1.0.8"
   },
   "screenshot": 1
 }

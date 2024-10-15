@@ -1,0 +1,15 @@
+{
+  "author": "QinChuan",
+  "description": "简而不简，功能完善。内置快捷指令及全键盘",
+  "history": [
+    {
+    "versionCode": 1,
+    "versionName": "1.1.0"
+    }
+  ],
+  "latest": {
+    "versionCode": 2,
+    "versionName": "1.2.0"
+  },
+  "screenshot": 4
+}
