@@ -9,11 +9,15 @@
     {
       "versionCode": 3,
       "versionName": "5.1前瞻"
+    },
+    {
+      "versionCode": 5,
+      "versionName": "5.1"
     }
   ],
   "latest": {
-    "versionCode": 5,
-    "versionName": "5.1"
+    "versionCode": 6,
+    "versionName": "5.1_v3"
   },
   "screenshot": 6
 }
