@@ -478,7 +478,22 @@
         ],
         "id": "173a026d",
         "introduction": "能不能给孩子一个币啊",
-        "lang": "all",
+        "lang": "zh_CN",
         "name": "Windows10"
+    },
+    {
+        "id": "55fc44a2",
+        "lang": "zh_CN",
+        "name": "Mox pvp procoho",
+        "introduction": "键位我做了一个小时配色也是昨天配的(半成品)",
+        "device": [
+            2,
+            0,
+            1
+        ],
+        "categories": [
+            1
+        ]
     }
 ]
+
