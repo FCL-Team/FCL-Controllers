@@ -5,11 +5,15 @@
     {
     "versionCode": 1,
     "versionName": "1.8.51"
+    },
+    {
+    "versionCode": 2,
+    "versionName": "1.8.52"
     }
   ],
   "latest": {
-    "versionCode": 2,
-    "versionName": "1.8.52"
+    "versionCode": 3,
+    "versionName": "1.8.53"
   },
   "screenshot": 4
 }
