@@ -494,6 +494,18 @@
         "categories": [
             1
         ]
+    },
+    {
+        "id": "dta5a60d",
+        "lang": "zh_CN",
+        "name": "FullsUI",
+        "introduction": "一个精简又美观的键位",
+        "device": [
+            0
+        ],
+        "categories": [
+            1
+        ]
     }
 ]
 
