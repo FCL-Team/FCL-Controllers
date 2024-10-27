@@ -1,10 +1,13 @@
 {
   "author": "BiliBili-古见哈里桑-LV3",
-  "description": "键位我做了一个小时配色也是昨天配的(半成品)",
-  "history": [],
-  "latest": {
+  "description": "更新至完整版数字键有问题",
+  "history": [
     "versionCode": 1,
     "versionName": "135"
+  ],
+  "latest": {
+    "versionCode": 2,
+    "versionName": "2.114514"
   },
-  "screenshot": 4
+  "screenshot": 3
 }
