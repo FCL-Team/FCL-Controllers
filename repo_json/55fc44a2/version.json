@@ -2,8 +2,10 @@
   "author": "BiliBili-古见哈里桑-LV3",
   "description": "更新至完整版数字键有问题",
   "history": [
-    "versionCode": 1,
-    "versionName": "135"
+    {
+      "versionCode": 1,
+      "versionName": "135"
+    }
   ],
   "latest": {
     "versionCode": 2,
