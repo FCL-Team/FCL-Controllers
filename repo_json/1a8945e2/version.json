@@ -1,15 +1,19 @@
 {
   "author": "Zero_linofe",
-  "description": "简易按键，目前大部分按键均为原版按键。使用整合包、修改按键设置等都可能导致按键无法使用。 “缩放”按钮为“v”。“地图”按钮为“m”。“快速回岛”按钮为自动输入空岛生存回岛指令“/is”。使用时建议将鼠标控制模式改为拖动。",
+  "description": "简易按键，目前大部分按键均为原版按键。使用整合包、修改按键设置等都可能导致按键无法使用。 \n“缩放”按钮为“v”。“地图”按钮为“m”。“快速回岛”按钮为自动输入空岛生存回岛指令“/is”。长按F3进入F3功能界面。\n使用时建议将鼠标控制模式改为拖动。",
   "history": [
     {
       "versionCode": 1,
       "versionName": "1.6"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "beta 1.6.1"
     }
   ],
   "latest": {
-    "versionCode": 2,
-    "versionName": "beta 1.6.1"
+    "versionCode": 3,
+    "versionName": "beta 1.7.1"
   },
   "screenshot": 1
 }
