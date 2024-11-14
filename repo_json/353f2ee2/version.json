@@ -1,6 +1,6 @@
 {
-  "author": "mmdyzy",
-  "description": "仿基岩版触控，UM改版，原作者：不想取名的阿peng\n更新日志：\n修复网易聊天左边按键判定不准确问题\n将默认十字键下的宏持移至右下角九宫格\n修复默认十字键同时打开宏持重叠问题\n默认十字键可以同时使用宏持",
+  "author": "mmdyzy·不想取名的阿peng",
+  "description": "仿基岩版触控，UM改版，原作者：不想取名的阿peng\n改版作者/维护：mmdyzy\n更新日志(1.8.5):修复同时开启宏持后的图层错误\n优化右上角排版\n优化右上角按钮面板展开后的排版\n游戏内屏幕上方▽按钮改为展开快捷功能面板，更符合符号含义\n优化快捷功能面板大小\n删除BE顶部5键选项\n将菜单右侧空白区域同步MBE开始弹窗，至少看着不空了(",
   "history": [
     {
       "versionCode": 1010843,
@@ -9,11 +9,15 @@
     {
       "versionCode": 1010844,
       "versionName": "1.8.44"
+    },
+    {
+      "versionCode": 1010845,
+      "versionName": "1.8.45"
     }
   ],
   "latest": {
-    "versionCode": 1010845,
-    "versionName": "1.8.45"
+    "versionCode": 1010850,
+    "versionName": "1.8.5"
   },
   "screenshot": 5
 }
