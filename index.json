@@ -568,6 +568,43 @@
         "categories": [
             1
         ]
+    },
+    {
+        "id": "4865b746",
+        "lang": "zh_CN",
+        "name": "高对比",
+        "introduction": "三连",
+        "device": [
+            0
+        ],
+        "categories": [
+            1
+        ]
+    },
+    {
+        "id": "fca21d1e",
+        "lang": "zh_CN",
+        "name": "TLBE",
+        "introduction": "仿基岩控件",
+        "device": [
+            0
+        ],
+        "categories": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "d32a9b00",
+        "lang": "zh_CN",
+        "name": "ZH舒适按键",
+        "introduction": "极致舒适，面向大多玩家（没做完我就发了）",
+        "device": [
+            0
+        ],
+        "categories": [
+            1
+        ]
     }
 ]
 
