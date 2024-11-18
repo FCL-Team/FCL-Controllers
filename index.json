@@ -568,6 +568,18 @@
         "categories": [
             1
         ]
+    },
+    {
+        "id": "4865b746",
+        "lang": "zh_CN",
+        "name": "高对比",
+        "introduction": "三连",
+        "device": [
+            0
+        ],
+        "categories": [
+            1
+        ]
     }
 ]
 
