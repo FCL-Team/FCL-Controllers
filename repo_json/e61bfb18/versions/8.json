@@ -3,7 +3,7 @@
   "name": "Fire潮汐",
   "version": "2.0.0a",
   "versionCode": 8,
-  "author": "CRGMxhzzzzzz",
+  "author": "TimonDessoj",
   "description": "Fire潮汐 简约未来",
   "controllerVersion": 20,
   "buttonStyles": [
@@ -15765,7 +15765,7 @@
           },
           {
             "id": "d4080c40-8b64-499a-9003-06a50dd76b49",
-            "text": "版本：1.6.0",
+            "text": "版本：2.0.0a",
             "style": "Fire3",
             "baseInfo": {
               "visibilityType": "ALWAYS",
