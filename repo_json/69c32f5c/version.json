@@ -1,10 +1,15 @@
 {
   "author": "雨洛Yao",
-  "description": "1.0版本",
-  "history": [],
+  "description": "2.0版本",
+  "history": [
+    {
+      "versionCode": 10,
+      "versionName": "1.0版本"
+    }
+  ],
   "latest": {
-    "versionCode": 10,
-    "versionName": "1.0版本"
+    "versionCode": 20,
+    "versionName": "2.0版本"
   },
-  "screenshot": 4
+  "screenshot": 8
 }
