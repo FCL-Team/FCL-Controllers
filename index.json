@@ -607,6 +607,21 @@
         "categories": [
             1
         ]
+    },
+    {
+        "id": "dce5b3f1",
+        "lang": "zh_CN",
+        "name": "小幽made布局",
+        "introduction": "幽制布局：多功能梗体布局，你最棒的伙伴（",
+        "device": [
+            0,
+            1,
+            2
+        ],
+        "categories": [
+            1,
+            6
+        ]
     }
 ]
 
