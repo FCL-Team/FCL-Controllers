@@ -290,7 +290,7 @@
         "id": "e61bfb18",
         "lang": "zh_CN",
         "name": "Fire潮汐",
-        "introduction": "Fire潮汐 简约未来",
+        "introduction": "Fire潮汐 极简未来",
         "device": [
             0
         ],
@@ -505,7 +505,8 @@
             0
         ],
         "categories": [
-            1
+            1,
+            6
         ]
     },
     {
@@ -606,6 +607,21 @@
         ],
         "categories": [
             1
+        ]
+    },
+    {
+        "id": "dce5b3f1",
+        "lang": "zh_CN",
+        "name": "小幽made布局",
+        "introduction": "幽制布局：多功能梗体布局，你最棒的伙伴（",
+        "device": [
+            0,
+            1,
+            2
+        ],
+        "categories": [
+            1,
+            6
         ]
     }
 ]

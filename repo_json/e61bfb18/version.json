@@ -1,6 +1,6 @@
 {
   "author": "TimonDessoj",
-  "description": "Fire潮汐 简约未来",
+  "description": "Fire潮汐 极简未来",
   "history": [
     {
       "versionCode": 1,
@@ -29,11 +29,15 @@
     {
       "versionCode": 7,
       "versionName": "1.6.0"
+    },
+    {
+      "versionCode": 8,
+      "versionName": "2.0.0a"
     }
   ],
   "latest": {
-    "versionCode": 8,
-    "versionName": "2.0.0a"
+    "versionCode": 9,
+    "versionName": "2.0.0"
   },
-  "screenshot": 7
+  "screenshot": 9
 }
