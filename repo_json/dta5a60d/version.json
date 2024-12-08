@@ -1,15 +1,19 @@
 {
   "author": "TimonDessojQwQ",
-  "description": "一个精简又美观的键位",
+  "description": "此版本修复了前两个版本的通病，可以正常更新",
   "history": [
     {
       "versionCode": 1,
       "versionName": "0.10.0"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "0.10.1"
     }
   ],
   "latest": {
-    "versionCode": 2,
-    "versionName": "0.10.1"
+    "versionCode": 3,
+    "versionName": "0.10.2"
   },
-  "screenshot": 6
+  "screenshot": 7
 }
