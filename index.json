@@ -144,8 +144,8 @@
     {
         "id": "0d1bdad5",
         "lang": "zh_CN",
-        "name": "摇杆4指操作3.3",
-        "introduction": "基本的4指操作，微调可完全上手。有问题反馈QQ3412163124",
+        "name": "摇杆4指操作3.5",
+        "introduction": "4指不是极限，但一定是传说，丰富的控件适配，并有基本的MOD按键扩展。",
         "device": [
             0,
             1
@@ -158,8 +158,8 @@
     {
         "id": "15d8febe",
         "lang": "zh_CN",
-        "name": "[FCL]便捷触控键位1.4.7.8",
-        "introduction": "功能较为齐全，切换较为便捷，样式较为舒适，适用于史诗级战斗模组，但不支持烦村。",
+        "name": "[FCL]便捷触控键位",
+        "introduction": "功能较为齐全，切换较为便捷，样式较为舒适，适用于史诗级战斗模组，但未适配烦村。",
         "device": [
             0
         ],
@@ -173,8 +173,8 @@
     {
         "id": "6bf9394a",
         "lang": "en",
-        "name": "MBE-UM控件1.8.42.4 En",
-        "introduction": "The Mimic the Bedrock Edition controller",
+        "name": "MBE-UM控件1.8.43.1 En",
+        "introduction": "The Mimic the Bedrock Edition controller.Changelog(1.8.43.1):Fix bugs.",
         "device": [
             0
         ],
@@ -290,7 +290,7 @@
         "id": "e61bfb18",
         "lang": "zh_CN",
         "name": "Fire潮汐",
-        "introduction": "Fire潮汐 极简未来",
+        "introduction": "无简介，ExnalyTide Code将会替代Fire潮汐",
         "device": [
             0
         ],
@@ -303,7 +303,7 @@
         "id": "4bf3d919",
         "lang": "zh_CN",
         "name": "仿原神键位",
-        "introduction": "Default controller of Genshin Impact.Currently only available in Chinese",
+        "introduction": "Default controller of Genshin Impact.",
         "device": [
             0
         ],
