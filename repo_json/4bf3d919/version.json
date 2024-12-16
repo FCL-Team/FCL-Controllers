@@ -1,6 +1,6 @@
 {
   "author": "coMicBox",
-  "description": "为旅行者准备的实用键位。更新内容详见开始界面右下角[更新]按钮中的更新日志",
+  "description": "为旅行者准备的实用键位。更新内容详见开始界面右下角[更新]更新日志",
   "history": [
     {
       "versionCode": 2,
@@ -21,11 +21,15 @@
     {
       "versionCode": 9,
       "versionName": "5.1_v4[测试]"
+    },
+    {
+      "versionCode": 10,
+      "versionName": "5.2"
     }
   ],
   "latest": {
-    "versionCode": 10,
-    "versionName": "5.2"
+    "versionCode": 11,
+    "versionName": "5.2_v1"
   },
   "screenshot": 6
 }
