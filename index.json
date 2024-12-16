@@ -173,8 +173,8 @@
     {
         "id": "6bf9394a",
         "lang": "en",
-        "name": "MBE-UM控件1.8.42.4 En",
-        "introduction": "The Mimic the Bedrock Edition controller",
+        "name": "MBE-UM控件1.8.43.1 En",
+        "introduction": "The Mimic the Bedrock Edition controller.Changelog(1.8.43.1):Fix bugs.",
         "device": [
             0
         ],

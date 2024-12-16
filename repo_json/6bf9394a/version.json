@@ -1,10 +1,15 @@
 {
-  "author": "不想取名的阿peng",
-  "description": "The Mimic the Bedrock Edition controller",
-  "history": [],
+  "author": "不想取名的阿peng·mmdyzy",
+  "description": "The Mimic the Bedrock Edition controller.Changelog(1.8.43.1):Fix bugs.",
+  "history": [
+    {
+      "versionCode": 10842041,
+      "versionName": "1.8.42.4 En"
+    }
+  ],
   "latest": {
-    "versionCode": 10842041,
-    "versionName": "1.8.42.4 En"
+    "versionCode": 10843011,
+    "versionName": "1.8.43.1 En"
   },
   "screenshot": 3
 }
