@@ -1,6 +1,6 @@
 {
   "author": "TimonDessoj",
-  "description": "Fire潮汐 极简未来",
+  "description": "Fire潮汐 精简未来\\n冰雪冬季2.2.0",
   "history": [
     {
       "versionCode": 1,
@@ -33,11 +33,15 @@
     {
       "versionCode": 8,
       "versionName": "2.0.0a"
+    },
+    {
+      "versionCode": 9,
+      "versionName": "2.0.0"
     }
   ],
   "latest": {
-    "versionCode": 9,
-    "versionName": "2.0.0"
+    "versionCode": 10,
+    "versionName": "2.2.0"
   },
-  "screenshot": 9
+  "screenshot": 10
 }
