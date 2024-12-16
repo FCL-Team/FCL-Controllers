@@ -637,6 +637,19 @@
         "categories": [
             6
         ]
+    },
+    {
+        "id": "b47e66d7",
+        "lang": "all",
+        "name": "Minimalism极简",
+        "introduction": "Minimalism极简键位",
+        "device": [
+            0
+        ],
+        "categories": [
+            1,
+            3
+        ]
     }
 ]
 
