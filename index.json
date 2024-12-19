@@ -637,6 +637,19 @@
         "categories": [
             6
         ]
+    },
+    {
+        "categories": [
+            1,
+            6
+        ],
+        "device": [
+            0
+        ],
+        "id": "b8d5fg39",
+        "introduction": "Default controller of Genshin Impact.",
+        "lang": "en",
+        "name": "GIcontroller"
     }
 ]
 
