@@ -650,6 +650,19 @@
         "introduction": "Default controller of Genshin Impact.",
         "lang": "en",
         "name": "GIcontroller"
+    },
+    {
+      "categories": [
+        4
+      ],
+      "device": [
+        0,
+        2
+      ],
+      "id": "d5461e0b",
+      "introduction": "PVP键位",
+      "lang": "zh_CN",
+      "name": "NAS油条PVP键位"
     }
 ]
 
