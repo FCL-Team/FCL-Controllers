@@ -639,30 +639,18 @@
         ]
     },
     {
-        "categories": [
-            1,
-            6
-        ],
+        "id": "etc1db85",
+        "lang": "zh_CN",
+        "name": "ExnalyTide Code",
+        "introduction": "It\u0027s an excellent layout！！！",
         "device": [
             0
         ],
-        "id": "b8d5fg39",
-        "introduction": "Default controller of Genshin Impact.",
-        "lang": "en",
-        "name": "GIcontroller"
-    },
-    {
-      "categories": [
-        4
-      ],
-      "device": [
-        0,
-        2
-      ],
-      "id": "d5461e0b",
-      "introduction": "PVP键位",
-      "lang": "zh_CN",
-      "name": "NAS油条PVP键位"
+        "categories": [
+            1,
+            4,
+            6
+        ]
     }
 ]
 
