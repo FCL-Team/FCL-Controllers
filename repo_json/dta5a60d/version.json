@@ -1,6 +1,6 @@
 {
   "author": "TimonDessojQwQ",
-  "description": "此版本修复了前两个版本的通病，可以正常更新",
+  "description": "够完整（精简",
   "history": [
     {
       "versionCode": 1,
@@ -9,11 +9,15 @@
     {
       "versionCode": 2,
       "versionName": "0.10.1"
+    },
+    {
+      "versionCode": 3,
+      "versionName": "0.10.2"
     }
   ],
   "latest": {
-    "versionCode": 3,
-    "versionName": "0.10.2"
+    "versionCode": 4,
+    "versionName": "0.10.3"
   },
-  "screenshot": 7
+  "screenshot": 6
 }
