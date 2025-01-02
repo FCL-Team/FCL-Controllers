@@ -651,6 +651,19 @@
             4,
             6
         ]
+    },
+    {
+        "categories": [
+            4
+        ],
+        "device": [
+            0,
+            2
+        ],
+        "id": "d5461e0b",
+        "introduction": "PVP键位",
+        "lang": "zh_CN",
+        "name": "NAS油条PVP键位"
     }
 ]
 
