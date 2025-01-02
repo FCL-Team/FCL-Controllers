@@ -500,7 +500,7 @@
         "id": "dta5a60d",
         "lang": "zh_CN",
         "name": "FullsUI",
-        "introduction": "此版本修复了前两个版本的通病，可以正常更新",
+        "introduction": "够完整（精简",
         "device": [
             0
         ],
@@ -639,17 +639,17 @@
         ]
     },
     {
+        "id": "b8d5fg39",
+        "introduction": "Default controller of Genshin Impact.",
+        "lang": "en",
+        "name": "GIcontroller",
         "categories": [
             1,
             6
         ],
         "device": [
             0
-        ],
-        "id": "b8d5fg39",
-        "introduction": "Default controller of Genshin Impact.",
-        "lang": "en",
-        "name": "GIcontroller"
+        ]
     },
     {
         "categories": [
@@ -676,6 +676,20 @@
         "introduction": "简约、美观、整齐、功能、手感、创新、严谨   mc原潮",
         "lang": "zh_CN",
         "name": "低仿原神鸣潮键位布局"
+    },
+    {
+        "id": "etc1db85",
+        "lang": "zh_CN",
+        "name": "ExnalyTide Code",
+        "introduction": "It\u0027s an excellent layout！！！",
+        "device": [
+            0
+        ],
+        "categories": [
+            1,
+            6
+        ]
+
     }
 ]
 
