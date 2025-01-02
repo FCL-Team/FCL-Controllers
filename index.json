@@ -676,6 +676,19 @@
         "introduction": "简约、美观、整齐、功能、手感、创新、严谨   mc原潮",
         "lang": "zh_CN",
         "name": "低仿原神鸣潮键位布局"
+    },
+    {
+        "id": "etc1db85",
+        "lang": "zh_CN",
+        "name": "ExnalyTide Code",
+        "introduction": "It\u0027s an excellent layout！！！",
+        "device": [
+            0
+        ],
+        "categories": [
+            1,
+            6
+        ]
     }
 ]
 
