@@ -628,7 +628,7 @@
         "id": "899a1e2b",
         "lang": "zh_CN",
         "name": "真•全键盘",
-        "introduction": "真•全键盘，是UP主093883734在fcl经典键位上，改编的一款全键位键盘。方案一可以快速输入键盘；方案二的其他键盘可以拖动，不挡住屏幕；另外还有连点，保持按下，对于各领域玩家都很适用",
+        "introduction": "真•全键盘，是UP主093883734在fcl经典键位上，改编的一款全键位键盘。方案一可以快速输入键盘；方案二的其他键盘可以拖动，不挡住屏幕，方案四内置常用大部分指令，非常好用；另外还有连点，保持按下，对于各领域玩家都很适用",
         "device": [
             0,
             1,
@@ -652,17 +652,30 @@
         "name": "GIcontroller"
     },
     {
-      "categories": [
-        4
-      ],
-      "device": [
-        0,
-        2
-      ],
-      "id": "d5461e0b",
-      "introduction": "PVP键位",
-      "lang": "zh_CN",
-      "name": "NAS油条PVP键位"
+        "categories": [
+            4
+        ],
+        "device": [
+            0,
+            2
+        ],
+        "id": "d5461e0b",
+        "introduction": "PVP键位",
+        "lang": "zh_CN",
+        "name": "NAS油条PVP键位"
+    },
+    {
+        "categories": [
+            1,
+            6
+        ],
+        "device": [
+            0
+        ],
+        "id": "e5c85f4e",
+        "introduction": "简约、美观、整齐、功能、手感、创新、严谨   mc原潮",
+        "lang": "zh_CN",
+        "name": "低仿原神鸣潮键位布局"
     }
 ]
 
