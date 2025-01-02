@@ -664,6 +664,19 @@
         "introduction": "PVP键位",
         "lang": "zh_CN",
         "name": "NAS油条PVP键位"
+    },
+    {
+        "categories": [
+            1,
+            6
+        ],
+        "device": [
+            0
+        ],
+        "id": "e5c85f4e",
+        "introduction": "简约、美观、整齐、功能、手感、创新、严谨   mc原潮",
+        "lang": "zh_CN",
+        "name": "低仿原神鸣潮键位布局"
     }
 ]
 
