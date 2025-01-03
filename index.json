@@ -689,7 +689,20 @@
             1,
             6
         ]
-
+    },
+    {
+        "id": "2f0ceac4",
+        "lang": "zh_CN",
+        "name": "HY:FCL-JarExecutor",
+        "introduction": "根据 FCL Jar 运行器界面制作，适用于文本编辑界面。",
+        "device": [
+            0,
+            1,
+            2
+        ],
+        "categories": [
+            1
+        ]
     }
 ]
 
