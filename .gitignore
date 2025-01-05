@@ -1,2 +1,5 @@
 
 /keys
+/.idea
+.gitignore
+keep
