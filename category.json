@@ -17,11 +17,11 @@
         "lang": [
             {
                 "locale": "en",
-                "text": "Modpack"
+                "text": "mods"
             },
             {
                 "locale": "zh_CN",
-                "text": "整合包"
+                "text": "模组"
             }
         ]
     },
@@ -30,11 +30,11 @@
         "lang": [
             {
                 "locale": "en",
-                "text": "BE style"
+                "text": "imitation"
             },
             {
                 "locale": "zh_CN",
-                "text": "基岩版"
+                "text": "仿制"
             }
         ]
     },
@@ -53,19 +53,6 @@
     },
     {
         "id": 5,
-        "lang": [
-            {
-                "locale": "en",
-                "text": "Traffic"
-            },
-            {
-                "locale": "zh_CN",
-                "text": "交通"
-            }
-        ]
-    },
-    {
-        "id": 6,
         "lang": [
             {
                 "locale": "en",

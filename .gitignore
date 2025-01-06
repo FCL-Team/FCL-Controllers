@@ -1,2 +1,4 @@
-
-/keys
+/.idea
+keep
+*.gif
+*.jpg
