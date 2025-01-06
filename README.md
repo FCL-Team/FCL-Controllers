@@ -132,9 +132,9 @@ So we can display the details of the controller in the launcher.
 | ---- | ---- | ---- |
 | Universal | 1 | Contains all basic features |
 | Mods | 2 | Adapts to some mods |
-| Full keyboard | 3 | Contains full keyboard |
-| Imitate | 4 | Imitates controllers of another software |
-| PVP | 5 | Adapts to PVP games |
+| Imitate | 3 | Imitates controllers of another software |
+| PVP | 4 | Adapts to PVP games |
+| Full keyboard | 5 | Contains full keyboard |
 
 ### Request for a new category
 Make sure the new category doesn't exist.  
