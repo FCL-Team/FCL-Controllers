@@ -13,7 +13,7 @@ You can submit a Pull Request to this repository to contribute.
 ## How to upload your controllers
 
 1. **Read the controller uploading tutorial** (Only available in Simplified Chinese currently)
-  * [FCL Doc](https://docs.ningmo.fun/docs/cc.html)
+  * [FCL Doc](https://fcl-team.github.io/pages/documentation.html?path=/_controller/upload_controller.md)
   * [Tencent Document](https://docs.qq.com/doc/DWW9QZmJZSnVhU1lD) (Browser translation may not work)
   * [Video](https://b23.tv/izaMGCq)
 
