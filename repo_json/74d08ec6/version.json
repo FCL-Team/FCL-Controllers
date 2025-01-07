@@ -1,0 +1,10 @@
+{
+  "author": "Xy_Lose",
+  "description": "此布局以简洁实用为主，有一定上手难度，部分控件可使用不同触发方式触发不同功能，*为长按触发，+为双击触发。 \n此布局基于HMCL-PE Default二次创作，本人认为HMCL-PE的样式简洁美观、全键舒适易用、整体简洁以及缺乏功能性按键故在此基础上二次创作。\n 你可以自由二次修改并保留原作者名二次分发。注意：大改才能上架FCL内置“下载布局”，小修小改以及建议可在https://github.com/ysesiq/FCL-Controllers/tree/main提交issue或向https://space.bilibili.com/558094130发送私信;不可使用本布局盈利（应该也不会有人这么做？） \n This layout is mainly concise and practical, there is a certain degree of difficulty in getting started, and some controls can use different trigger methods to trigger different functions, which is triggered by long press, + is triggered by double click. \\nThis layout is based on the secondary creation of HMCL-PE Default, I think that the style of HMCL-PE is simple and beautiful, the full key is comfortable and easy to use, the overall simplicity and the lack of functional buttons, so I recreated it on this basis. \\n You are free to redistribute it with the original author's name retained. Note: Major changes can only be released on the FCL built-in \"download layout\", minor repairs and suggestions can be submitted at https://github.com/ysesiq/FCL-Controllers/tree/main or send a private message to https://space.bilibili.com/558094130; You can't use this layout to make money (and no one should do that?).",
+  "history": [],
+  "latest": {
+    "versionCode": 1000,
+    "versionName": "1.0.0"
+  },
+  "screenshot": 6
+}
