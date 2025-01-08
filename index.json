@@ -214,20 +214,6 @@
         ]
     },
     {
-        "id": "27aeff6e",
-        "lang": "zh_CN",
-        "name": "简洁",
-        "introduction": "很简洁",
-        "device": [
-            0
-        ],
-        "categories": [
-            1,
-            3,
-            5
-        ]
-    },
-    {
         "id": "353f2ee2",
         "lang": "zh_CN",
         "name": "MBE-UM控件1.8.54",
