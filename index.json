@@ -190,20 +190,6 @@
         ]
     },
     {
-        "id": "0294b868",
-        "lang": "zh_CN",
-        "name": "仿电脑键盘布局",
-        "introduction": "仿电脑版按键",
-        "device": [
-            0,
-            1
-        ],
-        "categories": [
-            1,
-            3
-        ]
-    },
-    {
         "id": "4a05f23c",
         "lang": "zh_CN",
         "name": "开车",
