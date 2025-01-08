@@ -13,7 +13,7 @@ FCL的控制器仓库。
 ## 如何上传您的控制器
 
 1. **阅读完整的控件提交教程**
-  * [FCL文档](https://docs.ningmo.fun/docs/cc.html)
+  * [FCL文档](https://fcl-team.github.io/pages/documentation.html?path=/_controller/upload_controller_zh_CN.md)
   * [腾讯文档](https://docs.qq.com/doc/DWW9QZmJZSnVhU1lD)
   * [视频](https://b23.tv/izaMGCq)
 
