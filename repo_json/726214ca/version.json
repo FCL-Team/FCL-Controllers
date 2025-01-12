@@ -1,10 +1,15 @@
 {
   "author": "SGDmanx3833",
-  "description": "都给我下载😡",
-  "history": [],
+  "description": "本体更新优化了按键布局，更符合人类使用习惯",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "v0.1beta"
+    }
+  ],
   "latest": {
-    "versionCode": 1,
-    "versionName": "v0.1beta"
+    "versionCode": 4,
+    "versionName": "v1.1.0"
   },
   "screenshot": 3
 }
