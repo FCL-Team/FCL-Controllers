@@ -1,6 +1,6 @@
 {
-  "author": "快手（B站或抖音）方块_闪耀星恒",
-  "description": "更新内容：1决绝了部分问题    2.在操作区嘴右下角新增自动前进按键，并且重新排班",
+  "author": "快手（B站或抖音）星芙AVA（原方块_闪耀星恒）",
+  "description": "更新内容：1决绝了部分问题    2.在操作区嘴右下角新增自动前进按键，并且重新排班  3.新增快捷键输入（只有两个）",
   "history": [
     {
     "versionCode": 1,
@@ -17,11 +17,15 @@
     {
       "versionCode": 4,
       "versionName": "1.3正式版"
+    },
+    {
+      "versionCode": 5,
+      "versionName": "1.3.5正式版"
     }
   ],
   "latest": {
-    "versionCode": 5,
-    "versionName": "1.3.5正式版"
+    "versionCode": 6,
+    "versionName": "1.4正式版"
   },
-  "screenshot": 10
+  "screenshot": 11
 }
