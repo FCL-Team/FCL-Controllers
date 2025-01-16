@@ -1,6 +1,6 @@
 {
   "author": "快手（B站或抖音）方块_闪耀星恒",
-  "description": "更新内容：1.新增作者国际基岩版三指键位2.修改了部分按键颜色，使辨识度高，3.国际基岩版新触控改版按键大小位置修改4.默认触控控件组按键较多，得到重新排序（滑动除外）5.在每个控制方向键新增自动前进6.新增鼠标双键保持（宏模式已装载，其他控件组除外）7.实装并且借鉴了bilibiliup主@小A大帅比拷打全渔舟部分功能（已经过同意）",
+  "description": "更新内容：1决绝了部分问题    2.在操作区嘴右下角新增自动前进按键，并且重新排班",
   "history": [
     {
     "versionCode": 1,
@@ -13,11 +13,15 @@
     {
       "versionCode": 3,
       "versionName": "1.2正式版"
+    },
+    {
+      "versionCode": 4,
+      "versionName": "1.3正式版"
     }
   ],
   "latest": {
-    "versionCode": 4,
-    "versionName": "1.3正式版"
+    "versionCode": 5,
+    "versionName": "1.3.5正式版"
   },
   "screenshot": 10
 }
