@@ -1,0 +1,15 @@
+{
+  "author": "littleboy",
+  "description": "酷似基岩版指针操控的按键",
+  "history": [
+    {
+      "versionCode": 202501161,
+      "versionName": "beta1"
+    }
+  ],
+  "latest": {
+    "versionCode": 202501172,
+    "versionName": "betanew2"
+  },
+  "screenshot": 3
+}
