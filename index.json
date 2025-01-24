@@ -448,6 +448,15 @@
     "name": "可恶の星穹列车"
   },
   {
+    "categories": [1, 5],
+    "device": [0, 1],
+    "id": "db7337cf",
+    "introduction": "简洁优秀的键位",
+    "lang": "zh_CN",
+    "name": "tortoiseUI"
+
+  },
+  {
     "id": "e5e2294f",
     "lang": "zh_CN",
     "name": "Master全功能键盘pro",

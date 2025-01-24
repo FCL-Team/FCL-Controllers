@@ -2,8 +2,10 @@
   "author": "coMicBox",
   "description": "Translated version into English",
   "history": [
-    "versionCode": 1,
-    "versionName": "1.0"
+    {
+      "versionCode": 1,
+      "versionName": "1.0"
+    }
   ],
   "latest": {
     "versionCode": 2,
