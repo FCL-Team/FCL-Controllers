@@ -1,6 +1,6 @@
 {
   "author": "TimonDessojQwQ",
-  "description": "重新开始维护",
+  "description": "Fire潮汐，极简未来",
   "history": [
     {
       "versionCode": 1,
@@ -49,11 +49,15 @@
     {
       "versionCode": 12,
       "versionName": "2.5.0"
+    },
+    {
+      "versionCode": 13,
+      "versionName": "2.6.0"
     }
   ],
   "latest": {
-    "versionCode": 13,
-    "versionName": "2.6.0"
+    "versionCode": 14,
+    "versionName": "2.7.0"
   },
-  "screenshot": 10
+  "screenshot": 4
 }
