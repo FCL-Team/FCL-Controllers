@@ -1,6 +1,6 @@
 {
-  "author": "TimonDessoj",
-  "description": "无简介，ExnalyTide Code将会替代Fire潮汐",
+  "author": "TimonDessojQwQ",
+  "description": "重新开始维护",
   "history": [
     {
       "versionCode": 1,
@@ -41,11 +41,19 @@
     {
       "versionCode": 10,
       "versionName": "2.2.0"
+    },
+    {
+      "versionCode": 11,
+      "versionName": "2.4.0-End"
+    },
+    {
+      "versionCode": 12,
+      "versionName": "2.5.0"
     }
   ],
   "latest": {
-    "versionCode": 11,
-    "versionName": "2.4.0-End"
+    "versionCode": 13,
+    "versionName": "2.6.0"
   },
-  "screenshot": 6
+  "screenshot": 10
 }
