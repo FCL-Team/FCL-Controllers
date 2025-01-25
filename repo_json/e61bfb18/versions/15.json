@@ -1,8 +1,8 @@
 {
   "id": "e61bfb18",
   "name": "Fire潮汐",
-  "version": "2.6.0",
-  "versionCode": 13,
+  "version": "3.0.0",
+  "versionCode": 15,
   "author": "TimonDessojQwQ",
   "description": "Fire潮汐，极简未来",
   "controllerVersion": 20,
@@ -458,9 +458,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [],
                 "bindViewGroup": [
                   "60237f64-029a-458b-84ab-421235396c25"
                 ]
@@ -505,10 +503,10 @@
           },
           {
             "id": "d9255fa8-9ebb-462d-ba08-c94943160d37",
-            "text": "Alt\n快捷",
+            "text": "Tab\n快捷",
             "style": "Fire",
             "baseInfo": {
-              "visibilityType": "MENU",
+              "visibilityType": "ALWAYS",
               "xPosition": 390,
               "yPosition": 45,
               "sizeType": "PERCENTAGE",
@@ -536,7 +534,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [
-                  56
+                  15
                 ],
                 "bindViewGroup": []
               },
@@ -656,7 +654,7 @@
             "text": "Esc\n回退",
             "style": "Fire",
             "baseInfo": {
-              "visibilityType": "MENU",
+              "visibilityType": "ALWAYS",
               "xPosition": 335,
               "yPosition": 45,
               "sizeType": "PERCENTAGE",
@@ -1176,10 +1174,10 @@
           },
           {
             "id": "87232073-a5e8-460d-b27e-7a3887f6d83d",
-            "text": "",
-            "style": "Fire3",
+            "text": "+\nMode",
+            "style": "Fire",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 80,
               "yPosition": 45,
               "sizeType": "PERCENTAGE",
@@ -1195,7 +1193,7 @@
               }
             },
             "event": {
-              "pointerFollow": true,
+              "pointerFollow": false,
               "Movable": false,
               "pressEvent": {
                 "autoKeep": false,
@@ -1206,10 +1204,10 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
-                "bindViewGroup": []
+                "outputKeycodes": [],
+                "bindViewGroup": [
+                  "0126d659-8cc5-40db-9c53-10acc1f007de"
+                ]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -2533,7 +2531,7 @@
                 "bindViewGroup": []
               },
               "doubleClickEvent": {
-                "autoKeep": false,
+                "autoKeep": true,
                 "autoClick": false,
                 "openMenu": false,
                 "switchTouchMode": false,
@@ -2541,7 +2539,9 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [],
+                "outputKeycodes": [
+                  42
+                ],
                 "bindViewGroup": []
               }
             }
@@ -2927,8 +2927,8 @@
             "style": "Fire",
             "baseInfo": {
               "visibilityType": "IN_GAME",
-              "xPosition": 935,
-              "yPosition": 165,
+              "xPosition": 930,
+              "yPosition": 170,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -2995,6 +2995,83 @@
                 "bindViewGroup": []
               }
             }
+          },
+          {
+            "id": "147bd73f-a00e-4960-857f-52479197dd74",
+            "text": "",
+            "style": "Bedrock",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 240,
+              "yPosition": 1000,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 45
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 45
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  33
+                ],
+                "bindViewGroup": []
+              },
+              "longPressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "clickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "doubleClickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  16
+                ],
+                "bindViewGroup": []
+              }
+            }
           }
         ],
         "directionList": []
@@ -3040,8 +3117,8 @@
                 "outputText": "",
                 "outputKeycodes": [],
                 "bindViewGroup": [
-                  "e2435521-0c45-4e27-aea1-f5b81f87c844",
-                  "7185401c-4e6b-4a7a-aeb8-f09b233e1ed0"
+                  "7185401c-4e6b-4a7a-aeb8-f09b233e1ed0",
+                  "e2435521-0c45-4e27-aea1-f5b81f87c844"
                 ]
               },
               "longPressEvent": {
@@ -3274,6 +3351,241 @@
       }
     },
     {
+      "id": "0126d659-8cc5-40db-9c53-10acc1f007de",
+      "name": "游戏-控制-功能",
+      "visibility": "INVISIBLE",
+      "viewData": {
+        "buttonList": [
+          {
+            "id": "e71b0598-d40f-4bb0-abe7-4e61d0a55cda",
+            "text": "久持\nMouse-R",
+            "style": "Fire",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 100,
+              "yPosition": 175,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 45
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 45
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": true,
+                "autoClick": true,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  1002
+                ],
+                "bindViewGroup": []
+              },
+              "longPressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "clickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "doubleClickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "53c48a44-ccc8-44f2-8274-a4c4432b5b1b",
+            "text": "久持\nSpace",
+            "style": "Fire",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 150,
+              "yPosition": 175,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 45
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 45
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": true,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  57
+                ],
+                "bindViewGroup": []
+              },
+              "longPressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "clickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "doubleClickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "91d27abb-de61-47fa-91f1-da513658e297",
+            "text": "久持\nMouse-L",
+            "style": "Fire",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 50,
+              "yPosition": 175,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 45
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 45
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": true,
+                "autoClick": true,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  1000
+                ],
+                "bindViewGroup": []
+              },
+              "longPressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "clickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "doubleClickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              }
+            }
+          }
+        ],
+        "directionList": []
+      }
+    },
+    {
       "id": "7185401c-4e6b-4a7a-aeb8-f09b233e1ed0",
       "name": "游戏-控制1",
       "visibility": "INVISIBLE",
@@ -3311,9 +3623,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29
-                ],
+                "outputKeycodes": [],
                 "bindViewGroup": [
                   "e2435521-0c45-4e27-aea1-f5b81f87c844",
                   "7185401c-4e6b-4a7a-aeb8-f09b233e1ed0"
@@ -3465,9 +3775,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29
-                ],
+                "outputKeycodes": [],
                 "bindViewGroup": [
                   "15257574-2182-4559-863f-d833db073375",
                   "7185401c-4e6b-4a7a-aeb8-f09b233e1ed0",
@@ -3555,7 +3863,7 @@
           {
             "id": "106eee86-f45e-427b-a6c3-b00695bd460d",
             "text": "F2",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 195,
@@ -3630,7 +3938,7 @@
           {
             "id": "ab9c4b1e-bb86-4928-94ec-ef16f239417a",
             "text": "F1",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 150,
@@ -3705,7 +4013,7 @@
           {
             "id": "75e8d9a6-778g-4dea-b7c4-bc10e909e5f8",
             "text": "F3",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 240,
@@ -3780,7 +4088,7 @@
           {
             "id": "d0a7b9ab-5720-4cce-bd7b-0e2410772bc0",
             "text": "F5",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 330,
@@ -3855,7 +4163,7 @@
           {
             "id": "5f64d2cd-etx5-41bc-b0f4-86a9bd7f278a",
             "text": "F4",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 285,
@@ -3930,7 +4238,7 @@
           {
             "id": "00a23812-d1fb-4fa5-aafc-09a896448f52",
             "text": "F12",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 645,
@@ -4005,7 +4313,7 @@
           {
             "id": "30d7329e-7b60-45fc-90fb-eeba4dccc12e",
             "text": "F8",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 465,
@@ -4080,7 +4388,7 @@
           {
             "id": "6746d692-9dec-4f62-9010-8da0adbf5406",
             "text": "F11",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 600,
@@ -4155,7 +4463,7 @@
           {
             "id": "da101629-3e3d-4560-8a15-911e0ce63492",
             "text": "F10",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 555,
@@ -4230,7 +4538,7 @@
           {
             "id": "7452ff8b-adb2-4eed-990f-e14d63691c8e",
             "text": "F7",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 420,
@@ -4305,7 +4613,7 @@
           {
             "id": "888p05c0-cf81-4712-8c85-3650d3d73ec6",
             "text": "F6",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 375,
@@ -4378,7 +4686,7 @@
           {
             "id": "601ba7b5-a3d2-4709-9df0-1e2aa0bdfc73",
             "text": "F9",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 510,
@@ -4453,7 +4761,7 @@
           {
             "id": "c1a4fd5d-a4a3-45b0-8f35-84b865a88b24",
             "text": "Q",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 130,
@@ -4528,7 +4836,7 @@
           {
             "id": "btae8a6e-8a15-4664-b380-0c806eb82b54",
             "text": "E",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 220,
@@ -4603,7 +4911,7 @@
           {
             "id": "30fdc1c3-2f51-4832-b7f1-dbaa28ce4bac",
             "text": "R",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 265,
@@ -4678,7 +4986,7 @@
           {
             "id": "27a8407d-860c-4dcf-88b2-f7387b48ec27",
             "text": "T",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 310,
@@ -4753,7 +5061,7 @@
           {
             "id": "b4ffbfa3-303d-48c1-abcd-eacecd8edc14",
             "text": "F",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 275,
@@ -4828,7 +5136,7 @@
           {
             "id": "ffa7b1ae-c5de-4cd5-TDfg-e72c450c4eb0",
             "text": "G",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 320,
@@ -4903,7 +5211,7 @@
           {
             "id": "44cbafca-6ad1-4ce2-8245-2c38ea78d32a",
             "text": "Z",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 160,
@@ -4978,7 +5286,7 @@
           {
             "id": "87a7afd6-c3c7-4ab1-8f7a-i8b14800xa24",
             "text": "X",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 205,
@@ -5053,7 +5361,7 @@
           {
             "id": "2b2t4016-bf86-47b1-aca7-4838a62b1418",
             "text": "C",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 250,
@@ -5128,7 +5436,7 @@
           {
             "id": "87bce4ef-b3f3-41c5-8cc1-6cd6c84e2cbe",
             "text": "V",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 295,
@@ -5201,7 +5509,7 @@
           {
             "id": "40ee6a30-e44d-4fbd-8a57-1e58008f4831",
             "text": "Y",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 355,
@@ -5276,7 +5584,7 @@
           {
             "id": "36dd4635-f32e-4d08-a85f-d7e8ee6a3d02",
             "text": "U",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 400,
@@ -5351,7 +5659,7 @@
           {
             "id": "d4d6c1d8-b22a-4524-876e-837cb4f3c43a",
             "text": "I",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 445,
@@ -5426,7 +5734,7 @@
           {
             "id": "8f8fda57-c414-4b44-a15c-633ea710cc6d",
             "text": "O",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 490,
@@ -5501,7 +5809,7 @@
           {
             "id": "30f7bc16-02e2-415d-a643-7cb7a2886887",
             "text": "P",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 535,
@@ -5576,7 +5884,7 @@
           {
             "id": "30a6ef38-c80f-4b78-8d34-15bdf84bb8f1",
             "text": "H",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 365,
@@ -5651,7 +5959,7 @@
           {
             "id": "700ecaf1-db48-4863-a84d-a1d68773d380",
             "text": "J",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 410,
@@ -5726,7 +6034,7 @@
           {
             "id": "1addon1c-0aab-4a64-8875-cf65a3a82252",
             "text": "K",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 455,
@@ -5801,7 +6109,7 @@
           {
             "id": "7118de85-66ca-40ae-8a6a-64ec6d1e31ff",
             "text": "L",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 500,
@@ -5876,7 +6184,7 @@
           {
             "id": "3f2e44e0-7f0d-446c-b7fe-6c1e8847bd5b",
             "text": "B",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 340,
@@ -5951,7 +6259,7 @@
           {
             "id": "1ee5a256-10a7-4d87-8baf-e5688b833fa0",
             "text": "N",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 385,
@@ -6026,7 +6334,7 @@
           {
             "id": "c14f33ab-ccdd-4316-a2b1-784cc404080c",
             "text": "M",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 430,
@@ -6101,7 +6409,7 @@
           {
             "id": "beb1c2c0-c18a-7350-a36a-fc32c4da5f26",
             "text": "Shift",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 73,
@@ -6176,7 +6484,7 @@
           {
             "id": "c4rtx27c-de77-463d-b328-47843678f70f",
             "text": "W",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 175,
@@ -6251,7 +6559,7 @@
           {
             "id": "870eab80-0fbc-4c87-a08a-001db88e612f",
             "text": "A",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 140,
@@ -6326,7 +6634,7 @@
           {
             "id": "0f2amd46-ef3e-4c88-88ca-cf81453c0b18",
             "text": "S",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 185,
@@ -6401,7 +6709,7 @@
           {
             "id": "2b2tce68-ff83-4d50-b514-6d16b54cd708",
             "text": "D",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 230,
@@ -6476,7 +6784,7 @@
           {
             "id": "a85c37c1-7a13-4c45-b361-386d788b1d2b",
             "text": "CapsLock",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 70,
@@ -6551,7 +6859,7 @@
           {
             "id": "5t8f1752-bd8b-4713-8cfc-c17a013db838",
             "text": "TAB",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 70,
@@ -6626,7 +6934,7 @@
           {
             "id": "8c7a04eb-61f1-44a2-b862-f13833121128",
             "text": "ENTER",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 928,
@@ -6701,7 +7009,7 @@
           {
             "id": "813d65c6-4683-4764-af8e-86bb48b788f6",
             "text": "CTRL",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 70,
@@ -6776,7 +7084,7 @@
           {
             "id": "f1080f78-878a-4517-b67b-c13a6d76f623",
             "text": "ALT",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 160,
@@ -6851,7 +7159,7 @@
           {
             "id": "731cdca8-2d8b-4a1f-88d6-e6a38132a552",
             "text": "Fire潮汐",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 278,
@@ -6926,7 +7234,7 @@
           {
             "id": "1060b7e2-28a1-487b-80b8-b83b7dfcb704",
             "text": "⥣",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 790,
@@ -7001,7 +7309,7 @@
           {
             "id": "a33fe713-85eb-4fe6-abbe-a46f8f6842be",
             "text": "⥥",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 790,
@@ -7076,7 +7384,7 @@
           {
             "id": "5db2d28c-6ca5-4d87-8db5-14pro106e3bb",
             "text": "⥢",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 745,
@@ -7151,7 +7459,7 @@
           {
             "id": "dc11e638-07db-41ac-835c-26dbedfe48e1",
             "text": "⥤",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 835,
@@ -7226,7 +7534,7 @@
           {
             "id": "fd48a4c1-e486-4640-ba20-38257fb0c80e",
             "text": "Home",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 790,
@@ -7301,7 +7609,7 @@
           {
             "id": "5a778gef-4f1b-4306-ba78-563488452ad3",
             "text": "Del",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 745,
@@ -7376,7 +7684,7 @@
           {
             "id": "d4de1f45-1016-4f12-abc7-2c3e2eda8338",
             "text": "PgUp",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 790,
@@ -7451,7 +7759,7 @@
           {
             "id": "8a8123b8-e17b-42d1-aa58-c34fb63b0fc8",
             "text": "PgDn",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 745,
@@ -7526,7 +7834,7 @@
           {
             "id": "a25adf5e-20e5-4a04-8e45-rtx0dc7c3e2c",
             "text": "ins",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 745,
@@ -7601,7 +7909,7 @@
           {
             "id": "81e4bf65-f281-4111-8038-38708ff71d08",
             "text": "End",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 790,
@@ -7676,7 +7984,7 @@
           {
             "id": "874c386d-3d5e-4ea1-bc25-808eb1f72ca0",
             "text": "Shift",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 670,
@@ -7751,7 +8059,7 @@
           {
             "id": "bb7cbd71-c0ce-4dc3-bec0-3c8cd0a2ee81",
             "text": "",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 684,
@@ -7829,7 +8137,7 @@
           {
             "id": "a5cbccd7-c1cd-41b4-bbd5-e36f71a03638",
             "text": "Win",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 115,
@@ -7904,7 +8212,7 @@
           {
             "id": "e87a4615-9001-4060-b67b-3206c67a3cde",
             "text": "［",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 580,
@@ -7979,7 +8287,7 @@
           {
             "id": "09d6480d-59eb-49f0-8ba4-6a2a4f257835",
             "text": "2",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 160,
@@ -8054,7 +8362,7 @@
           {
             "id": "2bed243b-a85b-4557-bc92-787bd58db51e",
             "text": "1",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 115,
@@ -8129,7 +8437,7 @@
           {
             "id": "d33b1f32-2871-4158-bbcd-c3f45942a0df",
             "text": "\u0027",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 590,
@@ -8204,7 +8512,7 @@
           {
             "id": "be73fcd4-0813-49cf-b4ad-de70bac228ac",
             "text": "］",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 625,
@@ -8279,7 +8587,7 @@
           {
             "id": "275f9d70-3ace-4343-b9a1-78f149774ba3",
             "text": ";",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 545,
@@ -8354,7 +8662,7 @@
           {
             "id": "e8d41b35-a754-4c83-9d82-7121907e3f2e",
             "text": "Enter",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 690,
@@ -8429,7 +8737,7 @@
           {
             "id": "9df142ef-f191-450e-93fb-1e87f1f9b3ee",
             "text": "",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 693,
@@ -8504,7 +8812,7 @@
           {
             "id": "aa58f2f9-1261-4870-8ec3-968f021caab6",
             "text": "\\",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 635,
@@ -8579,7 +8887,7 @@
           {
             "id": "1d5c0457-ac01-4278-b739-8109053ba487",
             "text": ",",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 475,
@@ -8654,7 +8962,7 @@
           {
             "id": "c9706110-edbf-4015-a4e1-b8d78a2b5c09",
             "text": ".",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 520,
@@ -8729,7 +9037,7 @@
           {
             "id": "a38224bc-6830-4cbc-8a5e-68f5f2afb0a0",
             "text": "/",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 565,
@@ -8804,7 +9112,7 @@
           {
             "id": "c1ce2483-782d-4057-a630-499cfdb7e066",
             "text": "CTRL",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 697,
@@ -8879,7 +9187,7 @@
           {
             "id": "acf88271-947c-4cf0-a685-a07044226c47",
             "text": "Menu",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 645,
@@ -8954,7 +9262,7 @@
           {
             "id": "87b3823b-b563-4308-a7c4-c6aaff638152",
             "text": "Win",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 583,
@@ -9029,7 +9337,7 @@
           {
             "id": "015a3a95-b336-4b43-a17e-b505a7a92e1e",
             "text": "Alt",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 520,
@@ -9104,7 +9412,7 @@
           {
             "id": "d500ee73-66f4-40d7-a2c5-a126b52e29a5",
             "text": "9",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 475,
@@ -9179,7 +9487,7 @@
           {
             "id": "728ca38d-2e88-4c71-9e74-254dfc45abdd",
             "text": "8",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 430,
@@ -9254,7 +9562,7 @@
           {
             "id": "b9987116-487f-4502-9b34-6bdf20bf56a5",
             "text": "7",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 385,
@@ -9329,7 +9637,7 @@
           {
             "id": "7f3b7a09-c93f-4c9b-bed2-789c73c115b3",
             "text": "6",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 340,
@@ -9404,7 +9712,7 @@
           {
             "id": "4920ac0a-1783-4a0a-9dce-da2bff9763ae",
             "text": "5",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 295,
@@ -9479,7 +9787,7 @@
           {
             "id": "77ccd500-7724-4108-baea-98114a3dd30f",
             "text": "4",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 250,
@@ -9554,7 +9862,7 @@
           {
             "id": "4c955087-6f83-4a77-afce-67520992675b",
             "text": "3",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 205,
@@ -9629,7 +9937,7 @@
           {
             "id": "0a947f5e-7eca-4343-832e-d2cad85b2962",
             "text": "、",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 70,
@@ -9704,7 +10012,7 @@
           {
             "id": "e4a3b7ce-ceae-479e-a9db-a601f207f00c",
             "text": "0",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 520,
@@ -9779,7 +10087,7 @@
           {
             "id": "91cc8b35-cac8-4250-a347-db636a925419",
             "text": "-",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 565,
@@ -9854,7 +10162,7 @@
           {
             "id": "5485181f-6aa6-4f2f-9ce0-cab1367c5a2e",
             "text": "\u003d",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 609,
@@ -9929,7 +10237,7 @@
           {
             "id": "bfaa88ea-2b85-4597-8c51-4b00ff5a3d9e",
             "text": "ESC",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 70,
@@ -10007,7 +10315,7 @@
           {
             "id": "735c56c3-a226-4f94-aade-8d047bc432ce",
             "text": "1",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 840,
@@ -10082,7 +10390,7 @@
           {
             "id": "1e4c624b-151f-4487-be71-c6eac406ee11",
             "text": "2",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 885,
@@ -10157,7 +10465,7 @@
           {
             "id": "f3a930e9-e799-4d53-a9da-31adc04cfd0b",
             "text": "3",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 930,
@@ -10232,7 +10540,7 @@
           {
             "id": "50c683ae-e0dc-490d-82e6-2757523708c2",
             "text": "4",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 840,
@@ -10307,7 +10615,7 @@
           {
             "id": "591c278e-da9c-441a-b2e0-ef5867fe82e8",
             "text": "5",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 885,
@@ -10382,7 +10690,7 @@
           {
             "id": "67fba797-540a-467a-ab07-de3537c4f4ba",
             "text": "6",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 930,
@@ -10457,7 +10765,7 @@
           {
             "id": "49dc95d8-7f8d-4172-9c73-8eb07318ca30",
             "text": "7",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 840,
@@ -10532,7 +10840,7 @@
           {
             "id": "f9f2b8a1-ea80-4954-823a-fc114fcba45a",
             "text": "8",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 885,
@@ -10607,7 +10915,7 @@
           {
             "id": "499c86be-1304-4c2b-acb7-0c292b6dda77",
             "text": "9",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 930,
@@ -10682,7 +10990,7 @@
           {
             "id": "bfca1370-d941-4db0-8bd7-917fb149c7b4",
             "text": "0",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 885,
@@ -10757,7 +11065,7 @@
           {
             "id": "a7475e00-067c-4b4d-9689-9f0e32291023",
             "text": "Num",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 840,
@@ -10832,7 +11140,7 @@
           {
             "id": "f8186583-8cd1-4e2d-aadc-e1d89b00a5dc",
             "text": ".",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 930,
@@ -10907,7 +11215,7 @@
           {
             "id": "ad0b33ce-feca-45c7-a86a-6f73202ae0f3",
             "text": "Prt",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 745,
@@ -10982,7 +11290,7 @@
           {
             "id": "9c626bd7-c325-4973-aca7-bfb7c3cab408",
             "text": "Scr",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 790,
@@ -11057,7 +11365,7 @@
           {
             "id": "cd1d99d5-e3cb-45a9-80da-5e6d9e4ae547",
             "text": "Pau",
-            "style": "Fire1",
+            "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
               "xPosition": 835,
@@ -11211,8 +11519,8 @@
             "style": "Fire",
             "baseInfo": {
               "visibilityType": "MENU",
-              "xPosition": 500,
-              "yPosition": 135,
+              "xPosition": 25,
+              "yPosition": 250,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -16193,7 +16501,7 @@
         "buttonList": [
           {
             "id": "12bee7d5-b57e-45b5-b3ef-49e3d0e4bbcb",
-            "text": "Welcome\n欢迎使用Fire潮汐\n\n版本：2.6.0",
+            "text": "Welcome\n欢迎使用Fire潮汐\n\n版本：3.0.0",
             "style": "Fire4",
             "baseInfo": {
               "visibilityType": "ALWAYS",
@@ -16793,7 +17101,7 @@
           },
           {
             "id": "4302b9b5-2c74-4682-bbb2-5e902e80e0a2",
-            "text": "Fire潮汐 原季\n\n版本：2.6.0\n版号：DTY260\n-----------------------\n更新内容:\n1.整改全键功能\n2.修复全键BUG\n3.-\n4.主页进行翻改\n5.适配模组控件\n\nby TimonDessojQwQ",
+            "text": "Fire潮汐\n\n版本：3.0.0\n版号：FED300\n-----------------------\n更新内容:\n1.整改全键功能\n2.修复21个BUG\n3.加入Mode功能\n4.主页进行翻改\n\nby TimonDessojQwQ",
             "style": "Fire4",
             "baseInfo": {
               "visibilityType": "ALWAYS",
