@@ -13,11 +13,15 @@
     {
       "versionCode": 3,
       "versionName": "0.10.2"
+    },
+    {
+      "versionCode": 4,
+      "versionName": "0.10.3"
     }
   ],
   "latest": {
-    "versionCode": 4,
-    "versionName": "0.10.3"
+    "versionCode": 7,
+    "versionName": "0.10.6"
   },
-  "screenshot": 6
+  "screenshot": 5
 }
