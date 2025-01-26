@@ -1,6 +1,6 @@
 {
-  "author": "littleboy",
-  "description": "酷似基岩版指针操控的按键",
+  "author": "little boy",
+  "description": "酷似基岩版指针操控的按键，内置扩展功能。QQ反馈群号：1026604258",
   "history": [
     {
       "versionCode": 202501161,
@@ -13,11 +13,15 @@
     {
       "versionCode": 2025011801,
       "versionName": "beta3"
+    },
+    {
+      "versionCode": 2025011901,
+      "versionName": "beta4"
     }
   ],
   "latest": {
-    "versionCode": 2025011901,
-    "versionName": "beta4"
+    "versionCode": 2025012101,
+    "versionName": "aerfa1"
   },
   "screenshot": 3
 }
