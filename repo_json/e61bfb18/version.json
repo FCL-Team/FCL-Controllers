@@ -57,11 +57,15 @@
     {
       "versionCode": 14,
       "versionName": "2.7.0"
+    },
+    {
+      "versionCode": 15,
+      "versionName": "3.0.0"
     }
   ],
   "latest": {
-    "versionCode": 15,
-    "versionName": "3.0.0"
+    "versionCode": 16,
+    "versionName": "3.1.0"
   },
-  "screenshot": 9
+  "screenshot": 7
 }
