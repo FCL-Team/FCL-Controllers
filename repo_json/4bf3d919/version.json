@@ -1,6 +1,6 @@
 {
   "author": "coMicBox",
-  "description": "为旅行者准备的实用键位。详细更新内容详见开始屏幕右下角[更新]内更新日志",
+  "description": "海灯节快乐！详细更新内容详见开始屏幕右下角『\uD83D\uDCF0』公告内更新日志",
   "history": [
     {
       "versionCode": 2,
@@ -29,11 +29,15 @@
     {
       "versionCode": 11,
       "versionName": "5.2_v1"
+    },
+    {
+      "versionCode": 13,
+      "versionName": "5.3"
     }
   ],
   "latest": {
-    "versionCode": 13,
-    "versionName": "5.3"
+    "versionCode": 14,
+    "versionName": "5.3_v1"
   },
   "screenshot": 6
 }

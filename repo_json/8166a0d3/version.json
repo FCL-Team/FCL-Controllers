@@ -1,15 +1,19 @@
 {
   "author": "EricaV4",
-  "description": "整合包 生电 TACz的首选键位 按键简洁 1.8.9~1.21.4",
+  "description": "通用性极高的键位 可适配整合包以及TACz等模组",
   "history": [
     {
       "versionCode": 1303,
       "versionName": "b13.3"
+    },
+    {
+      "versionCode": 1403,
+      "versionName": "b14.3"
     }
   ],
   "latest": {
-    "versionCode": 1403,
-    "versionName": "b14.3"
+    "versionCode": 14041,
+    "versionName": "b14.4ONE"
   },
-  "screenshot": 7
+  "screenshot": 9
 }
