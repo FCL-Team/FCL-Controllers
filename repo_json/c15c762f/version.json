@@ -1,0 +1,10 @@
+{
+  "author": "原作者：BiliBili-小陌_S",
+  "description": "修复了功能键不能使用的bug，修复了全键pro/pvp键位返回后没有MORE和MOD按键的bug",
+  "history": [],
+  "latest": {
+    "versionCode": 1,
+    "versionName": "0.5.6.1_unofficial"
+  },
+  "screenshot": 5
+}
