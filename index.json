@@ -42,7 +42,7 @@
   {
     "id": "8e8f5abf",
     "lang": "zh_CN",
-    "name": "“键”易布局-生存版",
+    "name": "“键”易键位|通用版|版本6",
     "introduction": "专注于场景的模块化键位，底部布局不挡游戏画面，简约美观，适配多种手机DPI。",
     "device": [0, 1, 2],
     "categories": [1, 5]
@@ -50,7 +50,7 @@
   {
     "id": "3f94c447",
     "lang": "all",
-    "name": "“键”易布局-World Edit版",
+    "name": "“键”易键位|World Edit版|版本3",
     "introduction": "专注于场景的模块化键位，底部布局不挡游戏画面，简约美观，适配多种手机DPI。",
     "device": [0, 1, 2],
     "categories": [1, 2, 5]
@@ -58,7 +58,7 @@
   {
     "id": "1109b6f6",
     "lang": "zh_CN",
-    "name": "“键”易布局-PvP版",
+    "name": "“键”易键位|PVP版|版本4",
     "introduction": "专注于场景的模块化键位，底部布局不挡游戏画面，简约美观，适配多种手机DPI。",
     "device": [0, 1, 2],
     "categories": [4, 5]
@@ -66,7 +66,7 @@
   {
     "id": "4427c72d",
     "lang": "zh_CN",
-    "name": "“键”易布局-指令版",
+    "name": "“键”易键位|指令版|版本5",
     "introduction": "专注于场景的模块化键位，底部布局不挡游戏画面，简约美观，适配多种手机DPI。",
     "device": [0, 1, 2],
     "categories": [1, 5]
@@ -74,7 +74,7 @@
   {
     "id": "e24e8e09",
     "lang": "zh_CN",
-    "name": "“键”易布局-Replay Mod版",
+    "name": "“键”易键位|Replay Mod版|版本4",
     "introduction": "专注于场景的模块化键位，底部布局不挡游戏画面，简约美观，适配多种手机DPI。",
     "device": [0, 1, 2],
     "categories": [1, 2, 5]
