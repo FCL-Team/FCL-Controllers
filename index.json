@@ -478,5 +478,13 @@
     "introduction": "这是专门为录制mod提供后期剪辑的键位个人觉得挺好用的",
     "device": [0, 1, 2],
     "categories": [1]
+  },
+  {
+    "id": "5ff7cbf6",
+    "lang": "zh_CN",
+    "name": "仿绝区零键位",
+    "introduction": "世界全剧终，欢迎来到新艾利都",
+    "device": [0, 1, 2],
+    "categories": [1, 3]
   }
 ]
