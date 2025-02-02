@@ -1,67 +1,80 @@
 [
-    {
-        "id": 1,
-        "lang": [
-            {
-                "locale": "en",
-                "text": "Universal"
-            },
-            {
-                "locale": "zh_CN",
-                "text": "通用"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "lang": [
-            {
-                "locale": "en",
-                "text": "mods"
-            },
-            {
-                "locale": "zh_CN",
-                "text": "模组"
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "lang": [
-            {
-                "locale": "en",
-                "text": "imitation"
-            },
-            {
-                "locale": "zh_CN",
-                "text": "仿制"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "lang": [
-            {
-                "locale": "en",
-                "text": "PVP"
-            },
-            {
-                "locale": "zh_CN",
-                "text": "PVP"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "lang": [
-            {
-                "locale": "en",
-                "text": "Full keyboard"
-            },
-            {
-                "locale": "zh_CN",
-                "text": "全键盘"
-            }
-        ]
-    }
+  {
+    "id": 1,
+    "lang": [
+      {
+        "locale": "en",
+        "text": "Universal"
+      },
+      {
+        "locale": "zh_CN",
+        "text": "通用"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "lang": [
+      {
+        "locale": "en",
+        "text": "mods"
+      },
+      {
+        "locale": "zh_CN",
+        "text": "模组"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "lang": [
+      {
+        "locale": "en",
+        "text": "imitation"
+      },
+      {
+        "locale": "zh_CN",
+        "text": "仿制"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "lang": [
+      {
+        "locale": "en",
+        "text": "PVP"
+      },
+      {
+        "locale": "zh_CN",
+        "text": "PVP"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "lang": [
+      {
+        "locale": "en",
+        "text": "Full keyboard"
+      },
+      {
+        "locale": "zh_CN",
+        "text": "全键盘"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "lang": [
+      {
+        "locale": "en",
+        "text": "Style"
+      },
+      {
+        "locale": "zh_CN",
+        "text": "样式"
+      }
+    ]
+  }
 ]
