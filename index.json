@@ -486,5 +486,13 @@
     "introduction": "世界全剧终，欢迎来到新艾利都",
     "device": [0, 1, 2],
     "categories": [1, 3]
+  },
+  {
+    "categories": [6],
+    "device": [0, 1, 2],
+    "id": "01e2cb7e",
+    "introduction": "此布局提供了38种控件样式和38种方向键样式。",
+    "lang": "all",
+    "name": "76种控件样式"
   }
 ]
