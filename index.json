@@ -213,7 +213,7 @@
     "name": "〖星霜〗轻量版",
     "introduction": "轻量、简约、美观       \n(一定要看图片，有提醒的哦！)",
     "device": [0],
-    "categories": [1, 2, 6]
+    "categories": [1, 2, 5]
   },
   {
     "id": "9e6f85df",
@@ -429,7 +429,7 @@
     "id": "8166a0d3",
     "introduction": "通用性极高的键位 可适配整合包以及TACz等模组",
     "lang": "zh_CN",
-    "name": "AugStart 正式版b14.4 ONE"
+    "name": "AugStart 正式版b15.1"
   },
   {
     "categories": [1, 5],
@@ -494,5 +494,13 @@
     "introduction": "此布局提供了38种控件样式和38种方向键样式。",
     "lang": "all",
     "name": "76种控件样式"
+  },
+  {
+    "categories": [1, 5],
+    "device": [0],
+    "id": "8554f4f9",
+    "introduction": "新手友好键位，功能全、操作易，拍照不遮挡，畅玩Minecraft！",
+    "lang": "zh_CN",
+    "name": "「FCL」Novice生存"
   }
 ]
