@@ -502,5 +502,13 @@
     "introduction": "新手友好键位，功能全、操作易，拍照不遮挡，畅玩Minecraft！",
     "lang": "zh_CN",
     "name": "「FCL」Novice生存"
+  },
+  {
+    "categories": [1, 5],
+    "device": [0],
+    "id": "e8e11c3f",
+    "introduction": "Fire潮汐首个完整版",
+    "lang": "all",
+    "name": "Fire潮汐 Next"
   }
 ]
