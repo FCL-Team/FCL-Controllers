@@ -1,10 +1,15 @@
 {
   "author": "TimonDessojQwQ",
   "description": "Fire潮汐首个完整版",
-  "history": [],
+  "history": [
+    {
+      "versionCode": 10000,
+      "versionName": "Preview_CN01"
+    }
+  ],
   "latest": {
-    "versionCode": 10000,
-    "versionName": "Preview_CN01"
+    "versionCode": 10001,
+    "versionName": "Preview_CB02"
   },
-  "screenshot": 11
+  "screenshot": 14
 }
