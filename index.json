@@ -477,7 +477,7 @@
     "name": "ReplayMod回放键位",
     "introduction": "这是专门为录制mod提供后期剪辑的键位个人觉得挺好用的",
     "device": [0, 1, 2],
-    "categories": [1]
+    "categories": [2]
   },
   {
     "id": "5ff7cbf6",
