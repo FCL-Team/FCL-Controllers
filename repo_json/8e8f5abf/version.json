@@ -13,11 +13,15 @@
     {
       "versionCode": 5,
       "versionName": "生存版v5 | 作者：B站妙狗国国王"
+    },
+    {
+      "versionCode": 6,
+      "versionName": "通用版|版本6"
     }
   ],
   "latest": {
-    "versionCode": 6,
-    "versionName": "通用版|版本6"
+    "versionCode": 7,
+    "versionName": "通用版|版本7"
   },
   "screenshot": 5
 }
