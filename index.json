@@ -48,8 +48,16 @@
     "categories": [1, 5]
   },
   {
+    "id": "876c1afb",
+    "lang": "en",
+    "name": "KeyEasy|General Ver.|Ver.7",
+    "introduction": "Focus on the modular controller for scenarios. The bottom controller doesn't block the game screen. It's simple, beautiful and compatible with various mobile phone DPIs.",
+    "device": [0, 1, 2],
+    "categories": [1, 5]
+  },
+  {
     "id": "3f94c447",
-    "lang": "all",
+    "lang": "zh_CN",
     "name": "“键”易键位|World Edit版|版本3",
     "introduction": "专注于场景的模块化键位，底部布局不挡游戏画面，简约美观，适配多种手机DPI。",
     "device": [0, 1, 2],
