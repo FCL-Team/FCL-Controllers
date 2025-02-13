@@ -323,7 +323,7 @@
             "style": "xljy:文本_FFF_30sp",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 100,
+              "xPosition": 70,
               "yPosition": 150,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
@@ -392,7 +392,7 @@
           },
           {
             "id": "d427685d-10dc-4ac4-83e1-7c729eedc281",
-            "text": "\nThe names of the view groups of this key contain visibility.\nFor example, \"In-Right\" represents the buttons on the right side of the in-game screen.\nHowever, there are individual buttons that do not follow this rule, which requires attention.\n\nThe buttons\u0027 styles of this key all have the prefix \"xljy:\".\n\nIf you are familiar with the logic of the button groups of this key,\nYou can modify and publish it.\n\nNote\nIf you want to publish, please indicate the original author!\nAll secondary modified keys that do not indicate the original author will be reported and dealt with!\n\nCOPYLEFT  2023~Now  XiaoluoFoxington  洛狐  Bilibili妙狗国国王",
+            "text": "\nThe names of the view groups of this controller contain visibility.\nFor example, \"内-右边\" represents the buttons on the right side of the in-game screen.\nHowever, there are individual buttons that do not follow this rule, which requires attention.\n\nThe buttons\u0027 styles of this controller all have the prefix \"xljy:\".\n\nIf you are familiar with the logic of the button groups of this controller,\nYou can modify and publish it.\n\nNote\nIf you want to publish, please indicate the original author!\nAll secondary modified controllers that do not indicate the original author will be reported and dealt with!\n\nCOPYLEFT  2023~Now  XiaoluoFoxington  洛狐  Bilibili妙狗国国王",
             "style": "xljy:纯色-C0404040",
             "baseInfo": {
               "visibilityType": "ALWAYS",
@@ -403,7 +403,7 @@
               "absoluteHeight": 50,
               "percentageWidth": {
                 "reference": "SCREEN_WIDTH",
-                "size": 500
+                "size": 550
               },
               "percentageHeight": {
                 "reference": "SCREEN_WIDTH",
@@ -476,7 +476,7 @@
               "absoluteHeight": 50,
               "percentageWidth": {
                 "reference": "SCREEN_WIDTH",
-                "size": 500
+                "size": 550
               },
               "percentageHeight": {
                 "reference": "SCREEN_WIDTH",
@@ -13388,7 +13388,7 @@
           },
           {
             "id": "98b70c2d-d963-42d0-b1c6-27d0664f7345",
-            "text": "What did I just do?\n\nYou either long-pressed the \"F1\" button at the bottom or clicked \"Transparent Layout\" from the main menu.\n\nThe buttons of this layout only have the basic jump and sneak, and they are all transparent!\nThe positions of these buttons are the same as the default layout.\n\nClick the top left corner of the screen to return to the default layout.\nClick the top right corner of the screen to hide/show the game HUD.\n\nThis layout is suitable for screen recording and display.\n",
+            "text": "What did I just do?\n\nYou either long-pressed the \"F1\" button at the bottom or clicked \"Transparent\" Layout from the main menu.\n\nThe buttons of this layout only have the basic jump and sneak, and they are all transparent!\nThe positions of these buttons are the same as the default layout.\n\nClick the top left corner of the screen to return to the default layout.\nClick the top right corner of the screen to hide/show the game HUD.\n\nThis layout is suitable for screen recording and display.\n",
             "style": "xljy:文本-FFF",
             "baseInfo": {
               "visibilityType": "ALWAYS",
@@ -14816,7 +14816,7 @@
           },
           {
             "id": "79b0850f-4bc2-4d77-bb1f-6a3bdfcd8ca0",
-            "text": "controller series\nSeries version\ncontroller version\nVersion date\nIs it a test version\n\ncontroller author\nBilibili name\nBilibili UID\n\nModular inspiration source\nBilibili UID\n\n\n\n\n\n\n\n\n\n\n\n",
+            "text": "controller series\nSeries version\ncontroller version\nVersion date\nIs it a test version\n\ncontroller author\nBilibili name\nBilibili UID\nDiscord\n\nModular inspiration source\nBilibili UID\n\n\n\n\n\n\n\n\n\n\n\n",
             "style": "xljy:文本-6sp",
             "baseInfo": {
               "visibilityType": "ALWAYS",
@@ -14889,7 +14889,7 @@
           },
           {
             "id": "c447464c-9edd-42ed-9279-9de34710146b",
-            "text": "\"KeyEasy\" controllers\nGeneral ver.\n7\nFebruary 12, 2025\nNo\n\nXiaoluoFoxington\n妙狗国国王\n1561166904\n\nmmzydy\n1901945375\n\n\n\n\n\n\n\n\n\n\n\n",
+            "text": "\"KeyEasy\" controllers\nGeneral ver.\n7\nFebruary 12, 2025\nNo\n\nXiaoluoFoxington\n妙狗国国王\n1561166904\nxiaoluo_foxington\n\nmmzydy\n1901945375\n\n\n\n\n\n\n\n\n\n\n\n",
             "style": "xljy:文本-6sp",
             "baseInfo": {
               "visibilityType": "ALWAYS",
