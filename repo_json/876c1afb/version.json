@@ -1,0 +1,10 @@
+{
+  "author": "Bilibili妙狗国国王",
+  "description": "- Features\n- - \"Modular\" design\n- - - Separate sub-controllers were made for different scenarios (currently only this sub-controller has been translated into English); one controller focuses on one thing! At the same time, it is not bloated like other controllers that integrate all scenarios.\n- - \"All-bottom\" design\n- - - The main buttons of this controller are almost located at the bottom of the screen; there is no need to worry about the buttons blocking the game screen, and there is no need to worry even if more modules are added.\n- - Simple and beautiful\n- - - This controller has a simple button style and a clear and understandable interface design; this controller is not an imitation controller, so compared with other imitation types of controllers, it has no fancy buttons and interfaces, and no useless decorative interfaces that can only be seen but not clicked.\n- - Almost compatible with common mobile phone DPIs\n- - - The button text is abnormally large after importing the controller? That\u0027s because this controller is not adapted to your mobile phone DPI! This controller has been tested and is almost perfectly compatible with common mobile phone DPIs!\n- Feedback, suggestions, and urge for updates QQ group:\n- - 211870840​\n- - - Group password: JYJW-YYDS​\n- Everyone is welcome to create third-party sub-buttons based on this series! Please note the original author!\n",
+  "history": [],
+  "latest": {
+    "versionCode": 7,
+    "versionName": "General ver.|ver.7"
+  },
+  "screenshot": 4
+}
