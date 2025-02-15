@@ -1,6 +1,6 @@
 {
   "author": "wssst",
-  "description": "简洁明了有全键盘以及指令页，适合普通玩家使用，添加部分模组快捷键(不定时更新)，拓展性强(可以在快捷键添加类似x+c这种组合按键等)，控件组标记清楚，会修改可自行拓展；“按键样式使用了B站妙狗国国王的bedjava”",
+  "description": "简洁明了有全键盘以及指令页，适合普通玩家使用，添加部分模组按键(不定时更新)，控件组标记清楚，会修改可自行拓展；“按键样式使用了B站妙狗国国王的bedjava”",
   "history": [
     {
       "versionCode": 1,
@@ -24,8 +24,8 @@
     }
   ],
   "latest": {
-    "versionCode": 6,
-    "versionName": "2.0"
+    "versionCode": 7,
+    "versionName": "2.1"
   },
-  "screenshot": 6
+  "screenshot": 5
 }
