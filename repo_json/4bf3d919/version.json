@@ -1,6 +1,6 @@
 {
   "author": "coMicBox",
-  "description": "海灯节快乐！详细更新内容详见开始屏幕右下角『\uD83D\uDCF0』公告内更新日志",
+  "description": "详细更新内容详见控件开始屏幕右下角『📰』公告内更新日志",
   "history": [
     {
       "versionCode": 2,
@@ -36,8 +36,8 @@
     }
   ],
   "latest": {
-    "versionCode": 14,
-    "versionName": "5.3_v1"
+    "versionCode": 15,
+    "versionName": "5.4"
   },
-  "screenshot": 6
+  "screenshot": 5
 }
