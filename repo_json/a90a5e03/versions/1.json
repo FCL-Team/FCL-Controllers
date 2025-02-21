@@ -1978,9 +1978,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  18
-                ],
+                "outputKeycodes": [18],
                 "bindViewGroup": []
               },
               "doubleClickEvent": {
@@ -2053,9 +2051,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  33
-                ],
+                "outputKeycodes": [33],
                 "bindViewGroup": []
               },
               "doubleClickEvent": {
@@ -2128,9 +2124,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  16
-                ],
+                "outputKeycodes": [16],
                 "bindViewGroup": []
               },
               "doubleClickEvent": {
@@ -2179,9 +2173,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1003
-                ],
+                "outputKeycodes": [1003],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2254,9 +2246,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1004
-                ],
+                "outputKeycodes": [1004],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2340,9 +2330,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "f7a845da-d7ce-4530-b76e-156b1baa024f"
-                ]
+                "bindViewGroup": ["f7a845da-d7ce-4530-b76e-156b1baa024f"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -2414,9 +2402,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2499,9 +2485,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29
-                ],
+                "outputKeycodes": [29],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2574,9 +2558,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  28
-                ],
+                "outputKeycodes": [28],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2649,9 +2631,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  42
-                ],
+                "outputKeycodes": [42],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2724,9 +2704,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
+                "outputKeycodes": [20],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2799,9 +2777,7 @@
                 "input": true,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
+                "outputKeycodes": [20],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2874,9 +2850,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  15
-                ],
+                "outputKeycodes": [15],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2949,9 +2923,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  14
-                ],
+                "outputKeycodes": [14],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -3024,9 +2996,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  59
-                ],
+                "outputKeycodes": [59],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -3099,9 +3069,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61
-                ],
+                "outputKeycodes": [61],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -3174,9 +3142,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  16
-                ],
+                "outputKeycodes": [16],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -3249,9 +3215,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  56
-                ],
+                "outputKeycodes": [56],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -3324,9 +3288,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  62
-                ],
+                "outputKeycodes": [62],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -3399,9 +3361,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  34
-                ],
+                "outputKeycodes": [34],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -3474,9 +3434,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  19
-                ],
+                "outputKeycodes": [19],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -3550,9 +3508,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"
-                ]
+                "bindViewGroup": ["2bc49fb8-c5e6-4124-b525-46ee8fe927e3"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -3634,9 +3590,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  63
-                ],
+                "outputKeycodes": [63],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -3710,9 +3664,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e"
-                ]
+                "bindViewGroup": ["40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -3784,9 +3736,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -4015,13 +3965,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
-                "bindViewGroup": [
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "43f21d30-fd36-4232-9cad-a76a9a60eebc"
-                ]
+                "outputKeycodes": [20],
+                "bindViewGroup": ["0830343f-c056-43a1-b4e2-515fe30afaee", "43f21d30-fd36-4232-9cad-a76a9a60eebc"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -4093,9 +4038,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -4169,9 +4112,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2482529d-a553-4067-9427-153fcc498680"
-                ]
+                "bindViewGroup": ["2482529d-a553-4067-9427-153fcc498680"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -4253,9 +4194,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  57
-                ],
+                "outputKeycodes": [57],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -4328,9 +4267,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1001
-                ],
+                "outputKeycodes": [1001],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -4403,9 +4340,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1003
-                ],
+                "outputKeycodes": [1003],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -4478,9 +4413,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1004
-                ],
+                "outputKeycodes": [1004],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -4626,9 +4559,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1000
-                ],
+                "outputKeycodes": [1000],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -4701,9 +4632,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1002
-                ],
+                "outputKeycodes": [1002],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -4777,9 +4706,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "a26d93fb-5c3a-4a84-9fe8-63693c6a6e5c"
-                ]
+                "bindViewGroup": ["a26d93fb-5c3a-4a84-9fe8-63693c6a6e5c"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -4851,9 +4778,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  57
-                ],
+                "outputKeycodes": [57],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -4926,9 +4851,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  42
-                ],
+                "outputKeycodes": [42],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -5002,9 +4925,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "6a3066d4-3b69-477c-ab67-2aa26c5f46d1"
-                ]
+                "bindViewGroup": ["6a3066d4-3b69-477c-ab67-2aa26c5f46d1"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -5125,9 +5046,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1000
-                ],
+                "outputKeycodes": [1000],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -5200,9 +5119,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1002
-                ],
+                "outputKeycodes": [1002],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -5285,9 +5202,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1000
-                ],
+                "outputKeycodes": [1000],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -5360,9 +5275,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1002
-                ],
+                "outputKeycodes": [1002],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -5445,9 +5358,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  57
-                ],
+                "outputKeycodes": [57],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -5484,10 +5395,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "91591ddd-3168-41fe-9e72-4029f492e76a",
-                  "23710b55-861b-436c-908d-06bb1f4d23fb"
-                ]
+                "bindViewGroup": ["91591ddd-3168-41fe-9e72-4029f492e76a", "23710b55-861b-436c-908d-06bb1f4d23fb"]
               }
             }
           },
@@ -5547,9 +5455,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  18
-                ],
+                "outputKeycodes": [18],
                 "bindViewGroup": []
               },
               "doubleClickEvent": {
@@ -5608,9 +5514,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  57
-                ],
+                "outputKeycodes": [57],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -5647,10 +5551,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "91591ddd-3168-41fe-9e72-4029f492e76a",
-                  "23710b55-861b-436c-908d-06bb1f4d23fb"
-                ]
+                "bindViewGroup": ["91591ddd-3168-41fe-9e72-4029f492e76a", "23710b55-861b-436c-908d-06bb1f4d23fb"]
               }
             }
           },
@@ -5686,9 +5587,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  42
-                ],
+                "outputKeycodes": [42],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -5725,10 +5624,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "91591ddd-3168-41fe-9e72-4029f492e76a",
-                  "23710b55-861b-436c-908d-06bb1f4d23fb"
-                ]
+                "bindViewGroup": ["91591ddd-3168-41fe-9e72-4029f492e76a", "23710b55-861b-436c-908d-06bb1f4d23fb"]
               }
             }
           },
@@ -5788,9 +5684,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  18
-                ],
+                "outputKeycodes": [18],
                 "bindViewGroup": []
               },
               "doubleClickEvent": {
@@ -5888,9 +5782,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1002
-                ],
+                "outputKeycodes": [1002],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -5963,9 +5855,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  57
-                ],
+                "outputKeycodes": [57],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -6038,9 +5928,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  42
-                ],
+                "outputKeycodes": [42],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -6113,9 +6001,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29
-                ],
+                "outputKeycodes": [29],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -6188,9 +6074,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1000
-                ],
+                "outputKeycodes": [1000],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -6336,9 +6220,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1001
-                ],
+                "outputKeycodes": [1001],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -6412,9 +6294,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "3203acd3-9ab5-47dc-8940-fd0216ffe491"
-                ]
+                "bindViewGroup": ["3203acd3-9ab5-47dc-8940-fd0216ffe491"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -6486,9 +6366,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1003
-                ],
+                "outputKeycodes": [1003],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -6561,9 +6439,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1004
-                ],
+                "outputKeycodes": [1004],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -6637,9 +6513,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8688d924-f704-429b-9e12-1bc49eb9839c"
-                ]
+                "bindViewGroup": ["8688d924-f704-429b-9e12-1bc49eb9839c"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -6721,9 +6595,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1002
-                ],
+                "outputKeycodes": [1002],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -6796,9 +6668,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1000
-                ],
+                "outputKeycodes": [1000],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -6881,9 +6751,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1000
-                ],
+                "outputKeycodes": [1000],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -6956,9 +6824,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1002
-                ],
+                "outputKeycodes": [1002],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -7041,9 +6907,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  57
-                ],
+                "outputKeycodes": [57],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -7116,9 +6980,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  42
-                ],
+                "outputKeycodes": [42],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -7264,9 +7126,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
+                "outputKeycodes": [20],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -7339,9 +7199,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -7414,9 +7272,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  18
-                ],
+                "outputKeycodes": [18],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -7489,9 +7345,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  33
-                ],
+                "outputKeycodes": [33],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -7564,9 +7418,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  16
-                ],
+                "outputKeycodes": [16],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -7664,15 +7516,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "a7595be0-0705-488b-9786-c055f7e4aa0e",
-                  "e9544b3b-d4da-4372-8c8d-514c144638eb",
-                  "28c12971-5263-4e95-bcbf-dd9ee7551bd4",
-                  "0f618ea1-3531-44f9-adc2-24953cdc6269",
-                  "8528c877-d7bd-40b6-b9e2-1bbba5073494",
-                  "cde5ca31-f0ad-4d26-882c-04611f93af70",
-                  "3ba9f5e6-f76a-442c-8d22-069b1bd5b377"
-                ]
+                "bindViewGroup": ["a7595be0-0705-488b-9786-c055f7e4aa0e", "e9544b3b-d4da-4372-8c8d-514c144638eb", "28c12971-5263-4e95-bcbf-dd9ee7551bd4", "0f618ea1-3531-44f9-adc2-24953cdc6269", "8528c877-d7bd-40b6-b9e2-1bbba5073494", "cde5ca31-f0ad-4d26-882c-04611f93af70", "3ba9f5e6-f76a-442c-8d22-069b1bd5b377"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -7721,9 +7565,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "e54ac5af-1301-470a-8478-70b7f3c0c30b"
-                ]
+                "bindViewGroup": ["e54ac5af-1301-470a-8478-70b7f3c0c30b"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -7835,9 +7677,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1000
-                ],
+                "outputKeycodes": [1000],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -7910,9 +7750,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1002
-                ],
+                "outputKeycodes": [1002],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -7985,9 +7823,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  42
-                ],
+                "outputKeycodes": [42],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -8060,9 +7896,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29
-                ],
+                "outputKeycodes": [29],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -8135,9 +7969,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1004
-                ],
+                "outputKeycodes": [1004],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -8210,9 +8042,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1003
-                ],
+                "outputKeycodes": [1003],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -8285,9 +8115,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  18
-                ],
+                "outputKeycodes": [18],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -8433,9 +8261,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  16
-                ],
+                "outputKeycodes": [16],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -8508,9 +8334,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  33
-                ],
+                "outputKeycodes": [33],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -8583,9 +8407,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29
-                ],
+                "outputKeycodes": [29],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -8658,9 +8480,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  42
-                ],
+                "outputKeycodes": [42],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -8733,9 +8553,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -8808,9 +8626,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  57
-                ],
+                "outputKeycodes": [57],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -8883,9 +8699,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1002
-                ],
+                "outputKeycodes": [1002],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -8958,9 +8772,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1002
-                ],
+                "outputKeycodes": [1002],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -9033,9 +8845,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1000
-                ],
+                "outputKeycodes": [1000],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -9108,9 +8918,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1000
-                ],
+                "outputKeycodes": [1000],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -9510,9 +9318,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e"
-                ]
+                "bindViewGroup": ["40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -10534,9 +10340,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e"
-                ]
+                "bindViewGroup": ["40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -10609,10 +10413,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e",
-                  "b8c4f2f0-8562-4e61-8918-4fe345c481f6"
-                ]
+                "bindViewGroup": ["40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e", "b8c4f2f0-8562-4e61-8918-4fe345c481f6"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -10685,10 +10486,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e",
-                  "2482529d-a553-4067-9427-153fcc498680"
-                ]
+                "bindViewGroup": ["40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e", "2482529d-a553-4067-9427-153fcc498680"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -10761,10 +10559,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e",
-                  "b27b6abb-f563-492a-9c87-02630dff9973"
-                ]
+                "bindViewGroup": ["40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e", "b27b6abb-f563-492a-9c87-02630dff9973"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -10837,10 +10632,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e",
-                  "b27b6abb-f563-492a-9c87-02630dff9973"
-                ]
+                "bindViewGroup": ["40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e", "b27b6abb-f563-492a-9c87-02630dff9973"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -11507,10 +11299,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e",
-                  "2482529d-a553-4067-9427-153fcc498680"
-                ]
+                "bindViewGroup": ["40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e", "2482529d-a553-4067-9427-153fcc498680"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -11656,10 +11445,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e",
-                  "2482529d-a553-4067-9427-153fcc498680"
-                ]
+                "bindViewGroup": ["40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e", "2482529d-a553-4067-9427-153fcc498680"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -12034,10 +11820,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8780983a-cc8c-4eda-8136-9225f9e7a91f",
-                  "c0bfaa11-18ae-482a-9fc9-d1ff9e9a0633"
-                ]
+                "bindViewGroup": ["8780983a-cc8c-4eda-8136-9225f9e7a91f", "c0bfaa11-18ae-482a-9fc9-d1ff9e9a0633"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -12085,9 +11868,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  47
-                ],
+                "outputKeycodes": [47],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -12160,9 +11941,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  15
-                ],
+                "outputKeycodes": [15],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -12308,9 +12087,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
+                "outputKeycodes": [20],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -12383,9 +12160,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  14
-                ],
+                "outputKeycodes": [14],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -12458,9 +12233,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  103
-                ],
+                "outputKeycodes": [103],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -12533,9 +12306,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  108
-                ],
+                "outputKeycodes": [108],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -12608,9 +12379,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  105
-                ],
+                "outputKeycodes": [105],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -12683,9 +12452,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  106
-                ],
+                "outputKeycodes": [106],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -12758,10 +12525,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29,
-                  30
-                ],
+                "outputKeycodes": [29, 30],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -12834,10 +12598,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29,
-                  46
-                ],
+                "outputKeycodes": [29, 46],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -12910,10 +12671,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29,
-                  47
-                ],
+                "outputKeycodes": [29, 47],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -13023,12 +12781,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8780983a-cc8c-4eda-8136-9225f9e7a91f",
-                  "cde5ca31-f0ad-4d26-882c-04611f93af70",
-                  "8528c877-d7bd-40b6-b9e2-1bbba5073494",
-                  "a7595be0-0705-488b-9786-c055f7e4aa0e"
-                ]
+                "bindViewGroup": ["8780983a-cc8c-4eda-8136-9225f9e7a91f", "cde5ca31-f0ad-4d26-882c-04611f93af70", "8528c877-d7bd-40b6-b9e2-1bbba5073494", "a7595be0-0705-488b-9786-c055f7e4aa0e"]
               }
             }
           }
@@ -13464,10 +13217,7 @@
                 "quickInput": false,
                 "outputText": "/summon tnt",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d350ee34-f4fa-4fb7-9f8a-54c35123a989",
-                  "07366b0d-3193-4d01-9944-ef4904f4a9e5"
-                ]
+                "bindViewGroup": ["d350ee34-f4fa-4fb7-9f8a-54c35123a989", "07366b0d-3193-4d01-9944-ef4904f4a9e5"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -13589,9 +13339,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "07366b0d-3193-4d01-9944-ef4904f4a9e5"
-                ]
+                "bindViewGroup": ["07366b0d-3193-4d01-9944-ef4904f4a9e5"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -14063,10 +13811,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d350ee34-f4fa-4fb7-9f8a-54c35123a989",
-                  "feab0bc7-dade-4024-b9e1-43cb1d3106bd"
-                ]
+                "bindViewGroup": ["d350ee34-f4fa-4fb7-9f8a-54c35123a989", "feab0bc7-dade-4024-b9e1-43cb1d3106bd"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -14295,9 +14040,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "b8c4f2f0-8562-4e61-8918-4fe345c481f6"
-                ]
+                "bindViewGroup": ["b8c4f2f0-8562-4e61-8918-4fe345c481f6"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -14358,10 +14101,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "b8c4f2f0-8562-4e61-8918-4fe345c481f6",
-                  "920d79fb-5048-4c63-9d77-6576c472303c"
-                ]
+                "bindViewGroup": ["b8c4f2f0-8562-4e61-8918-4fe345c481f6", "920d79fb-5048-4c63-9d77-6576c472303c"]
               },
               "clickEvent": {
                 "autoKeep": false,
@@ -17717,9 +17457,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "27221bb1-46b9-4fa2-ad41-af6dc641b95f"
-                ]
+                "bindViewGroup": ["27221bb1-46b9-4fa2-ad41-af6dc641b95f"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -17791,9 +17529,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61
-                ],
+                "outputKeycodes": [61],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -17876,13 +17612,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
-                "bindViewGroup": [
-                  "43f21d30-fd36-4232-9cad-a76a9a60eebc",
-                  "0830343f-c056-43a1-b4e2-515fe30afaee"
-                ]
+                "outputKeycodes": [20],
+                "bindViewGroup": ["43f21d30-fd36-4232-9cad-a76a9a60eebc", "0830343f-c056-43a1-b4e2-515fe30afaee"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -17954,9 +17685,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  63
-                ],
+                "outputKeycodes": [63],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -18029,13 +17758,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  1
-                ],
-                "bindViewGroup": [
-                  "a51354b4-abc5-4ae3-bd97-04438a794d66"
-                ]
+                "outputKeycodes": [61, 1],
+                "bindViewGroup": ["a51354b4-abc5-4ae3-bd97-04438a794d66"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -18482,12 +18206,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  60
-                ],
-                "bindViewGroup": [
-                  "c0bfaa11-18ae-482a-9fc9-d1ff9e9a0633"
-                ]
+                "outputKeycodes": [60],
+                "bindViewGroup": ["c0bfaa11-18ae-482a-9fc9-d1ff9e9a0633"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -18560,9 +18280,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c0bfaa11-18ae-482a-9fc9-d1ff9e9a0633"
-                ]
+                "bindViewGroup": ["c0bfaa11-18ae-482a-9fc9-d1ff9e9a0633"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -18644,9 +18362,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -18720,9 +18436,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "f7a845da-d7ce-4530-b76e-156b1baa024f"
-                ]
+                "bindViewGroup": ["f7a845da-d7ce-4530-b76e-156b1baa024f"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -18794,9 +18508,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  18
-                ],
+                "outputKeycodes": [18],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -18869,9 +18581,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  33
-                ],
+                "outputKeycodes": [33],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -18956,10 +18666,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29,
-                  16
-                ],
+                "outputKeycodes": [29, 16],
                 "bindViewGroup": []
               },
               "clickEvent": {
@@ -18971,9 +18678,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  16
-                ],
+                "outputKeycodes": [16],
                 "bindViewGroup": []
               },
               "doubleClickEvent": {
@@ -19022,9 +18727,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1004
-                ],
+                "outputKeycodes": [1004],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -19097,9 +18800,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1003
-                ],
+                "outputKeycodes": [1003],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -19256,10 +18957,7 @@
                 "quickInput": false,
                 "outputText": "/effect clear @p",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2df06db5-bae6-4151-81ab-c3f0b8632b4c",
-                  "cde5ca31-f0ad-4d26-882c-04611f93af70"
-                ]
+                "bindViewGroup": ["2df06db5-bae6-4151-81ab-c3f0b8632b4c", "cde5ca31-f0ad-4d26-882c-04611f93af70"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -19415,10 +19113,7 @@
                 "quickInput": false,
                 "outputText": "/effect give @p minecraft:night_vision 999999 0 true",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "cde5ca31-f0ad-4d26-882c-04611f93af70",
-                  "2df06db5-bae6-4151-81ab-c3f0b8632b4c"
-                ]
+                "bindViewGroup": ["cde5ca31-f0ad-4d26-882c-04611f93af70", "2df06db5-bae6-4151-81ab-c3f0b8632b4c"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -19501,9 +19196,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"
-                ]
+                "bindViewGroup": ["2bc49fb8-c5e6-4124-b525-46ee8fe927e3"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -19576,9 +19269,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8780983a-cc8c-4eda-8136-9225f9e7a91f"
-                ]
+                "bindViewGroup": ["8780983a-cc8c-4eda-8136-9225f9e7a91f"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -19650,9 +19341,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  46
-                ],
+                "outputKeycodes": [46],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -19738,9 +19427,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8528c877-d7bd-40b6-b9e2-1bbba5073494"
-                ]
+                "bindViewGroup": ["8528c877-d7bd-40b6-b9e2-1bbba5073494"]
               },
               "clickEvent": {
                 "autoKeep": false,
@@ -19835,12 +19522,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d0d76f50-9857-4470-90ee-78421fa7cf4f",
-                  "59c9833f-d733-43be-91c9-7d54b3fec97e",
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "a7595be0-0705-488b-9786-c055f7e4aa0e"
-                ]
+                "bindViewGroup": ["d0d76f50-9857-4470-90ee-78421fa7cf4f", "59c9833f-d733-43be-91c9-7d54b3fec97e", "0830343f-c056-43a1-b4e2-515fe30afaee", "a7595be0-0705-488b-9786-c055f7e4aa0e"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -19913,12 +19595,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d0d76f50-9857-4470-90ee-78421fa7cf4f",
-                  "2c3b2ae7-887a-4c58-b86b-70b9be2c4311",
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "a7595be0-0705-488b-9786-c055f7e4aa0e"
-                ]
+                "bindViewGroup": ["d0d76f50-9857-4470-90ee-78421fa7cf4f", "2c3b2ae7-887a-4c58-b86b-70b9be2c4311", "0830343f-c056-43a1-b4e2-515fe30afaee", "a7595be0-0705-488b-9786-c055f7e4aa0e"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -19991,9 +19668,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "b3bdcd2e-5c96-4b9f-b6ac-8f655ae3ecb6"
-                ]
+                "bindViewGroup": ["b3bdcd2e-5c96-4b9f-b6ac-8f655ae3ecb6"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -20066,9 +19741,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "bef132c9-9ef7-4645-b2d5-aace1949efbb"
-                ]
+                "bindViewGroup": ["bef132c9-9ef7-4645-b2d5-aace1949efbb"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -20141,13 +19814,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d0d76f50-9857-4470-90ee-78421fa7cf4f",
-                  "c44ad612-191f-4543-b849-cb732f9d27b3",
-                  "5ee1556f-561e-4fc6-acdf-604e7bcd0ccf",
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "a7595be0-0705-488b-9786-c055f7e4aa0e"
-                ]
+                "bindViewGroup": ["d0d76f50-9857-4470-90ee-78421fa7cf4f", "c44ad612-191f-4543-b849-cb732f9d27b3", "5ee1556f-561e-4fc6-acdf-604e7bcd0ccf", "0830343f-c056-43a1-b4e2-515fe30afaee", "a7595be0-0705-488b-9786-c055f7e4aa0e"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -20352,9 +20019,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "bef132c9-9ef7-4645-b2d5-aace1949efbb"
-                ]
+                "bindViewGroup": ["bef132c9-9ef7-4645-b2d5-aace1949efbb"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -20427,9 +20092,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "bef132c9-9ef7-4645-b2d5-aace1949efbb"
-                ]
+                "bindViewGroup": ["bef132c9-9ef7-4645-b2d5-aace1949efbb"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -20804,9 +20467,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "4fb1da7c-c0bd-4281-9bb9-8cd14f28cade"
-                ]
+                "bindViewGroup": ["4fb1da7c-c0bd-4281-9bb9-8cd14f28cade"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -20879,9 +20540,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "4fb1da7c-c0bd-4281-9bb9-8cd14f28cade"
-                ]
+                "bindViewGroup": ["4fb1da7c-c0bd-4281-9bb9-8cd14f28cade"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -21109,9 +20768,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29
-                ],
+                "outputKeycodes": [29],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -21350,9 +21007,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -21425,9 +21080,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  59
-                ],
+                "outputKeycodes": [59],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -21500,9 +21153,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  63
-                ],
+                "outputKeycodes": [63],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -21575,9 +21226,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  47
-                ],
+                "outputKeycodes": [47],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -21650,9 +21299,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1000
-                ],
+                "outputKeycodes": [1000],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -21725,9 +21372,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  57
-                ],
+                "outputKeycodes": [57],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -21800,9 +21445,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1002
-                ],
+                "outputKeycodes": [1002],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -21875,9 +21518,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  42
-                ],
+                "outputKeycodes": [42],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -21950,9 +21591,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  46
-                ],
+                "outputKeycodes": [46],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -22171,9 +21810,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1001
-                ],
+                "outputKeycodes": [1001],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -22246,9 +21883,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  57
-                ],
+                "outputKeycodes": [57],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -22321,10 +21956,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  62
-                ],
+                "outputKeycodes": [61, 62],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -22657,9 +22289,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "1ff22d72-d699-4523-828f-7964b139f923"
-                ]
+                "bindViewGroup": ["1ff22d72-d699-4523-828f-7964b139f923"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -22756,9 +22386,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "e54ac5af-1301-470a-8478-70b7f3c0c30b"
-                ]
+                "bindViewGroup": ["e54ac5af-1301-470a-8478-70b7f3c0c30b"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -22807,9 +22435,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "93a2091c-cae4-4e4d-b8a1-620a671ee213"
-                ]
+                "bindViewGroup": ["93a2091c-cae4-4e4d-b8a1-620a671ee213"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -22882,10 +22508,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "4c5a6623-3d8d-4cf8-b556-062cd1e0c1df",
-                  "e6f0124f-0da8-4d9a-a18a-611df79e0df7"
-                ]
+                "bindViewGroup": ["4c5a6623-3d8d-4cf8-b556-062cd1e0c1df", "e6f0124f-0da8-4d9a-a18a-611df79e0df7"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -23031,10 +22654,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "df1459e3-b2dd-4f7f-8c6b-a6a98b57df37",
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"
-                ]
+                "bindViewGroup": ["df1459e3-b2dd-4f7f-8c6b-a6a98b57df37", "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -23180,10 +22800,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "df1459e3-b2dd-4f7f-8c6b-a6a98b57df37",
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"
-                ]
+                "bindViewGroup": ["df1459e3-b2dd-4f7f-8c6b-a6a98b57df37", "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -23353,9 +22970,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"
-                ]
+                "bindViewGroup": ["2bc49fb8-c5e6-4124-b525-46ee8fe927e3"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -23477,9 +23092,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d6699207-72f6-4ab4-b455-e0808dd7e6fc"
-                ]
+                "bindViewGroup": ["d6699207-72f6-4ab4-b455-e0808dd7e6fc"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -23625,9 +23238,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "12f3a550-0207-4576-8dc6-cc4469e003de"
-                ]
+                "bindViewGroup": ["12f3a550-0207-4576-8dc6-cc4469e003de"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -23880,10 +23491,7 @@
                 "quickInput": false,
                 "outputText": "/tellraw @a {\"text\":\"\",\"extra\":[{\"text\":\"【不想取名的阿peng-bilibili主页】点击进入\",\"color\":\"yellow\",\"bold\":\"true\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://m.bilibili.com/space/1441611827\"}}]}",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "1ff22d72-d699-4523-828f-7964b139f923"
-                ]
+                "bindViewGroup": ["2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "1ff22d72-d699-4523-828f-7964b139f923"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -23956,11 +23564,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2482529d-a553-4067-9427-153fcc498680",
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "1ff22d72-d699-4523-828f-7964b139f923"
-                ]
+                "bindViewGroup": ["2482529d-a553-4067-9427-153fcc498680", "2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "1ff22d72-d699-4523-828f-7964b139f923"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -24197,7 +23801,7 @@
           },
           {
             "id": "3d0c4a08-599b-4f64-af6f-4567e09fc10a",
-            "text": "ORE立体按钮：妙狗国国王",
+            "text": "ORE立体按钮：XiaoluoFoxington",
             "style": "全透明",
             "baseInfo": {
               "visibilityType": "ALWAYS",
@@ -24386,11 +23990,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "1ff22d72-d699-4523-828f-7964b139f923",
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "920d79fb-5048-4c63-9d77-6576c472303c"
-                ]
+                "bindViewGroup": ["1ff22d72-d699-4523-828f-7964b139f923", "2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "920d79fb-5048-4c63-9d77-6576c472303c"]
               },
               "clickEvent": {
                 "autoKeep": false,
@@ -24974,11 +24574,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "1ff22d72-d699-4523-828f-7964b139f923",
-                  "920d79fb-5048-4c63-9d77-6576c472303c"
-                ]
+                "bindViewGroup": ["2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "1ff22d72-d699-4523-828f-7964b139f923", "920d79fb-5048-4c63-9d77-6576c472303c"]
               },
               "clickEvent": {
                 "autoKeep": false,
@@ -25341,9 +24937,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "e54ac5af-1301-470a-8478-70b7f3c0c30b"
-                ]
+                "bindViewGroup": ["e54ac5af-1301-470a-8478-70b7f3c0c30b"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -25878,11 +25472,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2482529d-a553-4067-9427-153fcc498680",
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "e54ac5af-1301-470a-8478-70b7f3c0c30b"
-                ]
+                "bindViewGroup": ["2482529d-a553-4067-9427-153fcc498680", "2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "e54ac5af-1301-470a-8478-70b7f3c0c30b"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -26028,11 +25618,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "e54ac5af-1301-470a-8478-70b7f3c0c30b",
-                  "b27b6abb-f563-492a-9c87-02630dff9973"
-                ]
+                "bindViewGroup": ["2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "e54ac5af-1301-470a-8478-70b7f3c0c30b", "b27b6abb-f563-492a-9c87-02630dff9973"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -26251,10 +25837,7 @@
                 "quickInput": false,
                 "outputText": "/tellraw @a {\"text\":\"\",\"extra\":[{\"text\":\"》键位意见反馈《【点击进入】\",\"color\":\"yellow\",\"bold\":\"true\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://wx.mail.qq.com/home/index?sid\u003dzVNrRYxGblUusE5pAH9fRwAA#/list/1/1\"}}]}",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "e54ac5af-1301-470a-8478-70b7f3c0c30b",
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"
-                ]
+                "bindViewGroup": ["e54ac5af-1301-470a-8478-70b7f3c0c30b", "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -26386,12 +25969,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "5aa3ab6b-94ad-483c-99b7-93beb383fea7",
-                  "3ba9f5e6-f76a-442c-8d22-069b1bd5b377",
-                  "b78e8745-72e9-4c12-ab4e-806df774b971",
-                  "d0d76f50-9857-4470-90ee-78421fa7cf4f"
-                ]
+                "bindViewGroup": ["5aa3ab6b-94ad-483c-99b7-93beb383fea7", "3ba9f5e6-f76a-442c-8d22-069b1bd5b377", "b78e8745-72e9-4c12-ab4e-806df774b971", "d0d76f50-9857-4470-90ee-78421fa7cf4f"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -26537,9 +26115,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "b78e8745-72e9-4c12-ab4e-806df774b971"
-                ]
+                "bindViewGroup": ["b78e8745-72e9-4c12-ab4e-806df774b971"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -26685,9 +26261,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d0d76f50-9857-4470-90ee-78421fa7cf4f"
-                ]
+                "bindViewGroup": ["d0d76f50-9857-4470-90ee-78421fa7cf4f"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -26833,10 +26407,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "5aa3ab6b-94ad-483c-99b7-93beb383fea7",
-                  "3b5b9e56-64c5-464d-9615-8a9789c3ecde"
-                ]
+                "bindViewGroup": ["5aa3ab6b-94ad-483c-99b7-93beb383fea7", "3b5b9e56-64c5-464d-9615-8a9789c3ecde"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -26982,9 +26553,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "1bf77c3f-a605-4483-b313-a3c3f6544963"
-                ]
+                "bindViewGroup": ["1bf77c3f-a605-4483-b313-a3c3f6544963"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -27164,11 +26733,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "93a2091c-cae4-4e4d-b8a1-620a671ee213",
-                  "02386673-cea0-45fc-9041-7c841bef2e05"
-                ]
+                "bindViewGroup": ["2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "93a2091c-cae4-4e4d-b8a1-620a671ee213", "02386673-cea0-45fc-9041-7c841bef2e05"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -27679,9 +27244,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "7ec01751-8b7e-48d0-90aa-b4a5dec34c69"
-                ]
+                "bindViewGroup": ["7ec01751-8b7e-48d0-90aa-b4a5dec34c69"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -27837,9 +27400,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "cc29ab6d-ab6c-48b6-be43-0763ac132126"
-                ]
+                "bindViewGroup": ["cc29ab6d-ab6c-48b6-be43-0763ac132126"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -27985,9 +27546,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0650ffe3-588f-4f96-8d1c-40396325bdb4"
-                ]
+                "bindViewGroup": ["0650ffe3-588f-4f96-8d1c-40396325bdb4"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -28035,9 +27594,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61
-                ],
+                "outputKeycodes": [61],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -28510,9 +28067,7 @@
                 "quickInput": false,
                 "outputText": "/gamemode survival",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "cc29ab6d-ab6c-48b6-be43-0763ac132126"
-                ]
+                "bindViewGroup": ["cc29ab6d-ab6c-48b6-be43-0763ac132126"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -28585,9 +28140,7 @@
                 "quickInput": false,
                 "outputText": "/gamemode creative",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "cc29ab6d-ab6c-48b6-be43-0763ac132126"
-                ]
+                "bindViewGroup": ["cc29ab6d-ab6c-48b6-be43-0763ac132126"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -28660,9 +28213,7 @@
                 "quickInput": false,
                 "outputText": "/gamemode adventure",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "cc29ab6d-ab6c-48b6-be43-0763ac132126"
-                ]
+                "bindViewGroup": ["cc29ab6d-ab6c-48b6-be43-0763ac132126"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -28735,9 +28286,7 @@
                 "quickInput": false,
                 "outputText": "/gamemode spectator",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "cc29ab6d-ab6c-48b6-be43-0763ac132126"
-                ]
+                "bindViewGroup": ["cc29ab6d-ab6c-48b6-be43-0763ac132126"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -29078,9 +28627,7 @@
                 "quickInput": false,
                 "outputText": "/gamemode survival",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "cc29ab6d-ab6c-48b6-be43-0763ac132126"
-                ]
+                "bindViewGroup": ["cc29ab6d-ab6c-48b6-be43-0763ac132126"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -29153,9 +28700,7 @@
                 "quickInput": false,
                 "outputText": "/gamemode creative",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "cc29ab6d-ab6c-48b6-be43-0763ac132126"
-                ]
+                "bindViewGroup": ["cc29ab6d-ab6c-48b6-be43-0763ac132126"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -29228,9 +28773,7 @@
                 "quickInput": false,
                 "outputText": "/gamemode adventure",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "cc29ab6d-ab6c-48b6-be43-0763ac132126"
-                ]
+                "bindViewGroup": ["cc29ab6d-ab6c-48b6-be43-0763ac132126"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -29303,9 +28846,7 @@
                 "quickInput": false,
                 "outputText": "/gamemode spectator",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "cc29ab6d-ab6c-48b6-be43-0763ac132126"
-                ]
+                "bindViewGroup": ["cc29ab6d-ab6c-48b6-be43-0763ac132126"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -29485,9 +29026,7 @@
                 "quickInput": false,
                 "outputText": "/difficulty peaceful",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0650ffe3-588f-4f96-8d1c-40396325bdb4"
-                ]
+                "bindViewGroup": ["0650ffe3-588f-4f96-8d1c-40396325bdb4"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -29560,9 +29099,7 @@
                 "quickInput": false,
                 "outputText": "/difficulty easy",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0650ffe3-588f-4f96-8d1c-40396325bdb4"
-                ]
+                "bindViewGroup": ["0650ffe3-588f-4f96-8d1c-40396325bdb4"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -29635,9 +29172,7 @@
                 "quickInput": false,
                 "outputText": "/difficulty normal",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0650ffe3-588f-4f96-8d1c-40396325bdb4"
-                ]
+                "bindViewGroup": ["0650ffe3-588f-4f96-8d1c-40396325bdb4"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -29783,9 +29318,7 @@
                 "quickInput": false,
                 "outputText": "/difficulty hard",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0650ffe3-588f-4f96-8d1c-40396325bdb4"
-                ]
+                "bindViewGroup": ["0650ffe3-588f-4f96-8d1c-40396325bdb4"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -30053,9 +29586,7 @@
                 "quickInput": false,
                 "outputText": "/difficulty peaceful",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0650ffe3-588f-4f96-8d1c-40396325bdb4"
-                ]
+                "bindViewGroup": ["0650ffe3-588f-4f96-8d1c-40396325bdb4"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -30128,9 +29659,7 @@
                 "quickInput": false,
                 "outputText": "/difficulty easy",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0650ffe3-588f-4f96-8d1c-40396325bdb4"
-                ]
+                "bindViewGroup": ["0650ffe3-588f-4f96-8d1c-40396325bdb4"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -30203,9 +29732,7 @@
                 "quickInput": false,
                 "outputText": "/difficulty normal",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0650ffe3-588f-4f96-8d1c-40396325bdb4"
-                ]
+                "bindViewGroup": ["0650ffe3-588f-4f96-8d1c-40396325bdb4"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -30278,9 +29805,7 @@
                 "quickInput": false,
                 "outputText": "/difficulty hard",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0650ffe3-588f-4f96-8d1c-40396325bdb4"
-                ]
+                "bindViewGroup": ["0650ffe3-588f-4f96-8d1c-40396325bdb4"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -30460,11 +29985,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "12f3a550-0207-4576-8dc6-cc4469e003de",
-                  "2781d36e-fb98-4aad-83f4-7c829ea66099"
-                ]
+                "bindViewGroup": ["2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "12f3a550-0207-4576-8dc6-cc4469e003de", "2781d36e-fb98-4aad-83f4-7c829ea66099"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -30537,11 +30058,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8104e08a-be39-4941-8108-b24fec14d56a",
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "12f3a550-0207-4576-8dc6-cc4469e003de"
-                ]
+                "bindViewGroup": ["8104e08a-be39-4941-8108-b24fec14d56a", "2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "12f3a550-0207-4576-8dc6-cc4469e003de"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -30614,11 +30131,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "12f3a550-0207-4576-8dc6-cc4469e003de",
-                  "a51354b4-abc5-4ae3-bd97-04438a794d66"
-                ]
+                "bindViewGroup": ["2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "12f3a550-0207-4576-8dc6-cc4469e003de", "a51354b4-abc5-4ae3-bd97-04438a794d66"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -30691,11 +30204,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "12f3a550-0207-4576-8dc6-cc4469e003de",
-                  "c48d6aae-8eee-45b9-87b2-4594eb24e341"
-                ]
+                "bindViewGroup": ["2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "12f3a550-0207-4576-8dc6-cc4469e003de", "c48d6aae-8eee-45b9-87b2-4594eb24e341"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -30768,9 +30277,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8528c877-d7bd-40b6-b9e2-1bbba5073494"
-                ]
+                "bindViewGroup": ["8528c877-d7bd-40b6-b9e2-1bbba5073494"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -31048,10 +30555,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "df1459e3-b2dd-4f7f-8c6b-a6a98b57df37",
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"
-                ]
+                "bindViewGroup": ["df1459e3-b2dd-4f7f-8c6b-a6a98b57df37", "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -31197,10 +30701,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "df1459e3-b2dd-4f7f-8c6b-a6a98b57df37",
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"
-                ]
+                "bindViewGroup": ["df1459e3-b2dd-4f7f-8c6b-a6a98b57df37", "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -31370,10 +30871,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "a902b562-5623-4c55-84ab-ad0125d8ba39",
-                  "df1459e3-b2dd-4f7f-8c6b-a6a98b57df37"
-                ]
+                "bindViewGroup": ["a902b562-5623-4c55-84ab-ad0125d8ba39", "df1459e3-b2dd-4f7f-8c6b-a6a98b57df37"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -31422,9 +30920,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "993ea0b4-eec0-4886-9562-902c603a68c8"
-                ]
+                "bindViewGroup": ["993ea0b4-eec0-4886-9562-902c603a68c8"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -31497,9 +30993,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c48d6aae-8eee-45b9-87b2-4594eb24e341"
-                ]
+                "bindViewGroup": ["c48d6aae-8eee-45b9-87b2-4594eb24e341"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -31681,10 +31175,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "655b2327-a043-4932-a277-b05421e24f37",
-                  "efd90f28-d881-4c75-822c-083fe4c99f92"
-                ]
+                "bindViewGroup": ["655b2327-a043-4932-a277-b05421e24f37", "efd90f28-d881-4c75-822c-083fe4c99f92"]
               }
             }
           },
@@ -34529,9 +34020,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "b27b6abb-f563-492a-9c87-02630dff9973"
-                ]
+                "bindViewGroup": ["b27b6abb-f563-492a-9c87-02630dff9973"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -34882,10 +34371,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "93b4d8a6-5655-4027-ba86-78ee4d13ec8e",
-                  "28c12971-5263-4e95-bcbf-dd9ee7551bd4"
-                ]
+                "bindViewGroup": ["93b4d8a6-5655-4027-ba86-78ee4d13ec8e", "28c12971-5263-4e95-bcbf-dd9ee7551bd4"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -34958,10 +34444,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "e9544b3b-d4da-4372-8c8d-514c144638eb",
-                  "4d3d10cb-ca48-4d24-a977-7b9e29c0dc83"
-                ]
+                "bindViewGroup": ["e9544b3b-d4da-4372-8c8d-514c144638eb", "4d3d10cb-ca48-4d24-a977-7b9e29c0dc83"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -35253,12 +34736,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "e9544b3b-d4da-4372-8c8d-514c144638eb",
-                  "28c12971-5263-4e95-bcbf-dd9ee7551bd4",
-                  "93b4d8a6-5655-4027-ba86-78ee4d13ec8e",
-                  "4d3d10cb-ca48-4d24-a977-7b9e29c0dc83"
-                ]
+                "bindViewGroup": ["e9544b3b-d4da-4372-8c8d-514c144638eb", "28c12971-5263-4e95-bcbf-dd9ee7551bd4", "93b4d8a6-5655-4027-ba86-78ee4d13ec8e", "4d3d10cb-ca48-4d24-a977-7b9e29c0dc83"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -35331,10 +34809,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "e9544b3b-d4da-4372-8c8d-514c144638eb",
-                  "a2fd2315-31e8-4553-8c8b-a43353854ebc"
-                ]
+                "bindViewGroup": ["e9544b3b-d4da-4372-8c8d-514c144638eb", "a2fd2315-31e8-4553-8c8b-a43353854ebc"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -35407,16 +34882,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "a7595be0-0705-488b-9786-c055f7e4aa0e",
-                  "e9544b3b-d4da-4372-8c8d-514c144638eb",
-                  "28c12971-5263-4e95-bcbf-dd9ee7551bd4",
-                  "8528c877-d7bd-40b6-b9e2-1bbba5073494",
-                  "cde5ca31-f0ad-4d26-882c-04611f93af70",
-                  "3ba9f5e6-f76a-442c-8d22-069b1bd5b377",
-                  "70d138c7-7d07-498e-9188-afa907ce5023",
-                  "0830343f-c056-43a1-b4e2-515fe30afaee"
-                ]
+                "bindViewGroup": ["a7595be0-0705-488b-9786-c055f7e4aa0e", "e9544b3b-d4da-4372-8c8d-514c144638eb", "28c12971-5263-4e95-bcbf-dd9ee7551bd4", "8528c877-d7bd-40b6-b9e2-1bbba5073494", "cde5ca31-f0ad-4d26-882c-04611f93af70", "3ba9f5e6-f76a-442c-8d22-069b1bd5b377", "70d138c7-7d07-498e-9188-afa907ce5023", "0830343f-c056-43a1-b4e2-515fe30afaee"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -35586,16 +35052,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "a7595be0-0705-488b-9786-c055f7e4aa0e",
-                  "e9544b3b-d4da-4372-8c8d-514c144638eb",
-                  "28c12971-5263-4e95-bcbf-dd9ee7551bd4",
-                  "0f618ea1-3531-44f9-adc2-24953cdc6269",
-                  "3ba9f5e6-f76a-442c-8d22-069b1bd5b377",
-                  "02386673-cea0-45fc-9041-7c841bef2e05",
-                  "8528c877-d7bd-40b6-b9e2-1bbba5073494",
-                  "cde5ca31-f0ad-4d26-882c-04611f93af70"
-                ]
+                "bindViewGroup": ["a7595be0-0705-488b-9786-c055f7e4aa0e", "e9544b3b-d4da-4372-8c8d-514c144638eb", "28c12971-5263-4e95-bcbf-dd9ee7551bd4", "0f618ea1-3531-44f9-adc2-24953cdc6269", "3ba9f5e6-f76a-442c-8d22-069b1bd5b377", "02386673-cea0-45fc-9041-7c841bef2e05", "8528c877-d7bd-40b6-b9e2-1bbba5073494", "cde5ca31-f0ad-4d26-882c-04611f93af70"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -35656,16 +35113,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "a7595be0-0705-488b-9786-c055f7e4aa0e",
-                  "e9544b3b-d4da-4372-8c8d-514c144638eb",
-                  "91591ddd-3168-41fe-9e72-4029f492e76a",
-                  "cde5ca31-f0ad-4d26-882c-04611f93af70",
-                  "8528c877-d7bd-40b6-b9e2-1bbba5073494",
-                  "02386673-cea0-45fc-9041-7c841bef2e05",
-                  "fa1e26d6-1c5c-4738-8215-051304a5d97d"
-                ]
+                "bindViewGroup": ["0830343f-c056-43a1-b4e2-515fe30afaee", "a7595be0-0705-488b-9786-c055f7e4aa0e", "e9544b3b-d4da-4372-8c8d-514c144638eb", "91591ddd-3168-41fe-9e72-4029f492e76a", "cde5ca31-f0ad-4d26-882c-04611f93af70", "8528c877-d7bd-40b6-b9e2-1bbba5073494", "02386673-cea0-45fc-9041-7c841bef2e05", "fa1e26d6-1c5c-4738-8215-051304a5d97d"]
               },
               "clickEvent": {
                 "autoKeep": false,
@@ -35677,10 +35125,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "91591ddd-3168-41fe-9e72-4029f492e76a",
-                  "e9544b3b-d4da-4372-8c8d-514c144638eb"
-                ]
+                "bindViewGroup": ["91591ddd-3168-41fe-9e72-4029f492e76a", "e9544b3b-d4da-4372-8c8d-514c144638eb"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -35972,10 +35417,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "02386673-cea0-45fc-9041-7c841bef2e05"
-                ]
+                "bindViewGroup": ["2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "02386673-cea0-45fc-9041-7c841bef2e05"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -36093,10 +35535,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2dad231f-b658-4895-a777-caec6fb3b2f0",
-                  "fba95583-9144-4335-84c0-9bbcf3a9d165"
-                ]
+                "bindViewGroup": ["2dad231f-b658-4895-a777-caec6fb3b2f0", "fba95583-9144-4335-84c0-9bbcf3a9d165"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -36179,10 +35618,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "fba95583-9144-4335-84c0-9bbcf3a9d165",
-                  "5226c63a-ab40-40f7-b21c-5758c7599457"
-                ]
+                "bindViewGroup": ["fba95583-9144-4335-84c0-9bbcf3a9d165", "5226c63a-ab40-40f7-b21c-5758c7599457"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -36265,10 +35701,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0e15f3c1-dc7b-4355-b6be-502e0f32d3a8",
-                  "5226c63a-ab40-40f7-b21c-5758c7599457"
-                ]
+                "bindViewGroup": ["0e15f3c1-dc7b-4355-b6be-502e0f32d3a8", "5226c63a-ab40-40f7-b21c-5758c7599457"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -36351,10 +35784,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "68ceb88d-06be-419a-b8d5-b4f90299247a",
-                  "0e15f3c1-dc7b-4355-b6be-502e0f32d3a8"
-                ]
+                "bindViewGroup": ["68ceb88d-06be-419a-b8d5-b4f90299247a", "0e15f3c1-dc7b-4355-b6be-502e0f32d3a8"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -36729,10 +36159,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "68ceb88d-06be-419a-b8d5-b4f90299247a",
-                  "0830343f-c056-43a1-b4e2-515fe30afaee"
-                ]
+                "bindViewGroup": ["68ceb88d-06be-419a-b8d5-b4f90299247a", "0830343f-c056-43a1-b4e2-515fe30afaee"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -36878,10 +36305,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "68ceb88d-06be-419a-b8d5-b4f90299247a",
-                  "0830343f-c056-43a1-b4e2-515fe30afaee"
-                ]
+                "bindViewGroup": ["68ceb88d-06be-419a-b8d5-b4f90299247a", "0830343f-c056-43a1-b4e2-515fe30afaee"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -36963,9 +36387,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -37039,10 +36461,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "23710b55-861b-436c-908d-06bb1f4d23fb",
-                  "a2fd2315-31e8-4553-8c8b-a43353854ebc"
-                ]
+                "bindViewGroup": ["23710b55-861b-436c-908d-06bb1f4d23fb", "a2fd2315-31e8-4553-8c8b-a43353854ebc"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -37114,9 +36533,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  63
-                ],
+                "outputKeycodes": [63],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -37272,9 +36689,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -37347,9 +36762,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  63
-                ],
+                "outputKeycodes": [63],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -37433,9 +36846,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "34bd1f54-47df-44bb-9cfe-82996b837948"
-                ]
+                "bindViewGroup": ["34bd1f54-47df-44bb-9cfe-82996b837948"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -37726,12 +37137,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
-                "bindViewGroup": [
-                  "cbd42125-202e-46dc-94b5-ea2526e34d84"
-                ]
+                "outputKeycodes": [20],
+                "bindViewGroup": ["cbd42125-202e-46dc-94b5-ea2526e34d84"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -37876,13 +37283,8 @@
                 "input": true,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
-                "bindViewGroup": [
-                  "59c9833f-d733-43be-91c9-7d54b3fec97e",
-                  "c7245bc2-3f58-439f-8b1b-bb0d5581aaf1"
-                ]
+                "outputKeycodes": [20],
+                "bindViewGroup": ["59c9833f-d733-43be-91c9-7d54b3fec97e", "c7245bc2-3f58-439f-8b1b-bb0d5581aaf1"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -37954,13 +37356,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  28
-                ],
-                "bindViewGroup": [
-                  "d0d76f50-9857-4470-90ee-78421fa7cf4f",
-                  "59c9833f-d733-43be-91c9-7d54b3fec97e"
-                ]
+                "outputKeycodes": [28],
+                "bindViewGroup": ["d0d76f50-9857-4470-90ee-78421fa7cf4f", "59c9833f-d733-43be-91c9-7d54b3fec97e"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -37984,10 +37381,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "a7595be0-0705-488b-9786-c055f7e4aa0e"
-                ]
+                "bindViewGroup": ["0830343f-c056-43a1-b4e2-515fe30afaee", "a7595be0-0705-488b-9786-c055f7e4aa0e"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -38036,9 +37430,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "07ec4876-6b32-4c69-a27a-9cfd364be297"
-                ]
+                "bindViewGroup": ["07ec4876-6b32-4c69-a27a-9cfd364be297"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -38111,9 +37503,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "1d0cee0f-6f31-4b4e-983b-11d852f85172"
-                ]
+                "bindViewGroup": ["1d0cee0f-6f31-4b4e-983b-11d852f85172"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -38186,9 +37576,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "52feeec4-25ef-4ee9-8d25-be5db7d6ffaa"
-                ]
+                "bindViewGroup": ["52feeec4-25ef-4ee9-8d25-be5db7d6ffaa"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -38261,12 +37649,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "59c9833f-d733-43be-91c9-7d54b3fec97e",
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "a7595be0-0705-488b-9786-c055f7e4aa0e",
-                  "d0d76f50-9857-4470-90ee-78421fa7cf4f"
-                ]
+                "bindViewGroup": ["59c9833f-d733-43be-91c9-7d54b3fec97e", "0830343f-c056-43a1-b4e2-515fe30afaee", "a7595be0-0705-488b-9786-c055f7e4aa0e", "d0d76f50-9857-4470-90ee-78421fa7cf4f"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -38421,9 +37804,7 @@
                 "input": true,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
+                "outputKeycodes": [20],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -38496,12 +37877,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
-                "bindViewGroup": [
-                  "3920a8c7-03c1-4206-a08e-5997dd5ad275"
-                ]
+                "outputKeycodes": [1],
+                "bindViewGroup": ["3920a8c7-03c1-4206-a08e-5997dd5ad275"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -38573,12 +37950,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  28
-                ],
-                "bindViewGroup": [
-                  "3920a8c7-03c1-4206-a08e-5997dd5ad275"
-                ]
+                "outputKeycodes": [28],
+                "bindViewGroup": ["3920a8c7-03c1-4206-a08e-5997dd5ad275"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -39328,12 +38701,7 @@
                 "quickInput": false,
                 "outputText": "/msg ",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "59c9833f-d733-43be-91c9-7d54b3fec97e",
-                  "1d0cee0f-6f31-4b4e-983b-11d852f85172",
-                  "d0d76f50-9857-4470-90ee-78421fa7cf4f",
-                  "c7245bc2-3f58-439f-8b1b-bb0d5581aaf1"
-                ]
+                "bindViewGroup": ["59c9833f-d733-43be-91c9-7d54b3fec97e", "1d0cee0f-6f31-4b4e-983b-11d852f85172", "d0d76f50-9857-4470-90ee-78421fa7cf4f", "c7245bc2-3f58-439f-8b1b-bb0d5581aaf1"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -39478,9 +38846,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
+                "outputKeycodes": [20],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -39710,9 +39076,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "52feeec4-25ef-4ee9-8d25-be5db7d6ffaa"
-                ]
+                "bindViewGroup": ["52feeec4-25ef-4ee9-8d25-be5db7d6ffaa"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -40087,10 +39451,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "52feeec4-25ef-4ee9-8d25-be5db7d6ffaa",
-                  "b3bdcd2e-5c96-4b9f-b6ac-8f655ae3ecb6"
-                ]
+                "bindViewGroup": ["52feeec4-25ef-4ee9-8d25-be5db7d6ffaa", "b3bdcd2e-5c96-4b9f-b6ac-8f655ae3ecb6"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -40163,10 +39524,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "3920a8c7-03c1-4206-a08e-5997dd5ad275",
-                  "b3bdcd2e-5c96-4b9f-b6ac-8f655ae3ecb6"
-                ]
+                "bindViewGroup": ["3920a8c7-03c1-4206-a08e-5997dd5ad275", "b3bdcd2e-5c96-4b9f-b6ac-8f655ae3ecb6"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -40239,10 +39597,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "bef132c9-9ef7-4645-b2d5-aace1949efbb",
-                  "b3bdcd2e-5c96-4b9f-b6ac-8f655ae3ecb6"
-                ]
+                "bindViewGroup": ["bef132c9-9ef7-4645-b2d5-aace1949efbb", "b3bdcd2e-5c96-4b9f-b6ac-8f655ae3ecb6"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -40315,10 +39670,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "52feeec4-25ef-4ee9-8d25-be5db7d6ffaa",
-                  "b3bdcd2e-5c96-4b9f-b6ac-8f655ae3ecb6"
-                ]
+                "bindViewGroup": ["52feeec4-25ef-4ee9-8d25-be5db7d6ffaa", "b3bdcd2e-5c96-4b9f-b6ac-8f655ae3ecb6"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -41204,9 +40556,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "34bd1f54-47df-44bb-9cfe-82996b837948"
-                ]
+                "bindViewGroup": ["34bd1f54-47df-44bb-9cfe-82996b837948"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -41352,9 +40702,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "34bd1f54-47df-44bb-9cfe-82996b837948"
-                ]
+                "bindViewGroup": ["34bd1f54-47df-44bb-9cfe-82996b837948"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -41509,9 +40857,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  59
-                ],
+                "outputKeycodes": [59],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -42568,9 +41914,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0ce932dc-96ff-4a7c-a25a-3fb966d147f9"
-                ]
+                "bindViewGroup": ["0ce932dc-96ff-4a7c-a25a-3fb966d147f9"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -42643,9 +41987,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "600c0d7f-2fe9-44af-82d8-15bbaca10fc2"
-                ]
+                "bindViewGroup": ["600c0d7f-2fe9-44af-82d8-15bbaca10fc2"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -42791,9 +42133,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "4ceab7c1-c249-4bec-a393-52d1a2697e14"
-                ]
+                "bindViewGroup": ["4ceab7c1-c249-4bec-a393-52d1a2697e14"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -42915,9 +42255,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c48d6aae-8eee-45b9-87b2-4594eb24e341"
-                ]
+                "bindViewGroup": ["c48d6aae-8eee-45b9-87b2-4594eb24e341"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -43817,9 +43155,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "43f21d30-fd36-4232-9cad-a76a9a60eebc"
-                ]
+                "bindViewGroup": ["43f21d30-fd36-4232-9cad-a76a9a60eebc"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -43892,9 +43228,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "59c9833f-d733-43be-91c9-7d54b3fec97e"
-                ]
+                "bindViewGroup": ["59c9833f-d733-43be-91c9-7d54b3fec97e"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -43967,10 +43301,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c44ad612-191f-4543-b849-cb732f9d27b3",
-                  "5ee1556f-561e-4fc6-acdf-604e7bcd0ccf"
-                ]
+                "bindViewGroup": ["c44ad612-191f-4543-b849-cb732f9d27b3", "5ee1556f-561e-4fc6-acdf-604e7bcd0ccf"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -44116,9 +43447,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "a51354b4-abc5-4ae3-bd97-04438a794d66"
-                ]
+                "bindViewGroup": ["a51354b4-abc5-4ae3-bd97-04438a794d66"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -44337,9 +43666,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "1ed18e9c-4afc-489c-817c-7439854b5fcc"
-                ]
+                "bindViewGroup": ["1ed18e9c-4afc-489c-817c-7439854b5fcc"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -44398,9 +43725,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "34bd1f54-47df-44bb-9cfe-82996b837948"
-                ]
+                "bindViewGroup": ["34bd1f54-47df-44bb-9cfe-82996b837948"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -44619,9 +43944,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "52feeec4-25ef-4ee9-8d25-be5db7d6ffaa"
-                ]
+                "bindViewGroup": ["52feeec4-25ef-4ee9-8d25-be5db7d6ffaa"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -44694,9 +44017,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "52feeec4-25ef-4ee9-8d25-be5db7d6ffaa"
-                ]
+                "bindViewGroup": ["52feeec4-25ef-4ee9-8d25-be5db7d6ffaa"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -44769,9 +44090,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "a3990fbe-ab6f-4fc0-ac07-ac0d592d827c"
-                ]
+                "bindViewGroup": ["a3990fbe-ab6f-4fc0-ac07-ac0d592d827c"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -44844,12 +44163,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "a7595be0-0705-488b-9786-c055f7e4aa0e",
-                  "d0d76f50-9857-4470-90ee-78421fa7cf4f",
-                  "2c3b2ae7-887a-4c58-b86b-70b9be2c4311"
-                ]
+                "bindViewGroup": ["0830343f-c056-43a1-b4e2-515fe30afaee", "a7595be0-0705-488b-9786-c055f7e4aa0e", "d0d76f50-9857-4470-90ee-78421fa7cf4f", "2c3b2ae7-887a-4c58-b86b-70b9be2c4311"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -45453,11 +44767,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "50ccb436-3cf5-4737-886a-82cb122e50a7",
-                  "5ee1556f-561e-4fc6-acdf-604e7bcd0ccf",
-                  "c95ff502-1273-42f4-89a4-87899d2cfca1"
-                ]
+                "bindViewGroup": ["50ccb436-3cf5-4737-886a-82cb122e50a7", "5ee1556f-561e-4fc6-acdf-604e7bcd0ccf", "c95ff502-1273-42f4-89a4-87899d2cfca1"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -45530,13 +44840,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c7245bc2-3f58-439f-8b1b-bb0d5581aaf1",
-                  "4fb1da7c-c0bd-4281-9bb9-8cd14f28cade",
-                  "d0d76f50-9857-4470-90ee-78421fa7cf4f",
-                  "c44ad612-191f-4543-b849-cb732f9d27b3",
-                  "5ee1556f-561e-4fc6-acdf-604e7bcd0ccf"
-                ]
+                "bindViewGroup": ["c7245bc2-3f58-439f-8b1b-bb0d5581aaf1", "4fb1da7c-c0bd-4281-9bb9-8cd14f28cade", "d0d76f50-9857-4470-90ee-78421fa7cf4f", "c44ad612-191f-4543-b849-cb732f9d27b3", "5ee1556f-561e-4fc6-acdf-604e7bcd0ccf"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -45608,13 +44912,8 @@
                 "input": true,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
-                "bindViewGroup": [
-                  "5ee1556f-561e-4fc6-acdf-604e7bcd0ccf",
-                  "c44ad612-191f-4543-b849-cb732f9d27b3"
-                ]
+                "outputKeycodes": [20],
+                "bindViewGroup": ["5ee1556f-561e-4fc6-acdf-604e7bcd0ccf", "c44ad612-191f-4543-b849-cb732f9d27b3"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -45686,16 +44985,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  28
-                ],
-                "bindViewGroup": [
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "a7595be0-0705-488b-9786-c055f7e4aa0e",
-                  "d0d76f50-9857-4470-90ee-78421fa7cf4f",
-                  "c44ad612-191f-4543-b849-cb732f9d27b3",
-                  "5ee1556f-561e-4fc6-acdf-604e7bcd0ccf"
-                ]
+                "outputKeycodes": [28],
+                "bindViewGroup": ["0830343f-c056-43a1-b4e2-515fe30afaee", "a7595be0-0705-488b-9786-c055f7e4aa0e", "d0d76f50-9857-4470-90ee-78421fa7cf4f", "c44ad612-191f-4543-b849-cb732f9d27b3", "5ee1556f-561e-4fc6-acdf-604e7bcd0ccf"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -45768,13 +45059,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "a7595be0-0705-488b-9786-c055f7e4aa0e",
-                  "d0d76f50-9857-4470-90ee-78421fa7cf4f",
-                  "5ee1556f-561e-4fc6-acdf-604e7bcd0ccf",
-                  "c44ad612-191f-4543-b849-cb732f9d27b3"
-                ]
+                "bindViewGroup": ["0830343f-c056-43a1-b4e2-515fe30afaee", "a7595be0-0705-488b-9786-c055f7e4aa0e", "d0d76f50-9857-4470-90ee-78421fa7cf4f", "5ee1556f-561e-4fc6-acdf-604e7bcd0ccf", "c44ad612-191f-4543-b849-cb732f9d27b3"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -46767,11 +46052,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2781d36e-fb98-4aad-83f4-7c829ea66099",
-                  "12f3a550-0207-4576-8dc6-cc4469e003de",
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"
-                ]
+                "bindViewGroup": ["2781d36e-fb98-4aad-83f4-7c829ea66099", "12f3a550-0207-4576-8dc6-cc4469e003de", "2bc49fb8-c5e6-4124-b525-46ee8fe927e3"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -46917,10 +46198,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2781d36e-fb98-4aad-83f4-7c829ea66099",
-                  "07366b0d-3193-4d01-9944-ef4904f4a9e5"
-                ]
+                "bindViewGroup": ["2781d36e-fb98-4aad-83f4-7c829ea66099", "07366b0d-3193-4d01-9944-ef4904f4a9e5"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -47417,9 +46695,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "600c0d7f-2fe9-44af-82d8-15bbaca10fc2"
-                ]
+                "bindViewGroup": ["600c0d7f-2fe9-44af-82d8-15bbaca10fc2"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -47526,9 +46802,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "14ada716-970e-4aa5-bccf-eb3e52cf37b3"
-                ]
+                "bindViewGroup": ["14ada716-970e-4aa5-bccf-eb3e52cf37b3"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -47766,9 +47040,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "14ada716-970e-4aa5-bccf-eb3e52cf37b3"
-                ]
+                "bindViewGroup": ["14ada716-970e-4aa5-bccf-eb3e52cf37b3"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -47889,11 +47161,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  56,
-                  42,
-                  61
-                ],
+                "outputKeycodes": [56, 42, 61],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -47966,9 +47234,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61
-                ],
+                "outputKeycodes": [61],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -48114,10 +47380,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  30
-                ],
+                "outputKeycodes": [61, 30],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -48263,10 +47526,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  20
-                ],
+                "outputKeycodes": [61, 20],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -48412,10 +47672,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  32
-                ],
+                "outputKeycodes": [61, 32],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -48561,10 +47818,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  35
-                ],
+                "outputKeycodes": [61, 35],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -48710,10 +47964,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  42,
-                  61
-                ],
+                "outputKeycodes": [42, 61],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -48859,10 +48110,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  56,
-                  61
-                ],
+                "outputKeycodes": [56, 61],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -49008,10 +48256,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  48
-                ],
+                "outputKeycodes": [61, 48],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -49157,10 +48402,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  34
-                ],
+                "outputKeycodes": [61, 34],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -49306,10 +48548,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  49
-                ],
+                "outputKeycodes": [61, 49],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -49455,10 +48694,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  16
-                ],
+                "outputKeycodes": [61, 16],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -49556,10 +48792,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0ce932dc-96ff-4a7c-a25a-3fb966d147f9",
-                  "14ada716-970e-4aa5-bccf-eb3e52cf37b3"
-                ]
+                "bindViewGroup": ["0ce932dc-96ff-4a7c-a25a-3fb966d147f9", "14ada716-970e-4aa5-bccf-eb3e52cf37b3"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -49680,9 +48913,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61
-                ],
+                "outputKeycodes": [61],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -49828,9 +49059,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  62
-                ],
+                "outputKeycodes": [62],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -49976,9 +49205,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  56
-                ],
+                "outputKeycodes": [56],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -50124,9 +49351,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  42
-                ],
+                "outputKeycodes": [42],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -50648,9 +49873,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "4ceab7c1-c249-4bec-a393-52d1a2697e14"
-                ]
+                "bindViewGroup": ["4ceab7c1-c249-4bec-a393-52d1a2697e14"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -50903,9 +50126,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "27221bb1-46b9-4fa2-ad41-af6dc641b95f"
-                ]
+                "bindViewGroup": ["27221bb1-46b9-4fa2-ad41-af6dc641b95f"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -51245,9 +50466,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  59
-                ],
+                "outputKeycodes": [59],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -51320,9 +50539,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61
-                ],
+                "outputKeycodes": [61],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -51395,9 +50612,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  63
-                ],
+                "outputKeycodes": [63],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -51796,13 +51011,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
-                "bindViewGroup": [
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "43f21d30-fd36-4232-9cad-a76a9a60eebc"
-                ]
+                "outputKeycodes": [1],
+                "bindViewGroup": ["0830343f-c056-43a1-b4e2-515fe30afaee", "43f21d30-fd36-4232-9cad-a76a9a60eebc"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -51923,11 +51133,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29,
-                  30,
-                  14
-                ],
+                "outputKeycodes": [29, 30, 14],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -51952,9 +51158,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "cbd42125-202e-46dc-94b5-ea2526e34d84"
-                ]
+                "bindViewGroup": ["cbd42125-202e-46dc-94b5-ea2526e34d84"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -52002,9 +51206,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
+                "outputKeycodes": [20],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -52151,10 +51353,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "43f21d30-fd36-4232-9cad-a76a9a60eebc"
-                ]
+                "bindViewGroup": ["0830343f-c056-43a1-b4e2-515fe30afaee", "43f21d30-fd36-4232-9cad-a76a9a60eebc"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -52250,13 +51449,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  28
-                ],
-                "bindViewGroup": [
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "43f21d30-fd36-4232-9cad-a76a9a60eebc"
-                ]
+                "outputKeycodes": [28],
+                "bindViewGroup": ["0830343f-c056-43a1-b4e2-515fe30afaee", "43f21d30-fd36-4232-9cad-a76a9a60eebc"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -52304,9 +51498,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  14
-                ],
+                "outputKeycodes": [14],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -52379,9 +51571,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
+                "outputKeycodes": [20],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -52454,9 +51644,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
+                "outputKeycodes": [20],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -52529,10 +51717,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29,
-                  46
-                ],
+                "outputKeycodes": [29, 46],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -52605,10 +51790,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29,
-                  47
-                ],
+                "outputKeycodes": [29, 47],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -52681,11 +51863,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29,
-                  30,
-                  14
-                ],
+                "outputKeycodes": [29, 30, 14],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -52758,10 +51936,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29,
-                  30
-                ],
+                "outputKeycodes": [29, 30],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -52835,9 +52010,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "3d9eb415-e9ed-4871-950e-9dd2ce02c047"
-                ]
+                "bindViewGroup": ["3d9eb415-e9ed-4871-950e-9dd2ce02c047"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -52934,11 +52107,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "43f21d30-fd36-4232-9cad-a76a9a60eebc",
-                  "16a7e72a-aa75-4db6-87ba-bea64cb8f294"
-                ]
+                "bindViewGroup": ["0830343f-c056-43a1-b4e2-515fe30afaee", "43f21d30-fd36-4232-9cad-a76a9a60eebc", "16a7e72a-aa75-4db6-87ba-bea64cb8f294"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -53010,9 +52179,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  103
-                ],
+                "outputKeycodes": [103],
                 "bindViewGroup": []
               },
               "doubleClickEvent": {
@@ -53085,9 +52252,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  108
-                ],
+                "outputKeycodes": [108],
                 "bindViewGroup": []
               },
               "doubleClickEvent": {
@@ -53160,9 +52325,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  15
-                ],
+                "outputKeycodes": [15],
                 "bindViewGroup": []
               },
               "doubleClickEvent": {
@@ -53368,9 +52531,7 @@
                 "quickInput": false,
                 "outputText": "/give @s minecraft:chain_command_block",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "3d9eb415-e9ed-4871-950e-9dd2ce02c047"
-                ]
+                "bindViewGroup": ["3d9eb415-e9ed-4871-950e-9dd2ce02c047"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -53516,9 +52677,7 @@
                 "quickInput": false,
                 "outputText": "/give @s minecraft:repeating_command_block",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "3d9eb415-e9ed-4871-950e-9dd2ce02c047"
-                ]
+                "bindViewGroup": ["3d9eb415-e9ed-4871-950e-9dd2ce02c047"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -53664,9 +52823,7 @@
                 "quickInput": false,
                 "outputText": "/give @s minecraft:command_block",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "3d9eb415-e9ed-4871-950e-9dd2ce02c047"
-                ]
+                "bindViewGroup": ["3d9eb415-e9ed-4871-950e-9dd2ce02c047"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -53758,9 +52915,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "efd90f28-d881-4c75-822c-083fe4c99f92"
-                ]
+                "bindViewGroup": ["efd90f28-d881-4c75-822c-083fe4c99f92"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -54293,9 +53448,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "1ed18e9c-4afc-489c-817c-7439854b5fcc"
-                ]
+                "bindViewGroup": ["1ed18e9c-4afc-489c-817c-7439854b5fcc"]
               },
               "clickEvent": {
                 "autoKeep": false,
@@ -54307,11 +53460,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c48d6aae-8eee-45b9-87b2-4594eb24e341",
-                  "1ed18e9c-4afc-489c-817c-7439854b5fcc",
-                  "23068d60-818c-409a-beae-27b241fdf566"
-                ]
+                "bindViewGroup": ["c48d6aae-8eee-45b9-87b2-4594eb24e341", "1ed18e9c-4afc-489c-817c-7439854b5fcc", "23068d60-818c-409a-beae-27b241fdf566"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -54601,9 +53750,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "23068d60-818c-409a-beae-27b241fdf566"
-                ]
+                "bindViewGroup": ["23068d60-818c-409a-beae-27b241fdf566"]
               },
               "clickEvent": {
                 "autoKeep": false,
@@ -54615,11 +53762,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c48d6aae-8eee-45b9-87b2-4594eb24e341",
-                  "1ed18e9c-4afc-489c-817c-7439854b5fcc",
-                  "23068d60-818c-409a-beae-27b241fdf566"
-                ]
+                "bindViewGroup": ["c48d6aae-8eee-45b9-87b2-4594eb24e341", "1ed18e9c-4afc-489c-817c-7439854b5fcc", "23068d60-818c-409a-beae-27b241fdf566"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -54678,10 +53821,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "cbd42125-202e-46dc-94b5-ea2526e34d84",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["cbd42125-202e-46dc-94b5-ea2526e34d84", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -54754,10 +53894,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8a0d370e-2af6-490f-84d9-2709b59b1436",
-                  "cbd42125-202e-46dc-94b5-ea2526e34d84"
-                ]
+                "bindViewGroup": ["8a0d370e-2af6-490f-84d9-2709b59b1436", "cbd42125-202e-46dc-94b5-ea2526e34d84"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -54830,10 +53967,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "6b8596f9-1c71-481f-ad88-f8e142f26a27",
-                  "cbd42125-202e-46dc-94b5-ea2526e34d84"
-                ]
+                "bindViewGroup": ["6b8596f9-1c71-481f-ad88-f8e142f26a27", "cbd42125-202e-46dc-94b5-ea2526e34d84"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -54906,10 +54040,7 @@
                 "quickInput": false,
                 "outputText": "/tp ",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "4c781b95-1c51-4ac3-89f2-7288240418cf",
-                  "cbd42125-202e-46dc-94b5-ea2526e34d84"
-                ]
+                "bindViewGroup": ["4c781b95-1c51-4ac3-89f2-7288240418cf", "cbd42125-202e-46dc-94b5-ea2526e34d84"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -54982,10 +54113,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d021032c-34cb-4058-8fe4-e4343ffa2cba",
-                  "cbd42125-202e-46dc-94b5-ea2526e34d84"
-                ]
+                "bindViewGroup": ["d021032c-34cb-4058-8fe4-e4343ffa2cba", "cbd42125-202e-46dc-94b5-ea2526e34d84"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -55067,15 +54195,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29,
-                  30,
-                  14
-                ],
-                "bindViewGroup": [
-                  "d021032c-34cb-4058-8fe4-e4343ffa2cba",
-                  "cbd42125-202e-46dc-94b5-ea2526e34d84"
-                ]
+                "outputKeycodes": [29, 30, 14],
+                "bindViewGroup": ["d021032c-34cb-4058-8fe4-e4343ffa2cba", "cbd42125-202e-46dc-94b5-ea2526e34d84"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -55221,9 +54342,7 @@
                 "quickInput": false,
                 "outputText": "/setworldspawn ~ ~ ~",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d021032c-34cb-4058-8fe4-e4343ffa2cba"
-                ]
+                "bindViewGroup": ["d021032c-34cb-4058-8fe4-e4343ffa2cba"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -55296,9 +54415,7 @@
                 "quickInput": false,
                 "outputText": "/spawnpoint @s ~ ~ ~",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d021032c-34cb-4058-8fe4-e4343ffa2cba"
-                ]
+                "bindViewGroup": ["d021032c-34cb-4058-8fe4-e4343ffa2cba"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -55371,9 +54488,7 @@
                 "quickInput": false,
                 "outputText": "/spawnpoint @a ~ ~ ~",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d021032c-34cb-4058-8fe4-e4343ffa2cba"
-                ]
+                "bindViewGroup": ["d021032c-34cb-4058-8fe4-e4343ffa2cba"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -55446,9 +54561,7 @@
                 "quickInput": false,
                 "outputText": "/spawnpoint ",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d021032c-34cb-4058-8fe4-e4343ffa2cba"
-                ]
+                "bindViewGroup": ["d021032c-34cb-4058-8fe4-e4343ffa2cba"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -55530,15 +54643,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29,
-                  30,
-                  14
-                ],
-                "bindViewGroup": [
-                  "cbd42125-202e-46dc-94b5-ea2526e34d84",
-                  "4c781b95-1c51-4ac3-89f2-7288240418cf"
-                ]
+                "outputKeycodes": [29, 30, 14],
+                "bindViewGroup": ["cbd42125-202e-46dc-94b5-ea2526e34d84", "4c781b95-1c51-4ac3-89f2-7288240418cf"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -55611,9 +54717,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8223a70a-1e70-4bb2-ad70-647dd3785093"
-                ]
+                "bindViewGroup": ["8223a70a-1e70-4bb2-ad70-647dd3785093"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -55686,9 +54790,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "fdb862a8-9545-4f69-bd0f-016e802e61a6"
-                ]
+                "bindViewGroup": ["fdb862a8-9545-4f69-bd0f-016e802e61a6"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -55844,9 +54946,7 @@
                 "quickInput": false,
                 "outputText": "@s ",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8223a70a-1e70-4bb2-ad70-647dd3785093"
-                ]
+                "bindViewGroup": ["8223a70a-1e70-4bb2-ad70-647dd3785093"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -55919,9 +55019,7 @@
                 "quickInput": false,
                 "outputText": "@r ",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8223a70a-1e70-4bb2-ad70-647dd3785093"
-                ]
+                "bindViewGroup": ["8223a70a-1e70-4bb2-ad70-647dd3785093"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -55994,9 +55092,7 @@
                 "quickInput": false,
                 "outputText": "@a ",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8223a70a-1e70-4bb2-ad70-647dd3785093"
-                ]
+                "bindViewGroup": ["8223a70a-1e70-4bb2-ad70-647dd3785093"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -56069,9 +55165,7 @@
                 "quickInput": false,
                 "outputText": "@e ",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8223a70a-1e70-4bb2-ad70-647dd3785093"
-                ]
+                "bindViewGroup": ["8223a70a-1e70-4bb2-ad70-647dd3785093"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -56144,9 +55238,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8223a70a-1e70-4bb2-ad70-647dd3785093"
-                ]
+                "bindViewGroup": ["8223a70a-1e70-4bb2-ad70-647dd3785093"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -56219,9 +55311,7 @@
                 "quickInput": false,
                 "outputText": "@p ",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8223a70a-1e70-4bb2-ad70-647dd3785093"
-                ]
+                "bindViewGroup": ["8223a70a-1e70-4bb2-ad70-647dd3785093"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -56377,10 +55467,7 @@
                 "quickInput": false,
                 "outputText": "@s ",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "fdb862a8-9545-4f69-bd0f-016e802e61a6",
-                  "4c781b95-1c51-4ac3-89f2-7288240418cf"
-                ]
+                "bindViewGroup": ["fdb862a8-9545-4f69-bd0f-016e802e61a6", "4c781b95-1c51-4ac3-89f2-7288240418cf"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -56453,10 +55540,7 @@
                 "quickInput": false,
                 "outputText": "@r ",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "fdb862a8-9545-4f69-bd0f-016e802e61a6",
-                  "4c781b95-1c51-4ac3-89f2-7288240418cf"
-                ]
+                "bindViewGroup": ["fdb862a8-9545-4f69-bd0f-016e802e61a6", "4c781b95-1c51-4ac3-89f2-7288240418cf"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -56529,10 +55613,7 @@
                 "quickInput": false,
                 "outputText": "@p ",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "fdb862a8-9545-4f69-bd0f-016e802e61a6",
-                  "4c781b95-1c51-4ac3-89f2-7288240418cf"
-                ]
+                "bindViewGroup": ["fdb862a8-9545-4f69-bd0f-016e802e61a6", "4c781b95-1c51-4ac3-89f2-7288240418cf"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -56605,10 +55686,7 @@
                 "quickInput": false,
                 "outputText": "~ ~ ~ ",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "fdb862a8-9545-4f69-bd0f-016e802e61a6",
-                  "4c781b95-1c51-4ac3-89f2-7288240418cf"
-                ]
+                "bindViewGroup": ["fdb862a8-9545-4f69-bd0f-016e802e61a6", "4c781b95-1c51-4ac3-89f2-7288240418cf"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -56764,9 +55842,7 @@
                 "quickInput": false,
                 "outputText": "/time set day",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "6b8596f9-1c71-481f-ad88-f8e142f26a27"
-                ]
+                "bindViewGroup": ["6b8596f9-1c71-481f-ad88-f8e142f26a27"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -56839,9 +55915,7 @@
                 "quickInput": false,
                 "outputText": "/time set midnight",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "6b8596f9-1c71-481f-ad88-f8e142f26a27"
-                ]
+                "bindViewGroup": ["6b8596f9-1c71-481f-ad88-f8e142f26a27"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -56914,9 +55988,7 @@
                 "quickInput": false,
                 "outputText": "/time set night",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "6b8596f9-1c71-481f-ad88-f8e142f26a27"
-                ]
+                "bindViewGroup": ["6b8596f9-1c71-481f-ad88-f8e142f26a27"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -56989,9 +56061,7 @@
                 "quickInput": false,
                 "outputText": "/time set noon",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "6b8596f9-1c71-481f-ad88-f8e142f26a27"
-                ]
+                "bindViewGroup": ["6b8596f9-1c71-481f-ad88-f8e142f26a27"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -57063,15 +56133,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29,
-                  30,
-                  14
-                ],
-                "bindViewGroup": [
-                  "6b8596f9-1c71-481f-ad88-f8e142f26a27",
-                  "cbd42125-202e-46dc-94b5-ea2526e34d84"
-                ]
+                "outputKeycodes": [29, 30, 14],
+                "bindViewGroup": ["6b8596f9-1c71-481f-ad88-f8e142f26a27", "cbd42125-202e-46dc-94b5-ea2526e34d84"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -57153,15 +56216,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29,
-                  30,
-                  14
-                ],
-                "bindViewGroup": [
-                  "8a0d370e-2af6-490f-84d9-2709b59b1436",
-                  "cbd42125-202e-46dc-94b5-ea2526e34d84"
-                ]
+                "outputKeycodes": [29, 30, 14],
+                "bindViewGroup": ["8a0d370e-2af6-490f-84d9-2709b59b1436", "cbd42125-202e-46dc-94b5-ea2526e34d84"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -57307,9 +56363,7 @@
                 "quickInput": false,
                 "outputText": "/weather clear",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8a0d370e-2af6-490f-84d9-2709b59b1436"
-                ]
+                "bindViewGroup": ["8a0d370e-2af6-490f-84d9-2709b59b1436"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -57382,9 +56436,7 @@
                 "quickInput": false,
                 "outputText": "/weather rain",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8a0d370e-2af6-490f-84d9-2709b59b1436"
-                ]
+                "bindViewGroup": ["8a0d370e-2af6-490f-84d9-2709b59b1436"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -57457,9 +56509,7 @@
                 "quickInput": false,
                 "outputText": "/weather thunder",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8a0d370e-2af6-490f-84d9-2709b59b1436"
-                ]
+                "bindViewGroup": ["8a0d370e-2af6-490f-84d9-2709b59b1436"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -57541,15 +56591,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29,
-                  30,
-                  14
-                ],
-                "bindViewGroup": [
-                  "cbd42125-202e-46dc-94b5-ea2526e34d84",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "outputKeycodes": [29, 30, 14],
+                "bindViewGroup": ["cbd42125-202e-46dc-94b5-ea2526e34d84", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -57622,9 +56665,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "7ff70165-8232-4b26-8bf7-77fde487946e"
-                ]
+                "bindViewGroup": ["7ff70165-8232-4b26-8bf7-77fde487946e"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -57697,9 +56738,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c7e11d95-10d1-48e2-bbb3-72b5dd95f4b7"
-                ]
+                "bindViewGroup": ["c7e11d95-10d1-48e2-bbb3-72b5dd95f4b7"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -57772,9 +56811,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2f668825-b42c-4b28-8c7d-0c7bf74b6a28"
-                ]
+                "bindViewGroup": ["2f668825-b42c-4b28-8c7d-0c7bf74b6a28"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -57930,10 +56967,7 @@
                 "quickInput": false,
                 "outputText": "/give @s minecraft:command_block",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "7ff70165-8232-4b26-8bf7-77fde487946e",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["7ff70165-8232-4b26-8bf7-77fde487946e", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -58006,10 +57040,7 @@
                 "quickInput": false,
                 "outputText": "/give @s minecraft:chain_command_block",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "7ff70165-8232-4b26-8bf7-77fde487946e",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["7ff70165-8232-4b26-8bf7-77fde487946e", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -58082,10 +57113,7 @@
                 "quickInput": false,
                 "outputText": "/give @s minecraft:repeating_command_block",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "7ff70165-8232-4b26-8bf7-77fde487946e",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["7ff70165-8232-4b26-8bf7-77fde487946e", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -58158,10 +57186,7 @@
                 "quickInput": false,
                 "outputText": "/give @s minecraft:command_block_minecart",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "7ff70165-8232-4b26-8bf7-77fde487946e",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["7ff70165-8232-4b26-8bf7-77fde487946e", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -58234,10 +57259,7 @@
                 "quickInput": false,
                 "outputText": "/give @s minecraft:structure_block",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "7ff70165-8232-4b26-8bf7-77fde487946e",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["7ff70165-8232-4b26-8bf7-77fde487946e", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -58310,10 +57332,7 @@
                 "quickInput": false,
                 "outputText": "/give @s minecraft:structure_void",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "7ff70165-8232-4b26-8bf7-77fde487946e",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["7ff70165-8232-4b26-8bf7-77fde487946e", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -58386,10 +57405,7 @@
                 "quickInput": false,
                 "outputText": "/give @s minecraft:jigsaw",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "7ff70165-8232-4b26-8bf7-77fde487946e",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["7ff70165-8232-4b26-8bf7-77fde487946e", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -58462,10 +57478,7 @@
                 "quickInput": false,
                 "outputText": "/give @s minecraft:barrier",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "7ff70165-8232-4b26-8bf7-77fde487946e",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["7ff70165-8232-4b26-8bf7-77fde487946e", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -58538,10 +57551,7 @@
                 "quickInput": false,
                 "outputText": "/give @p minecraft:debug_stick",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "7ff70165-8232-4b26-8bf7-77fde487946e",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["7ff70165-8232-4b26-8bf7-77fde487946e", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -58614,10 +57624,7 @@
                 "quickInput": false,
                 "outputText": "/give @s minecraft:light",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "e840e463-3090-4c0d-a521-8114dd3a099d",
-                  "7ff70165-8232-4b26-8bf7-77fde487946e"
-                ]
+                "bindViewGroup": ["e840e463-3090-4c0d-a521-8114dd3a099d", "7ff70165-8232-4b26-8bf7-77fde487946e"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -58773,10 +57780,7 @@
                 "quickInput": false,
                 "outputText": "/kill @e[type\u003dminecraft:item]",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c7e11d95-10d1-48e2-bbb3-72b5dd95f4b7",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["c7e11d95-10d1-48e2-bbb3-72b5dd95f4b7", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -58849,10 +57853,7 @@
                 "quickInput": false,
                 "outputText": "/clear",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c7e11d95-10d1-48e2-bbb3-72b5dd95f4b7",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["c7e11d95-10d1-48e2-bbb3-72b5dd95f4b7", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -58925,10 +57926,7 @@
                 "quickInput": false,
                 "outputText": "/kill @e[type\u003d!minecraft:player]",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c7e11d95-10d1-48e2-bbb3-72b5dd95f4b7",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["c7e11d95-10d1-48e2-bbb3-72b5dd95f4b7", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -59001,10 +57999,7 @@
                 "quickInput": false,
                 "outputText": "/kill",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c7e11d95-10d1-48e2-bbb3-72b5dd95f4b7",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["c7e11d95-10d1-48e2-bbb3-72b5dd95f4b7", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -59160,10 +58155,7 @@
                 "quickInput": false,
                 "outputText": "/gamemode survival",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2f668825-b42c-4b28-8c7d-0c7bf74b6a28",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["2f668825-b42c-4b28-8c7d-0c7bf74b6a28", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -59236,10 +58228,7 @@
                 "quickInput": false,
                 "outputText": "/gamemode creative",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2f668825-b42c-4b28-8c7d-0c7bf74b6a28",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["2f668825-b42c-4b28-8c7d-0c7bf74b6a28", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -59312,10 +58301,7 @@
                 "quickInput": false,
                 "outputText": "/gamemode adventure",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2f668825-b42c-4b28-8c7d-0c7bf74b6a28",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["2f668825-b42c-4b28-8c7d-0c7bf74b6a28", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -59388,10 +58374,7 @@
                 "quickInput": false,
                 "outputText": "/gamemode spectator",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2f668825-b42c-4b28-8c7d-0c7bf74b6a28",
-                  "e840e463-3090-4c0d-a521-8114dd3a099d"
-                ]
+                "bindViewGroup": ["2f668825-b42c-4b28-8c7d-0c7bf74b6a28", "e840e463-3090-4c0d-a521-8114dd3a099d"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -59483,9 +58466,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "6ac6e2c9-564e-49a8-bfe3-a5c24ff30506"
-                ]
+                "bindViewGroup": ["6ac6e2c9-564e-49a8-bfe3-a5c24ff30506"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -59558,9 +58539,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "6ac6e2c9-564e-49a8-bfe3-a5c24ff30506"
-                ]
+                "bindViewGroup": ["6ac6e2c9-564e-49a8-bfe3-a5c24ff30506"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -59633,9 +58612,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "6ac6e2c9-564e-49a8-bfe3-a5c24ff30506"
-                ]
+                "bindViewGroup": ["6ac6e2c9-564e-49a8-bfe3-a5c24ff30506"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -60438,9 +59415,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "6ac6e2c9-564e-49a8-bfe3-a5c24ff30506"
-                ]
+                "bindViewGroup": ["6ac6e2c9-564e-49a8-bfe3-a5c24ff30506"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -60741,9 +59716,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
+                "outputKeycodes": [20],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -60889,9 +59862,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  15
-                ],
+                "outputKeycodes": [15],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -60964,9 +59935,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  106
-                ],
+                "outputKeycodes": [106],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -61039,9 +60008,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  105
-                ],
+                "outputKeycodes": [105],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -61114,9 +60081,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  103
-                ],
+                "outputKeycodes": [103],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -61189,9 +60154,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  108
-                ],
+                "outputKeycodes": [108],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -61264,9 +60227,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  42
-                ],
+                "outputKeycodes": [42],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -61339,9 +60300,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  28
-                ],
+                "outputKeycodes": [28],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -61414,9 +60373,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  14
-                ],
+                "outputKeycodes": [14],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -62901,9 +61858,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "16a7e72a-aa75-4db6-87ba-bea64cb8f294"
-                ]
+                "bindViewGroup": ["16a7e72a-aa75-4db6-87ba-bea64cb8f294"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -63108,9 +62063,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "feab0bc7-dade-4024-b9e1-43cb1d3106bd"
-                ]
+                "bindViewGroup": ["feab0bc7-dade-4024-b9e1-43cb1d3106bd"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -63329,9 +62282,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "feab0bc7-dade-4024-b9e1-43cb1d3106bd"
-                ]
+                "bindViewGroup": ["feab0bc7-dade-4024-b9e1-43cb1d3106bd"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -63584,9 +62535,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "61145c73-f9f8-47c1-abce-8a043b07ac21"
-                ]
+                "bindViewGroup": ["61145c73-f9f8-47c1-abce-8a043b07ac21"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -64179,12 +63128,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
-                "bindViewGroup": [
-                  "a51354b4-abc5-4ae3-bd97-04438a794d66"
-                ]
+                "outputKeycodes": [1],
+                "bindViewGroup": ["a51354b4-abc5-4ae3-bd97-04438a794d66"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -64329,9 +63274,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "doubleClickEvent": {
@@ -64404,14 +63347,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
-                "bindViewGroup": [
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "a51354b4-abc5-4ae3-bd97-04438a794d66",
-                  "4451d294-1638-4ee8-bb45-1a1847b2fc1a"
-                ]
+                "outputKeycodes": [1],
+                "bindViewGroup": ["2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "a51354b4-abc5-4ae3-bd97-04438a794d66", "4451d294-1638-4ee8-bb45-1a1847b2fc1a"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -64459,9 +63396,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -64486,9 +63421,7 @@
                 "quickInput": false,
                 "outputText": "/tellraw @a {\"text\":\"\",\"extra\":[{\"text\":\"》键位意见反馈《【点击进入】\",\"color\":\"yellow\",\"bold\":\"true\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://wx.mail.qq.com/home/index?sid\u003dzVNrRYxGblUusE5pAH9fRwAA#/list/1/1\"}}]}",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "a51354b4-abc5-4ae3-bd97-04438a794d66"
-                ]
+                "bindViewGroup": ["a51354b4-abc5-4ae3-bd97-04438a794d66"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -64536,9 +63469,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -64562,12 +63493,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  60
-                ],
-                "bindViewGroup": [
-                  "a51354b4-abc5-4ae3-bd97-04438a794d66"
-                ]
+                "outputKeycodes": [60],
+                "bindViewGroup": ["a51354b4-abc5-4ae3-bd97-04438a794d66"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -64688,9 +63615,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -64715,9 +63640,7 @@
                 "quickInput": false,
                 "outputText": "/tellraw @a {\"text\":\"\",\"extra\":[{\"text\":\"你真的有在尝试点击（？》点击进入作者主页《\",\"color\":\"blue\",\"bold\":\"true\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://space.bilibili.com/1441611827/\"}}]}",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "a51354b4-abc5-4ae3-bd97-04438a794d66"
-                ]
+                "bindViewGroup": ["a51354b4-abc5-4ae3-bd97-04438a794d66"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -64984,9 +63907,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -65011,9 +63932,7 @@
                 "quickInput": false,
                 "outputText": "/tellraw @a {\"text\":\"\",\"extra\":[{\"text\":\"》更换JAVA皮肤|点击进入官网《\",\"color\":\"green\",\"bold\":\"true\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin\"}}]}",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "a51354b4-abc5-4ae3-bd97-04438a794d66"
-                ]
+                "bindViewGroup": ["a51354b4-abc5-4ae3-bd97-04438a794d66"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -65061,9 +63980,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  63
-                ],
+                "outputKeycodes": [63],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -65136,9 +64053,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -65163,10 +64078,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "a51354b4-abc5-4ae3-bd97-04438a794d66",
-                  "d8ecb6a0-8d01-4cca-bac3-e6e12a267042"
-                ]
+                "bindViewGroup": ["a51354b4-abc5-4ae3-bd97-04438a794d66", "d8ecb6a0-8d01-4cca-bac3-e6e12a267042"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -65506,9 +64418,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -65533,9 +64443,7 @@
                 "quickInput": false,
                 "outputText": "/tellraw @a {\"text\":\"\",\"extra\":[{\"text\":\"你真的有在尝试点击（？》点击进入作者主页《\",\"color\":\"blue\",\"bold\":\"true\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://space.bilibili.com/1441611827/\"}}]}",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "a51354b4-abc5-4ae3-bd97-04438a794d66"
-                ]
+                "bindViewGroup": ["a51354b4-abc5-4ae3-bd97-04438a794d66"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -65618,11 +64526,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "a51354b4-abc5-4ae3-bd97-04438a794d66",
-                  "4451d294-1638-4ee8-bb45-1a1847b2fc1a"
-                ]
+                "bindViewGroup": ["2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "a51354b4-abc5-4ae3-bd97-04438a794d66", "4451d294-1638-4ee8-bb45-1a1847b2fc1a"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -66235,9 +65139,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8104e08a-be39-4941-8108-b24fec14d56a"
-                ]
+                "bindViewGroup": ["8104e08a-be39-4941-8108-b24fec14d56a"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -66310,10 +65212,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "2bc49fb8-c5e6-4124-b525-46ee8fe927e3",
-                  "8104e08a-be39-4941-8108-b24fec14d56a"
-                ]
+                "bindViewGroup": ["2bc49fb8-c5e6-4124-b525-46ee8fe927e3", "8104e08a-be39-4941-8108-b24fec14d56a"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -66386,16 +65285,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "0f618ea1-3531-44f9-adc2-24953cdc6269",
-                  "8104e08a-be39-4941-8108-b24fec14d56a",
-                  "a7595be0-0705-488b-9786-c055f7e4aa0e",
-                  "28c12971-5263-4e95-bcbf-dd9ee7551bd4",
-                  "e9544b3b-d4da-4372-8c8d-514c144638eb",
-                  "0830343f-c056-43a1-b4e2-515fe30afaee",
-                  "8528c877-d7bd-40b6-b9e2-1bbba5073494",
-                  "3ba9f5e6-f76a-442c-8d22-069b1bd5b377"
-                ]
+                "bindViewGroup": ["0f618ea1-3531-44f9-adc2-24953cdc6269", "8104e08a-be39-4941-8108-b24fec14d56a", "a7595be0-0705-488b-9786-c055f7e4aa0e", "28c12971-5263-4e95-bcbf-dd9ee7551bd4", "e9544b3b-d4da-4372-8c8d-514c144638eb", "0830343f-c056-43a1-b4e2-515fe30afaee", "8528c877-d7bd-40b6-b9e2-1bbba5073494", "3ba9f5e6-f76a-442c-8d22-069b1bd5b377"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -66468,10 +65358,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e",
-                  "8104e08a-be39-4941-8108-b24fec14d56a"
-                ]
+                "bindViewGroup": ["40d4b992-9ac9-4bc6-9b8f-c5d6a689f39e", "8104e08a-be39-4941-8108-b24fec14d56a"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -66543,9 +65430,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  63
-                ],
+                "outputKeycodes": [63],
                 "bindViewGroup": []
               },
               "doubleClickEvent": {
@@ -66692,10 +65577,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "002eda5a-db4e-4ee7-93c4-dd763a817528",
-                  "8104e08a-be39-4941-8108-b24fec14d56a"
-                ]
+                "bindViewGroup": ["002eda5a-db4e-4ee7-93c4-dd763a817528", "8104e08a-be39-4941-8108-b24fec14d56a"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -66914,10 +65796,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d8ecb6a0-8d01-4cca-bac3-e6e12a267042",
-                  "8104e08a-be39-4941-8108-b24fec14d56a"
-                ]
+                "bindViewGroup": ["d8ecb6a0-8d01-4cca-bac3-e6e12a267042", "8104e08a-be39-4941-8108-b24fec14d56a"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -67365,10 +66244,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "002eda5a-db4e-4ee7-93c4-dd763a817528",
-                  "cefe57f3-1bb6-4f86-a9c8-da409f950429"
-                ]
+                "bindViewGroup": ["002eda5a-db4e-4ee7-93c4-dd763a817528", "cefe57f3-1bb6-4f86-a9c8-da409f950429"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -67806,10 +66682,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "002eda5a-db4e-4ee7-93c4-dd763a817528",
-                  "8104e08a-be39-4941-8108-b24fec14d56a"
-                ]
+                "bindViewGroup": ["002eda5a-db4e-4ee7-93c4-dd763a817528", "8104e08a-be39-4941-8108-b24fec14d56a"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -68028,9 +66901,7 @@
                 "quickInput": false,
                 "outputText": "/tellraw @a {\"text\":\"\",\"extra\":[{\"text\":\"》键位意见反馈《【点击进入】\",\"color\":\"yellow\",\"bold\":\"true\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://wx.mail.qq.com/home/index?sid\u003dzVNrRYxGblUusE5pAH9fRwAA#/list/1/1\"}}]}",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "002eda5a-db4e-4ee7-93c4-dd763a817528"
-                ]
+                "bindViewGroup": ["002eda5a-db4e-4ee7-93c4-dd763a817528"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -68259,10 +67130,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "a6daf699-637e-4e2d-b501-e88f97c0baec",
-                  "002eda5a-db4e-4ee7-93c4-dd763a817528"
-                ]
+                "bindViewGroup": ["a6daf699-637e-4e2d-b501-e88f97c0baec", "002eda5a-db4e-4ee7-93c4-dd763a817528"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -68929,10 +67797,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "8c428bf5-9fdf-4ecd-bcc7-d237f71edbdf",
-                  "002eda5a-db4e-4ee7-93c4-dd763a817528"
-                ]
+                "bindViewGroup": ["8c428bf5-9fdf-4ecd-bcc7-d237f71edbdf", "002eda5a-db4e-4ee7-93c4-dd763a817528"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -69599,10 +68464,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "002eda5a-db4e-4ee7-93c4-dd763a817528",
-                  "cefe57f3-1bb6-4f86-a9c8-da409f950429"
-                ]
+                "bindViewGroup": ["002eda5a-db4e-4ee7-93c4-dd763a817528", "cefe57f3-1bb6-4f86-a9c8-da409f950429"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -70862,9 +69724,7 @@
                 "quickInput": false,
                 "outputText": "/tellraw @a {\"text\":\"\",\"extra\":[{\"text\":\"》更换JAVA皮肤|点击进入官网《\",\"color\":\"green\",\"bold\":\"true\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin\"}}]}",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d8ecb6a0-8d01-4cca-bac3-e6e12a267042"
-                ]
+                "bindViewGroup": ["d8ecb6a0-8d01-4cca-bac3-e6e12a267042"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -71010,9 +69870,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "d8ecb6a0-8d01-4cca-bac3-e6e12a267042"
-                ]
+                "bindViewGroup": ["d8ecb6a0-8d01-4cca-bac3-e6e12a267042"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -71668,9 +70526,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "doubleClickEvent": {
@@ -71962,12 +70818,8 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  38
-                ],
-                "bindViewGroup": [
-                  "d8ecb6a0-8d01-4cca-bac3-e6e12a267042"
-                ]
+                "outputKeycodes": [38],
+                "bindViewGroup": ["d8ecb6a0-8d01-4cca-bac3-e6e12a267042"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -72561,9 +71413,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c594d53f-47c0-4ae1-b81b-ad736b321155"
-                ]
+                "bindViewGroup": ["c594d53f-47c0-4ae1-b81b-ad736b321155"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -72709,9 +71559,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c594d53f-47c0-4ae1-b81b-ad736b321155"
-                ]
+                "bindViewGroup": ["c594d53f-47c0-4ae1-b81b-ad736b321155"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -73295,9 +72143,7 @@
                 "quickInput": false,
                 "outputText": "/tellraw @a {\"text\":\"\",\"extra\":[{\"text\":\"欢迎进入FSF官方云服务器！离线请在节假日期间联系up开服[点击链接跳转]\",\"color\":\"green\",\"bold\":\"true\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"http://add.aternos.org/apxfsf\"}}]}",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c594d53f-47c0-4ae1-b81b-ad736b321155"
-                ]
+                "bindViewGroup": ["c594d53f-47c0-4ae1-b81b-ad736b321155"]
               },
               "doubleClickEvent": {
                 "autoKeep": false,
@@ -73428,9 +72274,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -73587,9 +72431,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c95ff502-1273-42f4-89a4-87899d2cfca1"
-                ]
+                "bindViewGroup": ["c95ff502-1273-42f4-89a4-87899d2cfca1"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -73662,9 +72504,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c95ff502-1273-42f4-89a4-87899d2cfca1"
-                ]
+                "bindViewGroup": ["c95ff502-1273-42f4-89a4-87899d2cfca1"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -73737,9 +72577,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c95ff502-1273-42f4-89a4-87899d2cfca1"
-                ]
+                "bindViewGroup": ["c95ff502-1273-42f4-89a4-87899d2cfca1"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -73812,9 +72650,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c95ff502-1273-42f4-89a4-87899d2cfca1"
-                ]
+                "bindViewGroup": ["c95ff502-1273-42f4-89a4-87899d2cfca1"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -73887,9 +72723,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c95ff502-1273-42f4-89a4-87899d2cfca1"
-                ]
+                "bindViewGroup": ["c95ff502-1273-42f4-89a4-87899d2cfca1"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -73962,9 +72796,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c95ff502-1273-42f4-89a4-87899d2cfca1"
-                ]
+                "bindViewGroup": ["c95ff502-1273-42f4-89a4-87899d2cfca1"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -74037,9 +72869,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c95ff502-1273-42f4-89a4-87899d2cfca1"
-                ]
+                "bindViewGroup": ["c95ff502-1273-42f4-89a4-87899d2cfca1"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -74112,9 +72942,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c95ff502-1273-42f4-89a4-87899d2cfca1"
-                ]
+                "bindViewGroup": ["c95ff502-1273-42f4-89a4-87899d2cfca1"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -74187,9 +73015,7 @@
                 "quickInput": false,
                 "outputText": "tp ",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "c95ff502-1273-42f4-89a4-87899d2cfca1"
-                ]
+                "bindViewGroup": ["c95ff502-1273-42f4-89a4-87899d2cfca1"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -75189,9 +74015,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "cb28a3e5-d08d-4d57-8128-e7a105fb9ed4"
-                ]
+                "bindViewGroup": ["cb28a3e5-d08d-4d57-8128-e7a105fb9ed4"]
               },
               "clickEvent": {
                 "autoKeep": false,

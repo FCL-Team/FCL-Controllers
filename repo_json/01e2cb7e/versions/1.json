@@ -3,7 +3,7 @@
   "name": "76种控件样式",
   "version": "1",
   "versionCode": 1,
-  "author": "B站妙狗国国王",
+  "author": "B站XiaoluoFoxington",
   "description": "此布局提供了38种控件样式和38种方向键样式。均为原创，如有雷同纯属巧合。可以直接使用，但必须明确标注。",
   "controllerVersion": 20,
   "buttonStyles": [
@@ -2490,10 +2490,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "15675bb1-049f-4bf8-b2e2-2fdac64dbd90",
-                  "aa1b3117-3f8b-46ba-8a89-667bf8671ed7"
-                ]
+                "bindViewGroup": ["15675bb1-049f-4bf8-b2e2-2fdac64dbd90", "aa1b3117-3f8b-46ba-8a89-667bf8671ed7"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -4327,10 +4324,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "aa1b3117-3f8b-46ba-8a89-667bf8671ed7",
-                  "a98321ee-4cd7-4847-8f8c-dceba37aecef"
-                ]
+                "bindViewGroup": ["aa1b3117-3f8b-46ba-8a89-667bf8671ed7", "a98321ee-4cd7-4847-8f8c-dceba37aecef"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -5361,10 +5355,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "a98321ee-4cd7-4847-8f8c-dceba37aecef",
-                  "7e14439a-0393-4fb7-b02e-badc24cf42cb"
-                ]
+                "bindViewGroup": ["a98321ee-4cd7-4847-8f8c-dceba37aecef", "7e14439a-0393-4fb7-b02e-badc24cf42cb"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -6366,10 +6357,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "7e14439a-0393-4fb7-b02e-badc24cf42cb",
-                  "15675bb1-049f-4bf8-b2e2-2fdac64dbd90"
-                ]
+                "bindViewGroup": ["7e14439a-0393-4fb7-b02e-badc24cf42cb", "15675bb1-049f-4bf8-b2e2-2fdac64dbd90"]
               },
               "longPressEvent": {
                 "autoKeep": false,
