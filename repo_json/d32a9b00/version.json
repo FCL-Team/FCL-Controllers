@@ -1,6 +1,6 @@
 {
   "author": "辉岩ZH",
-  "description": "极致舒适，有自定义按键",
+  "description": "舒适至极",
   "history": [
     {
       "versionCode": 114514,
@@ -12,8 +12,8 @@
     }
   ],
   "latest": {
-    "versionCode": 114515,
+    "versionCode": 114516,
     "versionName": "0.85"
   },
-  "screenshot": 3
+  "screenshot": 4
 }
