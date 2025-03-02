@@ -451,7 +451,7 @@
     "categories": [1, 5],
     "device": [0, 1],
     "id": "db7337cf",
-    "introduction": "简洁优秀的键位",
+    "introduction": "简洁优秀的键位                此次更新将全部按钮重置了一番，并添加TouchController布局",
     "lang": "zh_CN",
     "name": "tortoiseUI"
   },
