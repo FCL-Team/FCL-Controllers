@@ -526,5 +526,13 @@
     "introduction": "内置全键盘 测试",
     "lang": "zh_CN",
     "name": "21.TACZ.existence"
+  },
+  {
+    "categories": [1, 5],
+    "device": [0],
+    "id": "c25e359c",
+    "introduction": "用于原版生存模组是XAERO的小地图和TACZ枪械",
+    "lang": "zh_CN",
+    "name": "21.TACZ.existence"
   }
 ]
