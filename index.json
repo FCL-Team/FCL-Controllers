@@ -518,5 +518,13 @@
     "introduction": "可配置的布局，可以快速加装控件，最初灵感来源于win10方方正正的外观，尽可能的减少了控件重叠",
     "device": [0],
     "categories": [1, 2, 3]
+  },
+  {
+    "categories": [1, 5],
+    "device": [0],
+    "id": "603cf3f9",
+    "introduction": "内置全键盘 测试",
+    "lang": "zh_CN",
+    "name": "21.TACZ.existence"
   }
 ]
