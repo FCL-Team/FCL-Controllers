@@ -68,7 +68,7 @@
       "fillColorPressed": 0
     },
     {
-      "name": "tortoiseUI枪战",
+      "name": "tortoiseUI抢占戈战",
       "textColor": -1,
       "textSize": 25,
       "strokeColor": -2500135,
@@ -3319,7 +3319,7 @@
           {
             "id": "bc3dcb97-51ec-4297-8b03-242207bf2121",
             "text": "⨷",
-            "style": "tortoiseUI枪战",
+            "style": "tortoiseUI抢占戈战",
             "baseInfo": {
               "visibilityType": "IN_GAME",
               "xPosition": 704,
@@ -3394,7 +3394,7 @@
           {
             "id": "c82cfc29-9d79-45b9-9df4-3fe8461327f6",
             "text": "［▉▉▶",
-            "style": "tortoiseUI枪战",
+            "style": "tortoiseUI抢占戈战",
             "baseInfo": {
               "visibilityType": "IN_GAME",
               "xPosition": 282,
