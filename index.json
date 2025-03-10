@@ -448,10 +448,10 @@
     "name": "可恶の星穹列车"
   },
   {
-    "categories": [1, 5],
+    "categories": [1, 3, 5],
     "device": [0, 1],
     "id": "db7337cf",
-    "introduction": "简洁优秀的键位                此次更新将全部按钮重置了一番，并添加TouchController布局",
+    "introduction": "简洁优秀的键位\n2.0更新TouchController键位(需要搭配TouchController mods)\n3.0更新了设置界面(设置时也可操作游戏，重新制作了设置布局，更美观)",
     "lang": "zh_CN",
     "name": "tortoiseUI"
   },
