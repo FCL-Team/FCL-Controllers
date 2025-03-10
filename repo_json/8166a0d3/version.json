@@ -1,6 +1,6 @@
 {
   "author": "EricaV4",
-  "description": "通用性极高的键位 可适配整合包以及TACz等模组",
+  "description": "你从未见过的极简布局 适用于所有MC版本 包括PVP TACz YSM 以及生电 整合包(可能是最后一个版本)",
   "history": [
     {
       "versionCode": 1303,
@@ -13,11 +13,15 @@
     {
       "versionCode": 14041,
       "versionName": "b14.4ONE"
+    },
+    {
+      "versionCode": 14051,
+      "versionName": "b15.1"
     }
   ],
   "latest": {
-    "versionCode": 14051,
-    "versionName": "b15.1"
+    "versionCode": 14052,
+    "versionName": "b15.2Ended"
   },
-  "screenshot": 9
+  "screenshot": 10
 }
