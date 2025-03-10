@@ -3795,7 +3795,7 @@
           },
           {
             "id": "b57efba6-8440-4b3d-a77b-053b01d16cda",
-            "text": "枪械",
+            "text": "***",
             "style": "xxh",
             "baseInfo": {
               "visibilityType": "ALWAYS",
@@ -41739,7 +41739,7 @@
     },
     {
       "id": "cf0e4669-d603-4536-afa9-ee924cf8b983",
-      "name": "永恒枪械",
+      "name": "永恒***",
       "visibility": "INVISIBLE",
       "viewData": {
         "buttonList": [
@@ -41971,7 +41971,7 @@
           },
           {
             "id": "51cb7627-47ef-4452-ac14-8b2a7e56d3cf",
-            "text": "枪械更多信息",
+            "text": "***更多信息",
             "style": "xxh",
             "baseInfo": {
               "visibilityType": "ALWAYS",

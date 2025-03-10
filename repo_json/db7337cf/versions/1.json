@@ -83,7 +83,7 @@
       "fillColorPressed": -1
     },
     {
-      "name": "tortoiseUI枪战",
+      "name": "tortoiseUI***战",
       "textColor": -2500135,
       "textSize": 25,
       "strokeColor": -2500135,
@@ -11821,7 +11821,7 @@
           {
             "id": "bc3dcb97-51ec-4297-8b03-242207bf2121",
             "text": "⨷",
-            "style": "tortoiseUI枪战",
+            "style": "tortoiseUI***战",
             "baseInfo": {
               "visibilityType": "IN_GAME",
               "xPosition": 704,
@@ -11896,7 +11896,7 @@
           {
             "id": "c82cfc29-9d79-45b9-9df4-3fe8461327f6",
             "text": "［▉▉▶",
-            "style": "tortoiseUI枪战",
+            "style": "tortoiseUI***战",
             "baseInfo": {
               "visibilityType": "IN_GAME",
               "xPosition": 282,

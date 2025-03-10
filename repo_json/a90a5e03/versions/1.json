@@ -50655,7 +50655,7 @@
           },
           {
             "id": "4f5aecc7-34d2-4d7b-af1f-53eb5e45344a",
-            "text": "紫砂",
+            "text": "***",
             "style": "冈易红色按键",
             "baseInfo": {
               "visibilityType": "ALWAYS",
@@ -57968,7 +57968,7 @@
           },
           {
             "id": "b7cf8ac5-0cc1-4ed8-84ac-653d5c47d634",
-            "text": "自杀",
+            "text": "***",
             "style": "基岩版黑色按键",
             "baseInfo": {
               "visibilityType": "ALWAYS",
@@ -71869,7 +71869,7 @@
           },
           {
             "id": "f749511e-d969-4138-98ea-df3ae8d2cfa1",
-            "text": "来FSF服务器，自在畅玩，无限自由！",
+            "text": "***，自在畅玩，无限自由！",
             "style": "全透明",
             "baseInfo": {
               "visibilityType": "ALWAYS",
