@@ -5879,7 +5879,7 @@
           },
           {
             "id": "818c4acf-070d-4c48-ac36-7d6099e10bcc",
-            "text": "FORGE-枪械键位",
+            "text": "FORGE-***键位",
             "style": "方按键",
             "baseInfo": {
               "visibilityType": "ALWAYS",
@@ -6564,7 +6564,7 @@
           },
           {
             "id": "4907ecdd-fdd6-4563-a336-89c7c5c2ba24",
-            "text": "TACZ枪械",
+            "text": "TACZ***",
             "style": "无边框黑中字文本框",
             "baseInfo": {
               "visibilityType": "ALWAYS",
@@ -8999,7 +8999,7 @@
     },
     {
       "id": "de3c9ab2-f1d0-455b-8ee4-faba3e42d410",
-      "name": "加装模组介绍枪械1",
+      "name": "加装模组介绍***1",
       "visibility": "INVISIBLE",
       "viewData": {
         "buttonList": [
@@ -9305,7 +9305,7 @@
     },
     {
       "id": "577c15c3-67b8-4b5c-88ad-e0408cd90af5",
-      "name": "加装枪械控件",
+      "name": "加装***控件",
       "visibility": "INVISIBLE",
       "viewData": {
         "buttonList": [
@@ -9607,7 +9607,7 @@
           },
           {
             "id": "cf27daa5-7928-412b-a17f-5e359d520aae",
-            "text": "枪械",
+            "text": "***",
             "style": "无边框中白字文本框",
             "baseInfo": {
               "visibilityType": "IN_GAME",
