@@ -7583,13 +7583,13 @@
     },
     {
       "id": "d3f2eab6-d3ad-4415-9e38-6a5be6d0ccf8",
-      "name": "桂",
+      "name": "***",
       "visibility": "VISIBLE",
       "viewData": {
         "buttonList": [
           {
             "id": "a671b47b-e469-4328-b02d-d827ed4b41c6",
-            "text": "点我\n开桂",
+            "text": "***",
             "style": "现代化x2",
             "baseInfo": {
               "visibilityType": "ALWAYS",
@@ -7669,13 +7669,13 @@
     },
     {
       "id": "06b75919-08a0-4bf3-839c-8f5e6543de7f",
-      "name": "桂·分享",
+      "name": "***",
       "visibility": "INVISIBLE",
       "viewData": {
         "buttonList": [
           {
             "id": "ad440432-c7e3-4ef3-bc11-940ae56f2a97",
-            "text": "想玩桂可以来QQ群：139641497\n来了就可以玩桂了",
+            "text": "***",
             "style": "xxh",
             "baseInfo": {
               "visibilityType": "ALWAYS",

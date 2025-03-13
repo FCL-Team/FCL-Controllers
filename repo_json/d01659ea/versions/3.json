@@ -218,7 +218,7 @@
       "fillColorPressed": -11513776
     },
     {
-      "name": "GXS枪战",
+      "name": "GXS***战",
       "textColor": -13290187,
       "textSize": 15,
       "strokeColor": -13290187,
@@ -10232,7 +10232,7 @@
           },
           {
             "id": "07669ada-b5a7-4625-8b76-dfdf334c515d",
-            "text": "枪战模式",
+            "text": "***战模式",
             "style": "方形基础",
             "baseInfo": {
               "visibilityType": "ALWAYS",
@@ -10524,14 +10524,14 @@
     },
     {
       "id": "68eb99ba-3c5c-4a99-935e-c69be3ec7c87",
-      "name": "枪战模式",
+      "name": "***战模式",
       "visibility": "INVISIBLE",
       "viewData": {
         "buttonList": [
           {
             "id": "c46734a2-9e44-4b6f-b342-f81a2d73fa00",
             "text": "［▉▉▶",
-            "style": "GXS枪战",
+            "style": "GXS***战",
             "baseInfo": {
               "visibilityType": "IN_GAME",
               "xPosition": 223,
@@ -10606,7 +10606,7 @@
           {
             "id": "1981979e-860d-49de-b40a-2426a82028b5",
             "text": "⨷",
-            "style": "GXS枪战",
+            "style": "GXS***战",
             "baseInfo": {
               "visibilityType": "IN_GAME",
               "xPosition": 755,
