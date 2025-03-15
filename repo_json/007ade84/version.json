@@ -21,11 +21,15 @@
     {
       "versionCode": 5,
       "versionName": "1.4"
+    },
+    {
+      "versionCode": 7,
+      "versionName": "2.1"
     }
   ],
   "latest": {
-    "versionCode": 7,
-    "versionName": "2.1"
+    "versionCode": 8,
+    "versionName": "2.2"
   },
-  "screenshot": 5
+  "screenshot": 4
 }

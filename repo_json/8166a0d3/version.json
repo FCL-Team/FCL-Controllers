@@ -17,11 +17,15 @@
     {
       "versionCode": 14051,
       "versionName": "b15.1"
+    },
+    {
+      "versionCode": 14052,
+      "versionName": "b15.2Ended"
     }
   ],
   "latest": {
-    "versionCode": 14052,
-    "versionName": "b15.2Ended"
+    "versionCode": 14060,
+    "versionName": "b16"
   },
-  "screenshot": 10
+  "screenshot": 11
 }
