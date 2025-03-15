@@ -534,5 +534,13 @@
     "introduction": "用于原版生存模组是XAERO的小地图和TACZ***",
     "lang": "zh_CN",
     "name": "21.TACZ.existence"
+  },
+  {
+    "categories": [1, 3],
+    "device": [0],
+    "id": "f0f9a63f",
+    "introduction": "与Zalith Launcher的默认键位几乎一模一样",
+    "lang": "zh-CN",
+    "name": "Zalith Default"
   }
 ]
