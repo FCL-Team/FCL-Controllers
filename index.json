@@ -32,6 +32,14 @@
     "categories": [1, 3, 5]
   },
   {
+    "categories": [1, 3],
+    "device": [0],
+    "id": "f0f9a63f",
+    "introduction": "与Zalith Launcher的默认键位几乎一模一样",
+    "lang": "zh-CN",
+    "name": "Zalith Default"
+  },
+  {
     "id": "a90a5e03",
     "lang": "zh_CN",
     "name": "MBE键位",
@@ -118,14 +126,6 @@
     "introduction": "仿基岩版触控，UM改版，原作者：不想取名的阿peng\n改版作者/维护：mmdyzy\n更新日志(1.8.58):专业截屏的辅助线不再会阻止转向\n设置页面的灰色背景现在是全屏的\n现在控件指南会返回到上一个页面了，而不是点击“了解”后消失\n现在会像基岩版一样在设置中点击“控件指南”选项卡会直接打开控件指南，返回时为控件指南选项卡内容\n修复欢迎页面与其他页面透明背景透明度不一致的问题\n更新了彩蛋\n添加Touch Controller兼容模式",
     "device": [0],
     "categories": [1, 3]
-  },
-  {
-    "id": "044d300b",
-    "lang": "zh_CN",
-    "name": "星空组件",
-    "introduction": "有事联系qq 3791193182",
-    "device": [0],
-    "categories": [1, 4]
   },
   {
     "id": "7b932c02",
