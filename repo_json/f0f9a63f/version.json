@@ -1,10 +1,15 @@
 {
   "author": "墨北MovTery \u0026 刚们松弛",
-  "description": "与Zalith Launcher的默认键位几乎一模一样",
-  "history": [],
+  "description": "1.0.1版本将原先的绝对值尺寸改为百分比尺寸，以提高设备兼容性",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "1.0.0"
+    }
+  ],
   "latest": {
-    "versionCode": 1,
-    "versionName": "1.0.0"
+    "versionCode": 2,
+    "versionName": "1.0.1"
   },
-  "screenshot": 3
+  "screenshot": 2
 }
