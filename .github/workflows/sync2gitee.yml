@@ -15,7 +15,7 @@ jobs:
     steps:
 
       - name: Mirror the GitHub repo to Gitee
-        if: github.repository == 'FCL-Team/FCL-Controllers'
+        if: github.repository == 'FCL-Team/FCL-Controllers' && github.event_name != 'pull_request'
         uses: Yikun/hub-mirror-action@v1.4
         with:
           src: github/FCL-Team

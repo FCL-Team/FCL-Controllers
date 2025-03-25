@@ -35,7 +35,7 @@
     "categories": [1, 3],
     "device": [0],
     "id": "f0f9a63f",
-    "introduction": "与Zalith Launcher的默认键位几乎一模一样",
+    "introduction": "与Zalith Launcher的默认键位几乎一模一样  1.0.1版本将原先的绝对值尺寸改为百分比尺寸",
     "lang": "zh-CN",
     "name": "Zalith Default"
   },
