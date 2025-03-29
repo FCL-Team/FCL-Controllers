@@ -4,24 +4,28 @@
   "history": [
     {
       "versionCode": 1,
-      "versionName": "生存版v2 | 作者：B站妙狗国国王"
+      "versionName": "生存|版本1"
     },
     {
       "versionCode": 2,
-      "versionName": "生存版v3 | 作者：B站妙狗国国王"
+      "versionName": "生存|版本2"
     },
     {
       "versionCode": 5,
-      "versionName": "生存版v5 | 作者：B站妙狗国国王"
+      "versionName": "生存|版本5"
     },
     {
       "versionCode": 6,
-      "versionName": "通用版|版本6"
+      "versionName": "通用|版本6"
+    },
+    {
+      "versionCode": 7,
+      "versionName": "通用|版本6"
     }
   ],
   "latest": {
-    "versionCode": 7,
-    "versionName": "通用版|版本7"
+    "versionCode": 8,
+    "versionName": "通用|版本8"
   },
   "screenshot": 5
 }
