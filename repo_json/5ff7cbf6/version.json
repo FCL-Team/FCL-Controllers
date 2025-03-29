@@ -1,10 +1,15 @@
 {
   "author": "coMicBox",
-  "description": "-",
-  "history": [],
+  "description": "世界全剧终，欢迎来到新艾利都",
+  "history": [
+    {
+      "versionCode": 2,
+      "versionName": "1.5test"
+    }
+  ],
   "latest": {
-    "versionCode": 2,
-    "versionName": "1.5test"
+    "versionCode": 3,
+    "versionName": "1.6"
   },
   "screenshot": 2
 }
