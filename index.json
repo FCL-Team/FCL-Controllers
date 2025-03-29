@@ -484,7 +484,7 @@
     "lang": "zh_CN",
     "name": "仿绝区零键位",
     "introduction": "世界全剧终，欢迎来到新艾利都",
-    "device": [0, 1, 2],
+    "device": [0],
     "categories": [1, 3]
   },
   {
