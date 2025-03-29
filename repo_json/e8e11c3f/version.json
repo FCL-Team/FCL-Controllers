@@ -1,15 +1,19 @@
 {
   "author": "TimonDessojQwQ",
-  "description": "Fire潮汐首个完整版",
+  "description": "Del 1.5.0.400 is free!!!",
   "history": [
     {
       "versionCode": 10000,
       "versionName": "Preview_CN01"
+    },
+    {
+      "versionCode": 10001,
+      "versionName": "Preview_CB02"
     }
   ],
   "latest": {
-    "versionCode": 10001,
-    "versionName": "Preview_CB02"
+    "versionCode": 150600,
+    "versionName": "1.5.0.600"
   },
-  "screenshot": 14
+  "screenshot": 10
 }
