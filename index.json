@@ -534,5 +534,13 @@
     "introduction": "用于原版生存模组是XAERO的小地图和TACZ***",
     "lang": "zh_CN",
     "name": "21.TACZ.existence"
+  },
+  {
+    "categories": [1],
+    "device": [0],
+    "id": "28f47a5d",
+    "introduction": "只靠一人做的触控，说一更新速度会比较慢",
+    "lang": "zh-CN",
+    "name": "凝华LE"
   }
 ]
