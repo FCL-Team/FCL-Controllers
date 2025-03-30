@@ -542,5 +542,13 @@
     "introduction": "只靠一人做的触控，说一更新速度会比较慢",
     "lang": "zh-CN",
     "name": "凝华LE"
+  },
+  {
+    "categories": [1, 5],
+    "device": [0],
+    "id": "5ecbae8f",
+    "introduction": "一个简约的四指键位，尽可能降低按键对游戏视觉的影响",
+    "lang": "all",
+    "name": "简约四指2.2"
   }
 ]
