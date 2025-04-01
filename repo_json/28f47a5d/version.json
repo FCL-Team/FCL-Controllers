@@ -1,10 +1,15 @@
 {
   "author": "taoluwa",
-  "description": "一种主题风格独特的触控",
-  "history": [],
+  "description": "版本1:更新基本内容,版本二:增加了新的一种触控,案件的合理性改了一下:p",
+  "history": [
+    {
+      "versionCode": 7,
+      "versionName": "1.1.1正式版"
+    }
+  ],
   "latest": {
-    "versionCode": 7,
-    "versionName": "1.1.1正式版"
+    "versionCode": 8,
+    "versionName": "1.2.0正式版"
   },
   "screenshot": 4
 }

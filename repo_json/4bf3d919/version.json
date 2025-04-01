@@ -1,6 +1,6 @@
 {
   "author": "coMicBox",
-  "description": "详细更新内容详见控件开始屏幕右下角『📰』公告内更新日志",
+  "description": "详细更新内容详见进门屏幕右下角『📰』公告内更新日志",
   "history": [
     {
       "versionCode": 2,
@@ -33,11 +33,15 @@
     {
       "versionCode": 13,
       "versionName": "5.3"
+    },
+    {
+      "versionCode": 15,
+      "versionName": "5.4"
     }
   ],
   "latest": {
-    "versionCode": 15,
-    "versionName": "5.4"
+    "versionCode": 16,
+    "versionName": "5.5"
   },
-  "screenshot": 5
+  "screenshot": 6
 }

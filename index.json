@@ -155,7 +155,7 @@
     "id": "4bf3d919",
     "lang": "zh_CN",
     "name": "仿原神键位",
-    "introduction": "Default controller of Genshin Impact.",
+    "introduction": "跨越尘世的探索之旅",
     "device": [0],
     "categories": [1, 3, 5]
   },
@@ -539,8 +539,16 @@
     "categories": [1],
     "device": [0],
     "id": "28f47a5d",
-    "introduction": "只靠一人做的触控，说一更新速度会比较慢",
+    "introduction": "一个触控（一人研发）",
     "lang": "zh-CN",
     "name": "凝华LE"
+  },
+  {
+    "categories": [1, 5],
+    "device": [0],
+    "id": "5ecbae8f",
+    "introduction": "一个简约的四指键位，尽可能降低按键对游戏视觉的影响",
+    "lang": "all",
+    "name": "简约四指2.2"
   }
 ]
