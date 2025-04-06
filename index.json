@@ -548,7 +548,23 @@
     "device": [0],
     "id": "5ecbae8f",
     "introduction": "一个简约的四指键位，尽可能降低按键对游戏视觉的影响",
-    "lang": "all",
+    "lang": "zh-CN",
     "name": "简约四指2.2"
+  },
+  {
+    "categories": [1],
+    "device": [0],
+    "id": "a0839bd4",
+    "introduction": "By pkin for Minecraft Parkour",
+    "lang": "zh-CN",
+    "name": "技术性跑酷专用键位"
+  },
+  {
+    "categories": [1, 3],
+    "device": [0],
+    "id": "d623354f",
+    "introduction": "由一人研发的凝华LE基岩版NEXT",
+    "lang": "zh_CN",
+    "name": "凝华LE基岩版NEXT"
   }
 ]
