@@ -1,6 +1,6 @@
 {
   "author": "TimonDessojQwQ",
-  "description": "Del 1.5.0.400 is free!!!",
+  "description": "矢量更新，修复了亿点点bug以及彻底移除Options界面，并加入两种新的按键样式Fire5/Fire7",
   "history": [
     {
       "versionCode": 10000,
@@ -9,11 +9,15 @@
     {
       "versionCode": 10001,
       "versionName": "Preview_CB02"
+    },
+    {
+      "versionCode": 150600,
+      "versionName": "1.5.0.600"
     }
   ],
   "latest": {
-    "versionCode": 150600,
-    "versionName": "1.5.0.600"
+    "versionCode": 150800,
+    "versionName": "1.5.0.800"
   },
-  "screenshot": 10
+  "screenshot": 15
 }
