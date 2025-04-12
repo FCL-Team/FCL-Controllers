@@ -42,10 +42,18 @@
   {
     "id": "a90a5e03",
     "lang": "zh_CN",
-    "name": "MBE键位",
-    "introduction": "一个仿照MCBE ui制作的键位。",
+    "name": "MBE键位（基岩版触控）",
+    "introduction": "一个仿照MCBE UI制作的键位，旨在还原基岩版触控体验和界面外观。",
     "device": [0],
     "categories": [1, 3]
+  },
+  {
+    "categories": [1, 5],
+    "device": [0],
+    "id": "094a34d0",
+    "introduction": "一个多功能的键位，旨在为玩家提供最优质的游戏触控体验。历史版本作者为B站@小A大帅比，现已移交不想取名的阿peng。",
+    "lang": "zh_CN",
+    "name": "拷打全渔舟（TTU）"
   },
   {
     "id": "8e8f5abf",
@@ -566,13 +574,5 @@
     "introduction": "由一人研发的凝华LE基岩版NEXT",
     "lang": "zh_CN",
     "name": "凝华LE基岩版NEXT"
-  },
-  {
-    "categories": [1, 5],
-    "device": [0],
-    "id": "094a34d0",
-    "introduction": "一个多功能的键位，旨在为玩家提供最优质的游戏触控体验。",
-    "lang": "zh_CN",
-    "name": "拷打全渔舟（TTU）"
   }
 ]
