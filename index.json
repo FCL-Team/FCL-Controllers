@@ -394,8 +394,8 @@
   {
     "id": "etc1db85",
     "lang": "zh_CN",
-    "name": "ExnalyTide Code",
-    "introduction": "It\u0027s an excellent layout！！！",
+    "name": "InfinityXL",
+    "introduction": "是CRGM对未来的想象（doge",
     "device": [0],
     "categories": [1, 5]
   },
@@ -547,7 +547,7 @@
     "categories": [1],
     "device": [0],
     "id": "28f47a5d",
-    "introduction": "一个人做的触控",
+    "introduction": "修复大量问题；优化按键",
     "lang": "zh-CN",
     "name": "凝华LE"
   },
@@ -571,8 +571,24 @@
     "categories": [1, 3],
     "device": [0],
     "id": "d623354f",
-    "introduction": "由一人研发的凝华LE基岩版NEXT",
+    "introduction": "比较接近基岩版的仿基岩版触控，拥有三种模式，成功更新到了正式版本1.2,以后会继续更新",
     "lang": "zh_CN",
     "name": "凝华LE基岩版NEXT"
+  },
+  {
+    "categories": [1, 3],
+    "device": [0, 1],
+    "id": "936dd9ab",
+    "introduction": "针对于FCL启动器玩家的《我的奶块》仿奶块触控布局。新增为左撇子玩家做的按键。",
+    "lang": "zh_CN",
+    "name": "仿·奶块布局"
+  },
+  {
+    "categories": [1],
+    "device": [0],
+    "id": "5681c982",
+    "introduction": "这是一个对萌新极其友好的键位，内置常用按键说明助你轻松游玩Java爱慕希。本键位主打一个生存实用简洁美观不会华而不实让人难以上手。",
+    "lang": "zh-CN",
+    "name": "寄寄猫键位"
   }
 ]

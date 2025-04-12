@@ -1,10 +1,19 @@
 {
   "author": "taoluwa",
-  "description": "比较接近基岩版的仿基岩版助控，拥有三种模式",
-  "history": [],
+  "description": "按键优化、功能增加潜行举盾",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "preview1.0"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "v1.1"
+    }
+  ],
   "latest": {
-    "versionCode": 1,
-    "versionName": "preview1.0"
+    "versionCode": 3,
+    "versionName": "v1.2a"
   },
-  "screenshot": 5
+  "screenshot": 8
 }
