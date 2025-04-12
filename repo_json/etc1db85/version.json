@@ -1,10 +1,15 @@
 {
   "author": "TimonDessojQwQ",
-  "description": "It\u0027s an excellent layout！！！",
-  "history": [],
+  "description": "增量更新2.0.0，指在彻底解决界面重置的问题",
+  "history": [
+    {
+      "versionCode": 100,
+      "versionName": "1.0.0"
+    }
+  ],
   "latest": {
-    "versionCode": 100,
-    "versionName": "1.0.0"
+    "versionCode": 200,
+    "versionName": "2.0.0"
   },
-  "screenshot": 13
+  "screenshot": 16
 }
