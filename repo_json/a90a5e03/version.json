@@ -1,6 +1,6 @@
 {
   "author": "不想取名的阿peng",
-  "description": "一个仿照MCBE UI制作的键位，几乎完美还原其触控功能和游戏外UI样式。",
+  "description": "一个仿照MCBE UI制作的键位，旨在还原其触控功能和游戏外UI样式。",
   "history": [
     {
     "versionCode": 1,
@@ -24,7 +24,7 @@
     },
     {
     "versionCode": 6,
-    "versionName": "preview-1.8.56"
+    "versionName": "1.8.56"
     },
     {
     "versionCode": 7,
@@ -33,11 +33,43 @@
     {
     "versionCode": 8,
     "versionName": "beta-1.8.56.2"
+    },
+    {
+    "versionCode": 9,
+    "versionName": "1.8.57"
+    },
+    {
+    "versionCode": 10,
+    "versionName": "beta-1.8.57.1"
+    },
+    {
+    "versionCode": 11,
+    "versionName": "1.8.58"
+    },
+    {
+    "versionCode": 12,
+    "versionName": "beta-1.8.58.1"
+    },
+    {
+    "versionCode": 13,
+    "versionName": "beta-1.8.58.2"
+    },
+    {
+    "versionCode": 14,
+    "versionName": "beta-1.8.58.3"
+    },
+    {
+    "versionCode": 15,
+    "versionName": "1.8.59"
+    },
+    {
+    "versionCode": 16,
+    "versionName": "beta-1.8.59.1"
     }
   ],
   "latest": {
-    "versionCode": 9,
-    "versionName": "1.8.57"
+    "versionCode": 17,
+    "versionName": "beta-1.8.59.2"
   },
   "screenshot": 6
 }
