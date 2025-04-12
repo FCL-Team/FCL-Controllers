@@ -566,5 +566,13 @@
     "introduction": "由一人研发的凝华LE基岩版NEXT",
     "lang": "zh_CN",
     "name": "凝华LE基岩版NEXT"
+  },
+  {
+    "categories": [1, 5],
+    "device": [0],
+    "id": "094a34d0",
+    "introduction": "一个多功能的键位，旨在为玩家提供最优质的游戏触控体验。",
+    "lang": "zh_CN",
+    "name": "拷打全渔舟（TTU）"
   }
 ]
