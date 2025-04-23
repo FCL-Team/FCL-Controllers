@@ -606,5 +606,13 @@
     "introduction": "一些按键长按或者双击某写按键就可以呼出来了",
     "lang": "zh_CN",
     "name": "CraftSync Pro"
+  },
+  {
+    "categories": [1, 5],
+    "device": [0, 1, 2],
+    "id": "e31e7243",
+    "introduction": "简约好用的按键",
+    "lang": "zh_CN",
+    "name": "便捷键位⇔快速调试丨适合生存"
   }
 ]
