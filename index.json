@@ -104,6 +104,14 @@
     "categories": [1, 2, 5]
   },
   {
+    "categories": [1, 5],
+    "device": [0, 1, 2],
+    "id": "21a09ada",
+    "introduction": "我在很久以前做的键位布局，重见天日了（）",
+    "lang": "zh_CN",
+    "name": "bedjava控制布局|重置版1"
+  },
+  {
     "id": "0d1bdad5",
     "lang": "zh_CN",
     "name": "摇杆4指操作3.8-终~",
