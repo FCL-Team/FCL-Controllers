@@ -598,5 +598,13 @@
     "introduction": "这是一个对萌新极其友好的键位，内置常用按键说明助你轻松游玩Java爱慕希。本键位主打一个生存实用简洁美观不会华而不实让人难以上手。",
     "lang": "zh-CN",
     "name": "寄寄猫键位"
+  },
+  {
+    "categories": [1, 2, 5],
+    "device": [0, 1],
+    "id": "35b11461",
+    "introduction": "一些按键长按或者双击某写按键就可以呼出来了",
+    "lang": "zh_CN",
+    "name": "CraftSync Pro"
   }
 ]
