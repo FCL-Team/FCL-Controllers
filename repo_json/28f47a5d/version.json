@@ -1,6 +1,6 @@
 {
   "author": "taoluwa",
-  "description": "一人研发的触控，最近更新比较快",
+  "description": "增加了纯基岩版模式;摇杆可以拉出;最近更的比较快；关闭更新纯基岩版LE",
   "history": [
     {
       "versionCode": 7,
@@ -25,11 +25,15 @@
     {
       "versionCode": 12,
       "versionName": "1.5b ZS"
+    },
+    {
+      "versionCode": 14,
+      "versionName": "1.6 ZS"
     }
   ],
   "latest": {
-    "versionCode": 14,
-    "versionName": "1.6 ZS"
+    "versionCode": 15,
+    "versionName": "2.0preview"
   },
-  "screenshot": 6
+  "screenshot": 16
 }
