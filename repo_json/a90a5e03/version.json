@@ -65,11 +65,15 @@
     {
     "versionCode": 16,
     "versionName": "beta-1.8.59.1"
+    },
+    {
+    "versionCode": 17,
+    "versionName": "beta-1.8.59.2"
     }
   ],
   "latest": {
-    "versionCode": 17,
-    "versionName": "beta-1.8.59.2"
+    "versionCode": 18,
+    "versionName": "beta-1.8.59.3"
   },
-  "screenshot": 6
+  "screenshot": 7
 }
