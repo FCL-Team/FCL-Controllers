@@ -29,11 +29,15 @@
     {
       "versionCode": 14,
       "versionName": "1.6 ZS"
+    },
+    {
+      "versionCode": 15,
+      "versionName": "2.0preview"
     }
   ],
   "latest": {
-    "versionCode": 15,
-    "versionName": "2.0preview"
+    "versionCode": 16,
+    "versionName": "2.1 ZS"
   },
   "screenshot": 16
 }
