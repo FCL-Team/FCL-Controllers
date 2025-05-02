@@ -646,5 +646,13 @@
     "introduction": "一个轻量而美观的键位，适用于大部分玩家",
     "lang": "zh_CN",
     "name": "[清风]轻量键位"
+  },
+  {
+    "categories": [1, 3],
+    "device": [0],
+    "id": "760c3516",
+    "introduction": "新触控在fcl启动器出现",
+    "lang": "zh_CN",
+    "name": "ITC凤梨触控"
   }
 ]
