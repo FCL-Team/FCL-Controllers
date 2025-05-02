@@ -1,6 +1,6 @@
 {
   "author": "taoluwa",
-  "description": "增加了纯基岩版模式;摇杆可以拉出;最近更的比较快；关闭更新纯基岩版LE",
+  "description": "全键盘更新;优化n个问题；添加进入方案能回到主菜单功能",
   "history": [
     {
       "versionCode": 7,
@@ -33,11 +33,15 @@
     {
       "versionCode": 15,
       "versionName": "2.0preview"
+    },
+    {
+      "versionCode": 16,
+      "versionName": "2.1 ZS"
     }
   ],
   "latest": {
-    "versionCode": 16,
-    "versionName": "2.1 ZS"
+    "versionCode": 17,
+    "versionName": "2.1.1 ZS"
   },
   "screenshot": 16
 }
