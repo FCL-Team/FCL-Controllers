@@ -638,5 +638,13 @@
     "introduction": "RTM鍵/管理世界/數字鍵",
     "lang": "zh_CN",
     "name": "RTM"
+  },
+  {
+    "categories": [1],
+    "device": [0],
+    "id": "180d52d5",
+    "introduction": "一个轻量而美观的键位，适用于大部分玩家",
+    "lang": "zh_CN",
+    "name": "[清风]轻量键位"
   }
 ]
