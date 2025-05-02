@@ -1,6 +1,6 @@
 {
   "author": "taoluwa",
-  "description": "全键盘更新;优化n个问题；添加进入方案能回到主菜单功能",
+  "description": "优化布局UI,此UI正式被命名为Nin Hua UI",
   "history": [
     {
       "versionCode": 7,
@@ -37,11 +37,19 @@
     {
       "versionCode": 16,
       "versionName": "2.1 ZS"
+    },
+    {
+      "versionCode": 17,
+      "versionName": "2.1.1 ZS"
+    },
+    {
+      "versionCode": 18,
+      "versionName": "2.2 ZS"
     }
   ],
   "latest": {
-    "versionCode": 17,
-    "versionName": "2.1.1 ZS"
+    "versionCode": 19,
+    "versionName": "2.3 ZS"
   },
-  "screenshot": 16
+  "screenshot": 13
 }
