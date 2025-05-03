@@ -1,6 +1,6 @@
 {
   "author": "taoluwa",
-  "description": "增加了纯基岩版模式;摇杆可以拉出;最近更的比较快；关闭更新纯基岩版LE",
+  "description": "优化布局UI,此UI正式被命名为Nin Hua UI",
   "history": [
     {
       "versionCode": 7,
@@ -33,11 +33,23 @@
     {
       "versionCode": 15,
       "versionName": "2.0preview"
+    },
+    {
+      "versionCode": 16,
+      "versionName": "2.1 ZS"
+    },
+    {
+      "versionCode": 17,
+      "versionName": "2.1.1 ZS"
+    },
+    {
+      "versionCode": 18,
+      "versionName": "2.2 ZS"
     }
   ],
   "latest": {
-    "versionCode": 16,
-    "versionName": "2.1 ZS"
+    "versionCode": 19,
+    "versionName": "2.3 ZS"
   },
-  "screenshot": 16
+  "screenshot": 13
 }

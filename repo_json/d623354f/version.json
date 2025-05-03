@@ -1,6 +1,6 @@
 {
   "author": "taoluwa",
-  "description": "适配烦人的村民整合包,整合包链接:主：\nhttps://www.123684.com/s/kRaqjv-aThLh?提取码：WW7p\n副：\nhttps://www.123912.com/s/kRaqjv-BThLh?提取码：DgiZ",
+  "description": "同时有烦村适配和枪械适配触控",
   "history": [
     {
       "versionCode": 1,
@@ -13,11 +13,19 @@
     {
       "versionCode": 3,
       "versionName": "v1.2a"
+    },
+    {
+      "versionCode": 4,
+      "versionName": "1.0重置"
+    },
+    {
+      "versionCode": 5,
+      "versionName": "2.0"
     }
   ],
   "latest": {
-    "versionCode": 4,
-    "versionName": "1.0重置"
+    "versionCode": 6,
+    "versionName": "v3.0"
   },
-  "screenshot": 4
+  "screenshot": 6
 }
