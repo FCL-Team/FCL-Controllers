@@ -21,11 +21,15 @@
     {
       "versionCode": 7,
       "versionName": "通用|版本7"
+    },
+    {
+      "versionCode": 8,
+      "versionName": "通用|版本8"
     }
   ],
   "latest": {
-    "versionCode": 8,
-    "versionName": "通用|版本8"
+    "versionCode": 9,
+    "versionName": "通用|版本9"
   },
   "screenshot": 5
 }
