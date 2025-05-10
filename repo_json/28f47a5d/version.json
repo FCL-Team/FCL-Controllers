@@ -1,6 +1,6 @@
 {
   "author": "taoluwa",
-  "description": "优化布局UI,此UI正式被命名为Nin Hua UI",
+  "description": "优化布局",
   "history": [
     {
       "versionCode": 7,
@@ -45,11 +45,15 @@
     {
       "versionCode": 18,
       "versionName": "2.2 ZS"
+    },
+    {
+      "versionCode": 19,
+      "versionName": "2.3 ZS"
     }
   ],
   "latest": {
-    "versionCode": 19,
-    "versionName": "2.3 ZS"
+    "versionCode": 21,
+    "versionName": "2.3.2 ZS"
   },
-  "screenshot": 13
+  "screenshot": 10
 }

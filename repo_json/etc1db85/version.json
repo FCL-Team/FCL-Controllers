@@ -1,15 +1,19 @@
 {
   "author": "TimonDessojQwQ",
-  "description": "增量更新2.0.0，指在彻底解决界面重置的问题",
+  "description": "是CRGM对未来的想象（doge",
   "history": [
     {
       "versionCode": 100,
       "versionName": "1.0.0"
+    },
+    {
+      "versionCode": 200,
+      "versionName": "2.0.0"
     }
   ],
   "latest": {
-    "versionCode": 200,
-    "versionName": "2.0.0"
+    "versionCode": 210,
+    "versionName": "2.1.0"
   },
   "screenshot": 16
 }
