@@ -1,6 +1,6 @@
 {
   "author": "TimonDessojQwQ",
-  "description": "矢量更新，修复了亿点点bug以及彻底移除Options界面，并加入两种新的按键样式Fire5/Fire7",
+  "description": "Darn! 1.5.0.800\u0027s 99% is free!!!",
   "history": [
     {
       "versionCode": 10000,
@@ -13,11 +13,15 @@
     {
       "versionCode": 150600,
       "versionName": "1.5.0.600"
+    },
+    {
+      "versionCode": 150800,
+      "versionName": "1.5.0.800"
     }
   ],
   "latest": {
-    "versionCode": 150800,
-    "versionName": "1.5.0.800"
+    "versionCode": 160101,
+    "versionName": "1.6.0.101"
   },
-  "screenshot": 15
+  "screenshot": 14
 }
