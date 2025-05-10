@@ -1,6 +1,6 @@
 {
   "author": "TimonDessojQwQ",
-  "description": "矢量更新，修复了亿点点bug，移除了物品栏并加入了一些F3控件功能",
+  "description": "Fire潮汐，极简未来",
   "history": [
     {
       "versionCode": 1,
@@ -67,13 +67,17 @@
       "versionName": "3.1.0"
     },
     {
-    "versionCode": 17,
-    "versionName": "3.2.0"
+      "versionCode": 17,
+      "versionName": "3.2.0"
+    },
+    {
+      "versionCode": 18,
+      "versionName": "3.3.0"
     }
   ],
   "latest": {
-    "versionCode": 18,
-    "versionName": "3.3.0"
+    "versionCode": 19,
+    "versionName": "3.4.0"
   },
-  "screenshot": 8
+  "screenshot": 9
 }
