@@ -662,5 +662,13 @@
     "introduction": "以美观的布局方式来，减少遮挡,更小的按键。",
     "lang": "zh_CN",
     "name": "多功能简单的键位布局【红月落】"
+  },
+  {
+    "categories": [1],
+    "device": [0],
+    "id": "839a5283",
+    "introduction": "简约",
+    "lang": "zh_CN",
+    "name": "新手友好布局"
   }
 ]
