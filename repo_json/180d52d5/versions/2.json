@@ -2,7 +2,7 @@
   "id": "180d52d5",
   "name": "[清风]轻量键位",
   "version": "1.1",
-  "versionCode": 1,
+  "versionCode": 2,
   "author": "春絮衔风",
   "description": "一个轻量而美观的键位，适用于大部分玩家",
   "controllerVersion": 20,
@@ -109,9 +109,7 @@
                 "input": true,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  20
-                ],
+                "outputKeycodes": [20],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -184,9 +182,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61
-                ],
+                "outputKeycodes": [61],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -259,9 +255,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  63
-                ],
+                "outputKeycodes": [63],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -334,9 +328,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  38
-                ],
+                "outputKeycodes": [38],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -409,9 +401,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1
-                ],
+                "outputKeycodes": [1],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -484,9 +474,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  16
-                ],
+                "outputKeycodes": [16],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -559,9 +547,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  42
-                ],
+                "outputKeycodes": [42],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -634,9 +620,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  29
-                ],
+                "outputKeycodes": [29],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -709,9 +693,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  57
-                ],
+                "outputKeycodes": [57],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -784,9 +766,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1000
-                ],
+                "outputKeycodes": [1000],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -859,9 +839,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1002
-                ],
+                "outputKeycodes": [1002],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -934,9 +912,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1001
-                ],
+                "outputKeycodes": [1001],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -1009,9 +985,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  18
-                ],
+                "outputKeycodes": [18],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -1084,9 +1058,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  33
-                ],
+                "outputKeycodes": [33],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -1160,9 +1132,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": [
-                  "09be610b-6200-485f-b97b-01f2f1889c9b"
-                ]
+                "bindViewGroup": ["09be610b-6200-485f-b97b-01f2f1889c9b"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -1234,9 +1204,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1003
-                ],
+                "outputKeycodes": [1003],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -1309,9 +1277,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  1004
-                ],
+                "outputKeycodes": [1004],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -1384,9 +1350,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  46
-                ],
+                "outputKeycodes": [46],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -1499,10 +1463,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  20
-                ],
+                "outputKeycodes": [61, 20],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -1575,11 +1536,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  20,
-                  1000
-                ],
+                "outputKeycodes": [61, 20, 1000],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -1652,11 +1609,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  20,
-                  1002
-                ],
+                "outputKeycodes": [61, 20, 1002],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -1729,10 +1682,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  48
-                ],
+                "outputKeycodes": [61, 48],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -1805,10 +1755,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  34
-                ],
+                "outputKeycodes": [61, 34],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -1881,10 +1828,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  35
-                ],
+                "outputKeycodes": [61, 35],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -1957,10 +1901,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  61,
-                  62
-                ],
+                "outputKeycodes": [61, 62],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2033,10 +1974,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  42,
-                  1000
-                ],
+                "outputKeycodes": [42, 1000],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2109,9 +2047,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  59
-                ],
+                "outputKeycodes": [59],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2184,9 +2120,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  60
-                ],
+                "outputKeycodes": [60],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2259,9 +2193,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  87
-                ],
+                "outputKeycodes": [87],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2334,9 +2266,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  15
-                ],
+                "outputKeycodes": [15],
                 "bindViewGroup": []
               },
               "longPressEvent": {
@@ -2409,9 +2339,7 @@
                 "input": false,
                 "quickInput": false,
                 "outputText": "",
-                "outputKeycodes": [
-                  25
-                ],
+                "outputKeycodes": [25],
                 "bindViewGroup": []
               },
               "longPressEvent": {
