@@ -1,14 +1,14 @@
 {
   "id": "180d52d5",
   "name": "[清风]轻量键位",
-  "version": "1.1",
-  "versionCode": 2,
+  "version": "1.2",
+  "versionCode": 3,
   "author": "春絮衔风",
   "description": "一个轻量而美观的键位，适用于大部分玩家",
   "controllerVersion": 20,
   "buttonStyles": [
     {
-      "name": "[清风]美观",
+      "name": "[清风]控件组",
       "textColor": -1,
       "textSize": 12,
       "strokeColor": -12303292,
@@ -35,6 +35,21 @@
       "strokeColorPressed": -12303292,
       "strokeWidthPressed": 10,
       "cornerRadiusPressed": 0,
+      "fillColorPressed": -3355444
+    },
+    {
+      "name": "总按键",
+      "textColor": -1,
+      "textSize": 15,
+      "strokeColor": -12303292,
+      "strokeWidth": 20,
+      "cornerRadius": 500,
+      "fillColor": 0,
+      "textColorPressed": -1,
+      "textSizePressed": 15,
+      "strokeColorPressed": -12303292,
+      "strokeWidthPressed": 20,
+      "cornerRadiusPressed": 500,
       "fillColorPressed": -3355444
     }
   ],
@@ -80,7 +95,7 @@
           {
             "id": "dfef71e3-81e0-418f-a694-5c7e6094499d",
             "text": "聊天",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
               "visibilityType": "ALWAYS",
               "xPosition": 500,
@@ -153,9 +168,9 @@
           {
             "id": "c98bce4a-0f39-40bb-851a-9e4771465231",
             "text": "调试",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 443,
               "yPosition": 0,
               "sizeType": "PERCENTAGE",
@@ -226,9 +241,9 @@
           {
             "id": "b95a9e98-d53d-461a-9edf-8ed913b4bc95",
             "text": "视角",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 387,
               "yPosition": 0,
               "sizeType": "PERCENTAGE",
@@ -299,9 +314,9 @@
           {
             "id": "04fbd8d9-3a63-4a7a-bf94-c30ed1f7ded6",
             "text": "成就",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 556,
               "yPosition": 0,
               "sizeType": "PERCENTAGE",
@@ -372,7 +387,7 @@
           {
             "id": "93a5b2d5-c4f8-49f3-9d81-0373b9b41fca",
             "text": "返回",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
               "visibilityType": "ALWAYS",
               "xPosition": 612,
@@ -445,9 +460,9 @@
           {
             "id": "058f1af7-f951-4dab-9655-295b904eedb8",
             "text": "丢",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 970,
               "yPosition": 0,
               "sizeType": "PERCENTAGE",
@@ -518,9 +533,9 @@
           {
             "id": "bc105098-0a59-49d3-af44-ce36cd32e35a",
             "text": "潜行",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 913,
               "yPosition": 0,
               "sizeType": "PERCENTAGE",
@@ -591,9 +606,9 @@
           {
             "id": "3eead575-eb6e-453a-a527-fa70037b73b6",
             "text": "疾跑",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 856,
               "yPosition": 0,
               "sizeType": "PERCENTAGE",
@@ -664,9 +679,9 @@
           {
             "id": "59de5c2d-7b94-4b60-a903-984a3d354e88",
             "text": "跳跃",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 950,
               "yPosition": 950,
               "sizeType": "PERCENTAGE",
@@ -737,7 +752,7 @@
           {
             "id": "007ea23f-edab-422d-b67e-0937a2e0e9cd",
             "text": "左键",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
               "visibilityType": "ALWAYS",
               "xPosition": 949,
@@ -810,7 +825,7 @@
           {
             "id": "e34e0a36-04fa-4ce9-9b91-7ba3737f6920",
             "text": "右键",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
               "visibilityType": "ALWAYS",
               "xPosition": 864,
@@ -883,10 +898,10 @@
           {
             "id": "3f9386fb-546c-41cb-888f-23a926f8fab5",
             "text": "选取",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 969,
+              "visibilityType": "IN_GAME",
+              "xPosition": 970,
               "yPosition": 132,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
@@ -956,7 +971,7 @@
           {
             "id": "4d9acab9-ed7e-4021-818f-5ea0ab27bcc1",
             "text": "背包",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
               "visibilityType": "ALWAYS",
               "xPosition": 708,
@@ -1029,9 +1044,9 @@
           {
             "id": "9cf782e7-6b5a-4f90-8d2f-a324b1e03675",
             "text": "",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 285,
               "yPosition": 1000,
               "sizeType": "PERCENTAGE",
@@ -1104,8 +1119,8 @@
             "text": "其他功能",
             "style": "[清风]其他功能",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 250,
+              "visibilityType": "IN_GAME",
+              "xPosition": 249,
               "yPosition": 0,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
@@ -1132,7 +1147,7 @@
                 "quickInput": false,
                 "outputText": "",
                 "outputKeycodes": [],
-                "bindViewGroup": ["09be610b-6200-485f-b97b-01f2f1889c9b"]
+                "bindViewGroup": ["09be610b-6200-485f-b97b-01f2f1889c9b", "8cdea159-d385-4251-a40e-02c8521402f5"]
               },
               "longPressEvent": {
                 "autoKeep": false,
@@ -1175,11 +1190,11 @@
           {
             "id": "ef346372-558f-4bbe-9934-5ce8030a7342",
             "text": "↑",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 969,
-              "yPosition": 267,
+              "visibilityType": "MENU",
+              "xPosition": 970,
+              "yPosition": 0,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -1248,11 +1263,11 @@
           {
             "id": "8fa84896-4119-4b54-a5cb-3e00615b0c3f",
             "text": "↓",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 969,
-              "yPosition": 401,
+              "visibilityType": "MENU",
+              "xPosition": 970,
+              "yPosition": 132,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -1321,11 +1336,11 @@
           {
             "id": "d89ca44f-4c04-40e2-9b10-078509c194fc",
             "text": "一键缩放",
-            "style": "[清风]美观",
+            "style": "[清风]控件组",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 750,
-              "yPosition": 0,
+              "visibilityType": "IN_GAME",
+              "xPosition": 911,
+              "yPosition": 143,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -1390,6 +1405,79 @@
                 "bindViewGroup": []
               }
             }
+          },
+          {
+            "id": "73040f39-b2cf-438a-b775-773d5dec1146",
+            "text": "一键合成/拿取",
+            "style": "[清风]控件组",
+            "baseInfo": {
+              "visibilityType": "MENU",
+              "xPosition": 750,
+              "yPosition": 0,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 103
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [42, 1000],
+                "bindViewGroup": []
+              },
+              "longPressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "clickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "doubleClickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              }
+            }
           }
         ],
         "directionList": [
@@ -1397,7 +1485,7 @@
             "id": "4389a259-664d-4a1f-9c48-e4b2450679fd",
             "style": "[清风]摇杆",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 30,
               "yPosition": 970,
               "sizeType": "PERCENTAGE",
@@ -1436,8 +1524,8 @@
             "text": "F3+T",
             "style": "[清风]其他功能",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 250,
+              "visibilityType": "IN_GAME",
+              "xPosition": 249,
               "yPosition": 125,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
@@ -1509,7 +1597,7 @@
             "text": "F3+T+Left",
             "style": "[清风]其他功能",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 249,
               "yPosition": 250,
               "sizeType": "PERCENTAGE",
@@ -1582,7 +1670,7 @@
             "text": "F3+T+Right",
             "style": "[清风]其他功能",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 249,
               "yPosition": 375,
               "sizeType": "PERCENTAGE",
@@ -1655,7 +1743,7 @@
             "text": "F3+B",
             "style": "[清风]其他功能",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 249,
               "yPosition": 500,
               "sizeType": "PERCENTAGE",
@@ -1728,7 +1816,7 @@
             "text": "F3+G",
             "style": "[清风]其他功能",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 249,
               "yPosition": 625,
               "sizeType": "PERCENTAGE",
@@ -1801,7 +1889,7 @@
             "text": "F3+H",
             "style": "[清风]其他功能",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 249,
               "yPosition": 750,
               "sizeType": "PERCENTAGE",
@@ -1874,7 +1962,7 @@
             "text": "F3+F4",
             "style": "[清风]其他功能",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
+              "visibilityType": "IN_GAME",
               "xPosition": 134,
               "yPosition": 125,
               "sizeType": "PERCENTAGE",
@@ -1943,86 +2031,13 @@
             }
           },
           {
-            "id": "ddbebcc9-43f5-40e8-84b7-ef97c88cdd04",
-            "text": "Shift+Left",
-            "style": "[清风]其他功能",
-            "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 134,
-              "yPosition": 250,
-              "sizeType": "PERCENTAGE",
-              "absoluteWidth": 50,
-              "absoluteHeight": 50,
-              "percentageWidth": {
-                "reference": "SCREEN_WIDTH",
-                "size": 103
-              },
-              "percentageHeight": {
-                "reference": "SCREEN_WIDTH",
-                "size": 50
-              }
-            },
-            "event": {
-              "pointerFollow": false,
-              "Movable": false,
-              "pressEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [42, 1000],
-                "bindViewGroup": []
-              },
-              "longPressEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
-                "bindViewGroup": []
-              },
-              "clickEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
-                "bindViewGroup": []
-              },
-              "doubleClickEvent": {
-                "autoKeep": false,
-                "autoClick": false,
-                "openMenu": false,
-                "switchTouchMode": false,
-                "switchMouseMode": false,
-                "input": false,
-                "quickInput": false,
-                "outputText": "",
-                "outputKeycodes": [],
-                "bindViewGroup": []
-              }
-            }
-          },
-          {
             "id": "72c44677-7444-4024-a586-2ae427a71b0c",
             "text": "F1",
             "style": "[清风]其他功能",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 183,
-              "yPosition": 375,
+              "visibilityType": "IN_GAME",
+              "xPosition": 182,
+              "yPosition": 250,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -2093,9 +2108,9 @@
             "text": "F2",
             "style": "[清风]其他功能",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 183,
-              "yPosition": 500,
+              "visibilityType": "IN_GAME",
+              "xPosition": 129,
+              "yPosition": 250,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -2166,9 +2181,9 @@
             "text": "F11",
             "style": "[清风]其他功能",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 183,
-              "yPosition": 625,
+              "visibilityType": "IN_GAME",
+              "xPosition": 76,
+              "yPosition": 250,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -2239,9 +2254,9 @@
             "text": "Tab",
             "style": "[清风]其他功能",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 183,
-              "yPosition": 750,
+              "visibilityType": "IN_GAME",
+              "xPosition": 182,
+              "yPosition": 375,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -2312,9 +2327,9 @@
             "text": "P",
             "style": "[清风]其他功能",
             "baseInfo": {
-              "visibilityType": "ALWAYS",
-              "xPosition": 130,
-              "yPosition": 750,
+              "visibilityType": "IN_GAME",
+              "xPosition": 129,
+              "yPosition": 375,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -2341,6 +2356,162 @@
                 "outputText": "",
                 "outputKeycodes": [25],
                 "bindViewGroup": []
+              },
+              "longPressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "clickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "doubleClickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "d9e65674-44fd-4754-a8c0-55a99476da8b",
+            "text": "X",
+            "style": "[清风]其他功能",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 182,
+              "yPosition": 500,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [45],
+                "bindViewGroup": []
+              },
+              "longPressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "clickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "doubleClickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              }
+            }
+          }
+        ],
+        "directionList": []
+      }
+    },
+    {
+      "id": "8cdea159-d385-4251-a40e-02c8521402f5",
+      "name": "总按键",
+      "visibility": "INVISIBLE",
+      "viewData": {
+        "buttonList": [
+          {
+            "id": "e0598c85-51e6-4451-a256-265a9fe520f9",
+            "text": "⊙",
+            "style": "总按键",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 0,
+              "yPosition": 0,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": ["09be610b-6200-485f-b97b-01f2f1889c9b", "5a051918-584f-4ce6-a9b6-814ffa98e67e"]
               },
               "longPressEvent": {
                 "autoKeep": false,
