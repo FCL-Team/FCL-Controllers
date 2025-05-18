@@ -1,6 +1,6 @@
 {
   "author": "taoluwa",
-  "description": "优化布局",
+  "description": "优化一部分版本会出现bug的布局UI；此UI正式被命名为Nin Hua UI；现在适配100/50/65分辨率",
   "history": [
     {
       "versionCode": 7,
@@ -49,11 +49,23 @@
     {
       "versionCode": 19,
       "versionName": "2.3 ZS"
+    },
+    {
+      "versionCode": 21,
+      "versionName": "2.3.2 ZS"
+    },
+    {
+      "versionCode": 22,
+      "versionName": "2.4 ZS"
+    },
+    {
+      "versionCode": 23,
+      "versionName": "2.4.1 ZS"
     }
   ],
   "latest": {
-    "versionCode": 21,
-    "versionName": "2.3.2 ZS"
+    "versionCode": 24,
+    "versionName": "2.5.1 ZS"
   },
-  "screenshot": 10
+  "screenshot": 16
 }
