@@ -61,11 +61,23 @@
     {
       "versionCode": 23,
       "versionName": "2.4.1 ZS"
+    },
+    {
+      "versionCode": 24,
+      "versionName": "2.5.1 ZS"
+    },
+    {
+      "versionCode": 25,
+      "versionName": "2.6"
+    },
+    {
+      "versionCode": 26,
+      "versionName": "2.6.2"
     }
   ],
   "latest": {
-    "versionCode": 24,
-    "versionName": "2.5.1 ZS"
+    "versionCode": 27,
+    "versionName": "2.7a"
   },
   "screenshot": 16
 }
