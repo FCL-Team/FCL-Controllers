@@ -1,6 +1,6 @@
 {
   "author": "taoluwa",
-  "description": "修复已知bug和优化已知功能;开始界面现在可以切换四个模式;对基本模式和全键盘模式进行了全面优化;经典触控即将过时",
+  "description": "小改了全键盘模式和简约模式，大改了经典模式（应该算）由于只更新了这几个内容，所以只是把a改成了b",
   "history": [
     {
       "versionCode": 7,
@@ -77,11 +77,15 @@
     {
       "versionCode": 27,
       "versionName": "2.7a"
+    },
+    {
+      "versionCode": 40,
+      "versionName": "2.15a"
     }
   ],
   "latest": {
-    "versionCode": 40,
-    "versionName": "2.15a"
+    "versionCode": 41,
+    "versionName": "2.15b"
   },
-  "screenshot": 8
+  "screenshot": 9
 }
