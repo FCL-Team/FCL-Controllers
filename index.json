@@ -320,12 +320,12 @@
     "name": "W-nG简易键位[测试]"
   },
   {
-    "id": "c148417b",
-    "lang": "zh_CN",
-    "name": "低仿原神鸣潮键位布局",
-    "introduction": "简约、美观、整齐、功能、手感、创新   mc原潮",
+    "categories": [1, 3, 5],
     "device": [0],
-    "categories": [1, 3, 5]
+    "id": "a7340b9f",
+    "introduction": "简约、手感、创新、严谨、四指",
+    "lang": "zh_CN",
+    "name": "mc原潮布局"
   },
   {
     "id": "f2fc047c",
@@ -390,14 +390,6 @@
     "introduction": "PVP用   版本1.1",
     "lang": "zh_CN",
     "name": "NAS油条PVP键位"
-  },
-  {
-    "categories": [1, 5],
-    "device": [0],
-    "id": "e5c85f4e",
-    "introduction": "简约、美观、整齐、功能、手感、创新、严谨   mc原潮",
-    "lang": "zh_CN",
-    "name": "低仿原神鸣潮键位布局"
   },
   {
     "id": "etc1db85",
