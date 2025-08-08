@@ -1,15 +1,19 @@
 {
   "author": "coMicBox",
-  "description": "世界全剧终，欢迎来到新艾利都",
+  "description": "高度仿制游戏『绝区零』的键位",
   "history": [
     {
       "versionCode": 2,
       "versionName": "1.5test"
+    },
+    {
+      "versionCode": 3,
+      "versionName": "1.6"
     }
   ],
   "latest": {
-    "versionCode": 3,
-    "versionName": "1.6"
+    "versionCode": 6,
+    "versionName": "2.1"
   },
-  "screenshot": 2
+  "screenshot": 6
 }
