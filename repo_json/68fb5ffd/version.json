@@ -1,10 +1,15 @@
 {
   "author": "ks",
-  "description": "一个简约大气又不牺牲太多功能的一个Fold Craft Launcher控件。",
-  "history": [],
+  "description": "一个简约大气又不牺牲太多功能的一个Fold Craft Launcher控件。注：左侧图片并非现版本。修复了没有背包的问题",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "0.1测试版"
+    }
+  ],
   "latest": {
-    "versionCode": 1,
-    "versionName": "0.1测试版"
+    "versionCode": 10,
+    "versionName": "1.0"
   },
   "screenshot": 4
 }
