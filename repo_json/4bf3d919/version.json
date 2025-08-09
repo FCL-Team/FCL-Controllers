@@ -1,6 +1,6 @@
 {
   "author": "coMicBox",
-  "description": "详细更新内容详见进门屏幕右下角『📰』公告内更新日志",
+  "description": "派蒙为了让旅行者在手机上畅玩Minecraft而制作的键位，持续更新中，欢迎下载体验",
   "history": [
     {
       "versionCode": 2,
@@ -41,11 +41,15 @@
     {
       "versionCode": 16,
       "versionName": "5.5"
+    },
+    {
+      "versionCode": 17,
+      "versionName": "5.6"
     }
   ],
   "latest": {
-    "versionCode": 17,
-    "versionName": "5.6"
+    "versionCode": 19,
+    "versionName": "5.7_v2"
   },
   "screenshot": 6
 }

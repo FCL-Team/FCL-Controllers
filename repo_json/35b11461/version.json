@@ -1,15 +1,19 @@
 {
   "author": "xianyu_bang",
-  "description": "一些按键长按或者双击某写按键就可以呼出来了",
+  "description": "本版本为：非显示刘海屏版(非全屏)\n一些按键长按或者双击某写按键就可以呼出来了\n如果你在使用过程中发现了不足之处，\n欢迎向我的邮箱：2910522265@qq.com反馈。",
   "history": [
     {
       "versionCode": 1,
       "versionName": "1.0"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "1.0.1"
     }
   ],
   "latest": {
-    "versionCode": 2,
-    "versionName": "1.0.1"
+    "versionCode": 3,
+    "versionName": "1.0.2"
   },
-  "screenshot": 9
+  "screenshot": 8
 }

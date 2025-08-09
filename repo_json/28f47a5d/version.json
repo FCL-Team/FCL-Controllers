@@ -1,6 +1,6 @@
 {
   "author": "taoluwa",
-  "description": "优化一部分版本会出现bug的布局UI；此UI正式被命名为Nin Hua UI；现在适配100/50/65分辨率",
+  "description": "小改了全键盘模式和简约模式，大改了经典模式（应该算）由于只更新了这几个内容，所以只是把a改成了b",
   "history": [
     {
       "versionCode": 7,
@@ -73,11 +73,19 @@
     {
       "versionCode": 26,
       "versionName": "2.6.2"
+    },
+    {
+      "versionCode": 27,
+      "versionName": "2.7a"
+    },
+    {
+      "versionCode": 40,
+      "versionName": "2.15a"
     }
   ],
   "latest": {
-    "versionCode": 27,
-    "versionName": "2.7a"
+    "versionCode": 41,
+    "versionName": "2.15b"
   },
-  "screenshot": 16
+  "screenshot": 9
 }
