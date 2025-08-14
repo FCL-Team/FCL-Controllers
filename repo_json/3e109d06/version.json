@@ -1,15 +1,19 @@
 {
   "author": "taoluwa",
-  "description": "更新日志：当前版本更新了仿基岩版方案，此方案有摇杆和十字键可选，修复了一些切换界面时的bug;(更新此触控并不会停更原来的凝华LE触控，but凝华LE SE已停更！)",
+  "description": "当前版本更新了仿基岩版方案;再次修复了一些界面切换出现的bug;将按钮进行了一些调整（由于只是一些小更新，所以图片没有增加）",
   "history": [
     {
       "versionCode": 1,
       "versionName": "v1.0RC"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "v1.0ZS"
     }
   ],
   "latest": {
-    "versionCode": 2,
-    "versionName": "v1.0ZS"
+    "versionCode": 3,
+    "versionName": "v1.0.1ZS"
   },
-  "screenshot": 4
+  "screenshot": 5
 }
