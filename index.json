@@ -702,5 +702,13 @@
     "introduction": "Angel Wings Studio",
     "lang": "zh_CN",
     "name": "Angelcrystal"
+  },
+  {
+    "categories": [4],
+    "device": [0],
+    "id": "5241fb24",
+    "introduction": "方便 简洁 流畅 PVP 四指",
+    "lang": "zh_CN",
+    "name": "ZXCV的PVP键位"
   }
 ]
