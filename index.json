@@ -710,5 +710,13 @@
     "introduction": "方便 简洁 流畅 PVP 四指",
     "lang": "zh_CN",
     "name": "ZXCV的PVP键位"
+  },
+  {
+    "categories": [1, 3],
+    "device": [0],
+    "id": "3e109d06",
+    "introduction": "一个由一人研发的凝华LE NEXT,主打简洁",
+    "lang": "zh_CN",
+    "name": "凝华LE NEXT"
   }
 ]
