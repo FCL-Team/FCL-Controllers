@@ -694,5 +694,13 @@
     "introduction": "[FoldCraftLauncher]MING PE按键系列│再次:触碰极致│封包：2025.7.22｜MING PE说明文档 https://docs.qq.com/doc/DZk5CZEhackxsUXNa",
     "lang": "zh_CN",
     "name": "MING PE按键系列8｜25715"
+  },
+  {
+    "categories": [1,4,5],
+    "device": [0],
+    "id": "a87cd054",
+    "introduction": "Angel Wings Studio",
+    "lang": "zh_CN",
+    "name": "Angelcrystal"
   }
 ]
