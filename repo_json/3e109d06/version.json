@@ -1,10 +1,15 @@
 {
   "author": "taoluwa",
-  "description": "制作了一些基础内容，图片只有三张，目前处于预发布版;当然,更新它后我不会停更原来的那个凝华LE触控，但是凝华LE SE已停更",
-  "history": [],
+  "description": "更新日志：当前版本更新了仿基岩版方案，此方案有摇杆和十字键可选，修复了一些切换界面时的bug;(更新此触控并不会停更原来的凝华LE触控，but凝华LE SE已停更！)",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "v1.0RC"
+    }
+  ],
   "latest": {
-    "versionCode": 1,
-    "versionName": "v1.0RC"
+    "versionCode": 2,
+    "versionName": "v1.0ZS"
   },
-  "screenshot": 3
+  "screenshot": 4
 }
