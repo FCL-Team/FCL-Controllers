@@ -1,6 +1,6 @@
 {
   "author": "taoluwa",
-  "description": "小改了全键盘模式和简约模式，大改了经典模式（应该算）由于只更新了这几个内容，所以只是把a改成了b",
+  "description": "更新日志:许多界面都进行了小更新;已经把关于蓝色的(除了蓝色字体外)全部删除,整体风格改成了简约的灰色;\n增加了版本命名方式;优化功能",
   "history": [
     {
       "versionCode": 7,
@@ -81,11 +81,15 @@
     {
       "versionCode": 40,
       "versionName": "2.15a"
+    },
+    {
+      "versionCode": 41,
+      "versionName": "2.15b"
     }
   ],
   "latest": {
-    "versionCode": 41,
-    "versionName": "2.15b"
+    "versionCode": 42,
+    "versionName": "2.16a"
   },
-  "screenshot": 9
+  "screenshot": 16
 }
