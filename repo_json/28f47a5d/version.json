@@ -1,6 +1,6 @@
 {
   "author": "taoluwa",
-  "description": "更新日志:许多界面都进行了小更新;已经把关于蓝色的(除了蓝色字体外)全部删除,整体风格改成了简约的灰色;\n增加了版本命名方式;优化功能",
+  "description": "更新日志:经典界面已劳大回归；对经典界面进行了精简,经典界面上方的按键做了更改;对开始菜单进行了美化,四个按键的间隔缩小,调试界面通往的按钮位置进行了更改;对基本模式、语言1、仿基岩版界面、全键盘模式等进行了小改；关闭了经典模式前往全键盘模式的通道（现在在菜单中就能直接进入全键盘模式）",
   "history": [
     {
       "versionCode": 7,
@@ -85,11 +85,15 @@
     {
       "versionCode": 41,
       "versionName": "2.15b"
+    },
+    {
+      "versionCode": 42,
+      "versionName": "2.16a"
     }
   ],
   "latest": {
-    "versionCode": 42,
-    "versionName": "2.16a"
+    "versionCode": 43,
+    "versionName": "3.0.1a_RC"
   },
   "screenshot": 16
 }
