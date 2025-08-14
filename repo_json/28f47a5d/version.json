@@ -1,6 +1,6 @@
 {
   "author": "taoluwa",
-  "description": "更新日志:经典界面已劳大回归；对经典界面进行了精简,经典界面上方的按键做了更改;对开始菜单进行了美化,四个按键的间隔缩小,调试界面通往的按钮位置进行了更改;对基本模式、语言1、仿基岩版界面、全键盘模式等进行了小改；关闭了经典模式前往全键盘模式的通道（现在在菜单中就能直接进入全键盘模式）",
+  "description": "更新日志: 修改了下经典模式、基本模式、彩蛋、命令界面、隐藏界面、船键中转站等界面；微改了开始界面四个按钮的空隙；由于本次只更新了小版本，因此没有关于图片的更新",
   "history": [
     {
       "versionCode": 7,
@@ -89,11 +89,15 @@
     {
       "versionCode": 42,
       "versionName": "2.16a"
+    },
+    {
+      "versionCode": 43,
+      "versionName": "3.0.1a_RC"
     }
   ],
   "latest": {
-    "versionCode": 43,
-    "versionName": "3.0.1a_RC"
+    "versionCode": 45,
+    "versionName": "3.0.2a_RC"
   },
   "screenshot": 16
 }
