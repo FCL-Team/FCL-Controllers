@@ -1,6 +1,6 @@
 {
   "author": "taoluwa",
-  "description": "小改了全键盘模式和简约模式，大改了经典模式（应该算）由于只更新了这几个内容，所以只是把a改成了b",
+  "description": "更新日志: 更改了大部分的界面,使得整体更加简约,修复和优化了一些东西,增加了调试模式的第二页，如果有什么问题或者想授权，二改的，请加我QQ：3812633092",
   "history": [
     {
       "versionCode": 7,
@@ -81,11 +81,27 @@
     {
       "versionCode": 40,
       "versionName": "2.15a"
+    },
+    {
+      "versionCode": 41,
+      "versionName": "2.15b"
+    },
+    {
+      "versionCode": 42,
+      "versionName": "2.16a"
+    },
+    {
+      "versionCode": 43,
+      "versionName": "3.0.1a_RC"
+    },
+    {
+      "versionCode": 45,
+      "versionName": "3.0.2a_RC"
     }
   ],
   "latest": {
-    "versionCode": 41,
-    "versionName": "2.15b"
+    "versionCode": 46,
+    "versionName": "3.0_ZS"
   },
-  "screenshot": 9
+  "screenshot": 16
 }

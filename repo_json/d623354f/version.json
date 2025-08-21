@@ -1,6 +1,6 @@
 {
   "author": "taoluwa",
-  "description": "适配烦人的村民整合包，整合包链接：\n主：https://www.123684.com /s/kRaqjv-aThLh？提取码：WW7p\n副：\nhttps://www.123912.com /s/kRaqjv-BThLh？提取码：DgiZ\n适配使命战争（可以直接在fcl模组搜索war)\n主：https://www.123684.com/s/kRaqjv-kkhLh?提取码：jbep\n副：https://www.123912.com/s/kRaqjv-okhLh?提取码：dJfw",
+  "description": "最后一次更新,优化了UI",
   "history": [
     {
       "versionCode": 1,
@@ -25,11 +25,15 @@
     {
       "versionCode": 6,
       "versionName": "v3.0"
+    },
+    {
+      "versionCode": 7,
+      "versionName": "v3.0.1"
     }
   ],
   "latest": {
-    "versionCode": 7,
-    "versionName": "v3.0.1"
+    "versionCode": 12,
+    "versionName": "v4.0_S"
   },
-  "screenshot": 8
+  "screenshot": 5
 }

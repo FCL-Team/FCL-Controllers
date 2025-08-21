@@ -1,0 +1,19 @@
+{
+  "author": "taoluwa",
+  "description": "当前版本更新了仿基岩版方案;再次修复了一些界面切换出现的bug;将按钮进行了一些调整（由于只是一些小更新，所以图片没有增加）",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "v1.0RC"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "v1.0ZS"
+    }
+  ],
+  "latest": {
+    "versionCode": 3,
+    "versionName": "v1.0.1ZS"
+  },
+  "screenshot": 5
+}

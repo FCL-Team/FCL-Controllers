@@ -1,15 +1,19 @@
 {
   "author": "NAS油条",
-  "description": "PVP用   QQ:3213631396 建议用CM1.8.8客户端",
+  "description": "可生存,可PVP用 功能还在更新2.1.1版  QQ:3213631396 ",
   "history": [
     {
       "versionCode": 1,
       "versionName": "1.8.8 - 1.12.2"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "1.8.8 - 1.12.2"
     }
   ],
   "latest": {
-    "versionCode": 2,
-    "versionName": "1.8.8 - 1.12.2"
+    "versionCode": 211,
+    "versionName": "2.1.1"
   },
-  "screenshot": 5
+  "screenshot": 8
 }
