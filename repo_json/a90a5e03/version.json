@@ -73,11 +73,27 @@
     {
     "versionCode": 18,
     "versionName": "beta-1.8.59.3"
+    },
+    {
+    "versionCode": 19,
+    "versionName": "beta-1.8.59.4"
+    },
+    {
+    "versionCode": 20,
+    "versionName": "beta-1.8.59.5"
+    },
+    {
+    "versionCode": 21,
+    "versionName": "1.8.60"
+    },
+    {
+    "versionCode": 22,
+    "versionName": "1.8.61"
     }
   ],
   "latest": {
-    "versionCode": 19,
-    "versionName": "beta-1.8.59.4"
+    "versionCode": 23,
+    "versionName": "1.8.62"
   },
-  "screenshot": 8
+  "screenshot": 9
 }
