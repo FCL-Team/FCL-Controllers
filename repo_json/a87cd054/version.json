@@ -25,11 +25,16 @@
     {
       "versionCode": 6100,
       "versionName": "6.1.0"
+    },
+    {
+      "versionCode": 7000,
+      "versionName": "7.0.0"
     }
   ],
   "latest": {
-    "versionCode": 7000,
-    "versionName": "7.0.0"
+    "versionCode": 8000,
+    "versionName": "8.0.0"
   },
   "screenshot": 16
 }
+
