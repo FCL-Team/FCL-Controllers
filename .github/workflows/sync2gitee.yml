@@ -2,11 +2,7 @@ name: Sync GitHub to Gitee
 
 on:
   pull_request:
-    branches-ignore:
-      - ''
   push:
-    branches-ignore:
-      - ''
   workflow_dispatch:
 
 jobs:
