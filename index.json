@@ -718,5 +718,18 @@
     "introduction": "一个由一人研发的凝华LE NEXT,主打简洁",
     "lang": "zh_CN",
     "name": "凝华LE NEXT"
+  },
+  {
+      "categories": [
+      1,
+      2
+    ],
+    "device": [
+      0
+    ],
+    "id": "05d7c101",
+    "introduction": "疾跑切换视角还有模组快捷键是我自己自定义的按键使用前建议在游戏设置中更改最后想要获取更多信息请来到我们的QQ群954301671后续我们也会持续更新的",
+    "lang": "zh_CN",
+    "name": "MeXing自制"
   }
 ]
