@@ -11,13 +11,13 @@
       "versionName": "1.4.7.2"
     },
     {    
-      "versionCode": 14811,
-      "versionName": "1.4.8.1"
+      "versionCode": 14781,
+      "versionName": "1.4.7.8"
     }
   ],
   "latest": {
-    "versionCode": 14781,
-    "versionName": "1.4.7.8"
+    "versionCode": 14811,
+    "versionName": "1.4.8.1"
   },
   "screenshot": 16
 }
