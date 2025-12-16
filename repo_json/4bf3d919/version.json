@@ -49,11 +49,15 @@
     {
       "versionCode": 19,
       "versionName": "5.7_v2"
+    },
+    {
+      "versionCode": 20,
+      "versionName": "5.8"
     }
   ],
   "latest": {
-    "versionCode": 20,
-    "versionName": "5.8"
+    "versionCode": 23,
+    "versionName": "6.2"
   },
-  "screenshot": 6
+  "screenshot": 9
 }
