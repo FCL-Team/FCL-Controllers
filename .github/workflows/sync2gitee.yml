@@ -1,13 +1,18 @@
 name: Sync GitHub to Gitee
-#禁用工作流，目前不需要同步
-#on:
-#  pull_request:
-#  push:
-#  workflow_dispatch:
+# 工作流已禁用 - 使用永远不会触发的条件
+on:
+  workflow_dispatch:
+    inputs:
+      force_run:
+        description: '强制运行 (设置为 true 才会执行)'
+        required: true
+        default: 'false'
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # 只有手动触发且 force_run 为 true 时才执行
+    if: github.event.inputs.force_run == 'true'
     steps:
 
       - name: Mirror the GitHub repo to Gitee
