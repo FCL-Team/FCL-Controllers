@@ -1,9 +1,9 @@
 name: Sync GitHub to Gitee
-
-on:
-  pull_request:
-  push:
-  workflow_dispatch:
+#禁用工作流，目前不需要同步
+#on:
+#  pull_request:
+#  push:
+#  workflow_dispatch:
 
 jobs:
   build:
