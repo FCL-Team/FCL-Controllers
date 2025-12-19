@@ -1,6 +1,6 @@
 {
   "author": "THERON_VAUX",
-  "description": "Aurora Angel 键位\nVanilla Edition\n\n-----------\n感谢你使用这个小小的键位\n版本：7.0.0\n更新内容：\n1.增加VEUI样式\n2.更新主页界面\n3.更新鼠标控件\n4.更新设置界面\n5.更新窗口控件\n6.更新游戏控件\n7.更新全键控件\n8.移除ACUX信息\n9.移除Fire系样式\n10.移除AC系样式\n-----------\n更新链接：https://www.123865.com/s/YNr5Vv-6Atbd\n如有需要可通过此链接下载\nAurora Angel最新版本\n\nBy THERON_VAUX",
+  "description": "Aurora Angel 键位\nVanilla Edition\n-----------\n感谢你使用这个小小的键位，圣诞节快乐\n版本：8.1.0\n更新时间：2025.12.19\n温馨提示\n在修改此键位之前，请先了解本键位的\n运作原理与各控件页之间的关系\n如果你修改了且修改废了，可以去FCL\n的键位市场重新下载；如果你有想法可\n以加作者或者进FCL控件交流群向作者\n提出你宝贵的意见\n-----------\n更新链接：https://www.123865.com/s/YNr5Vv-6Atbd\n如有需要可通过此链接下载\nAurora Angel最新版本\n\nBy THERON_VAUX",
   "history": [
     {
     "versionCode": 1001,
@@ -29,12 +29,16 @@
     {
       "versionCode": 7000,
       "versionName": "7.0.0"
+    },
+    {
+      "versionCode": 8000,
+      "versionName": "8.0.0"
     }
   ],
   "latest": {
-    "versionCode": 8000,
-    "versionName": "8.0.0"
+    "versionCode": 8100,
+    "versionName": "8.1.0"
   },
-  "screenshot": 16
+  "screenshot": 3
 }
 
