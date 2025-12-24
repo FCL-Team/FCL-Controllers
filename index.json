@@ -699,9 +699,9 @@
     "categories": [1,4,5],
     "device": [0],
     "id": "a87cd054",
-    "introduction": "Angel Wings Studio",
-    "lang": "zh_CN",
-    "name": "Angelcrystal"
+    "introduction": "【极光天使】感谢你使用这个键位，冬至快乐\n版本：25.1.0.1221\n更新时间：2025.12.21",
+    "lang": "all",
+    "name": "「极光天使」AuroraAngel UI"
   },
   {
     "categories": [4],
@@ -733,3 +733,4 @@
     "name": "MeXing自制"
   }
 ]
+
