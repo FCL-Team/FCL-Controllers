@@ -4,734 +4,1278 @@
     "lang": "all",
     "name": "Default",
     "introduction": "Default controller of Fold Craft Launcher.",
-    "device": [0, 1, 2],
-    "categories": [1]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1
+    ]
   },
   {
     "id": "91a8c076",
     "lang": "all",
     "name": "HY:Pojav-lite",
     "introduction": "和 Pojav Launcher 的默认控制器几乎一模一样。",
-    "device": [0],
-    "categories": [1, 3]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
   },
   {
     "id": "6b13be19",
     "lang": "all",
     "name": "HY:Pojav-lite_4:3",
     "introduction": "和 Pojav Launcher 的默认控制器几乎一模一样。\n适用于平板、小屏手机等4:3屏幕的设备。",
-    "device": [1, 2],
-    "categories": [1, 3]
+    "device": [
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      3
+    ]
   },
   {
     "id": "9329f2ce",
     "lang": "en",
     "name": "HMCL-PE Default",
     "introduction": "HMCL-PE Default controller of Fold Craft Launcher.",
-    "device": [0, 1, 2],
-    "categories": [1, 3, 5]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      3,
+      5
+    ]
   },
   {
-    "categories": [1, 3],
-    "device": [0],
     "id": "f0f9a63f",
-    "introduction": "与Zalith Launcher的默认键位几乎一模一样  1.0.1版本将原先的绝对值尺寸改为百分比尺寸",
     "lang": "zh-CN",
-    "name": "Zalith Default"
+    "name": "Zalith Default",
+    "introduction": "与Zalith Launcher的默认键位几乎一模一样  1.0.1版本将原先的绝对值尺寸改为百分比尺寸",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
   },
   {
     "id": "a90a5e03",
     "lang": "zh_CN",
     "name": "MBE键位（基岩版触控）",
     "introduction": "一个仿照MCBE UI制作的键位，旨在还原基岩版触控体验和界面外观。",
-    "device": [0],
-    "categories": [1, 3]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
   },
   {
-    "categories": [1, 5],
-    "device": [0],
     "id": "094a34d0",
-    "introduction": "一个多功能的键位，旨在为玩家提供最优质的游戏触控体验。历史版本作者为B站@小A大帅比，现已移交不想取名的阿peng。",
     "lang": "zh_CN",
-    "name": "拷打全渔舟（TTU）"
+    "name": "拷打全渔舟（TTU）",
+    "introduction": "一个多功能的键位，旨在为玩家提供最优质的游戏触控体验。历史版本作者为B站@小A大帅比，现已移交不想取名的阿peng。",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
     "id": "8e8f5abf",
     "lang": "zh_CN",
     "name": "“键”易键位|通用|版本9",
     "introduction": "专注于场景的模块化键位，底部布局不挡游戏画面，简约美观，适配多种手机DPI。",
-    "device": [0, 1, 2],
-    "categories": [1, 5]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
     "id": "876c1afb",
     "lang": "en",
     "name": "KeyEasy|General|Ver.7",
     "introduction": "Focus on the modular controller for scenarios. The bottom controller doesn't block the game screen. It's simple, beautiful and compatible with various mobile phone DPIs.",
-    "device": [0, 1, 2],
-    "categories": [1, 5]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
     "id": "3f94c447",
     "lang": "zh_CN",
     "name": "“键”易键位|建筑|版本4",
     "introduction": "专注于场景的模块化键位，底部布局不挡游戏画面，简约美观，适配多种手机DPI。",
-    "device": [0, 1, 2],
-    "categories": [1, 2, 5]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "id": "1109b6f6",
     "lang": "zh_CN",
     "name": "“键”易键位|PVP|版本4",
     "introduction": "专注于场景的模块化键位，底部布局不挡游戏画面，简约美观，适配多种手机DPI。",
-    "device": [0, 1, 2],
-    "categories": [4, 5]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      4,
+      5
+    ]
   },
   {
     "id": "4427c72d",
     "lang": "zh_CN",
     "name": "“键”易键位|指令|版本6",
     "introduction": "专注于场景的模块化键位，底部布局不挡游戏画面，简约美观，适配多种手机DPI。",
-    "device": [0, 1, 2],
-    "categories": [1, 5]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
     "id": "e24e8e09",
     "lang": "zh_CN",
     "name": "“键”易键位|Replay Mod|版本4",
     "introduction": "专注于场景的模块化键位，底部布局不挡游戏画面，简约美观，适配多种手机DPI。",
-    "device": [0, 1, 2],
-    "categories": [1, 2, 5]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
   },
   {
-    "categories": [1, 5],
-    "device": [0, 1, 2],
     "id": "21a09ada",
-    "introduction": "我在很久以前做的键位布局，重见天日了（）",
     "lang": "zh_CN",
-    "name": "bedjava控制布局|重置版1"
+    "name": "bedjava控制布局|重置版1",
+    "introduction": "我在很久以前做的键位布局，重见天日了（）",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
     "id": "0d1bdad5",
     "lang": "zh_CN",
     "name": "摇杆4指操作3.8-终~",
     "introduction": "4指不是极限，但一定是传说，丰富的控件适配，并有基本的MOD按键扩展。",
-    "device": [0, 1],
-    "categories": [1, 2, 5]
+    "device": [
+      0,
+      1
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "id": "15d8febe",
     "lang": "zh_CN",
     "name": "[FCL]便捷触控键位",
     "introduction": "功能较为齐全，切换较为便捷，样式较为舒适，适用于史诗级战斗模组，但未适配烦村。",
-    "device": [0],
-    "categories": [1, 2, 4, 5]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2,
+      4,
+      5
+    ]
   },
   {
     "id": "6bf9394a",
     "lang": "en",
     "name": "MBE-UM控件1.8.43.1 En",
     "introduction": "The Mimic the Bedrock Edition controller.Changelog(1.8.43.1):Fix bugs.",
-    "device": [0],
-    "categories": [1, 3]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
   },
   {
     "id": "353f2ee2",
     "lang": "zh_CN",
     "name": "MBE-UM控件1.8.58",
     "introduction": "仿基岩版触控，UM改版\n原作者：不想取名的阿peng\n改版作者/维护：mmdyzy\n\nFCL自带布局下载中1.8.60与1.8.61一同更新，故放出两个版本的更新日志\n\n更新日志(1.8.61):\n快捷面板的HUD按钮和F3按钮现在点击后会关闭面板了\n修复了控制模式页面无法关闭的问题\n更改部分文字排版\n修复了国际版样式聊天界面顶下方没有灰色遮罩的问题\n修复了命令输入台顶部两个按钮点击后指令有两个斜杠的问题\n聊天界面现在不会再显示背包功能键了\nTouchController模式双击屏幕中心不再会中键选取了\n在键位信息中添加了电子邮箱联系方式\n修复了模组键位按钮会互相干扰的问题\n\n更新日志(1.8.60):\n删除“游戏”选项卡内的“调试”按钮\n死区被按下时会显示\n添加快捷切换视角按钮\n现在长按丢弃按钮会快速丢弃物品了\n现在屏幕右下方所有的鼠标键不再会阻止旋转视角了\n双击准心可以中键选取了\n网易模式下的“控件指南”按钮改为“快捷短语”按钮，同时移除原先右侧两个按钮\n移除广告\n删除手电筒按钮\n移动了宏持按钮使其更难误触\n调整了鼠标键布局使其更贴近真实鼠标\nC键放大按钮现在不可单独隐藏了\n现在会要求在启动布局时选择控制模式\n控件模式不再能随时更改了\n更改控制模式的背景改为纯透明",
-    "device": [0],
-    "categories": [1, 3]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
   },
   {
     "id": "7b932c02",
     "lang": "en",
     "name": "Chickens",
     "introduction": "This is a bad controller.",
-    "device": [0, 1, 2],
-    "categories": [1]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1
+    ]
   },
   {
     "id": "de51f6d7",
     "lang": "zh_CN",
     "name": "四指PVP键位",
     "introduction": "四指PVP按键布局",
-    "device": [0],
-    "categories": [4]
+    "device": [
+      0
+    ],
+    "categories": [
+      4
+    ]
   },
   {
     "id": "e61bfb18",
     "lang": "zh_CN",
     "name": "Fire潮汐",
     "introduction": "Fire潮汐，极简未来",
-    "device": [0],
-    "categories": [1, 5]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
     "id": "4bf3d919",
     "lang": "zh_CN",
     "name": "仿原神键位",
     "introduction": "跨越尘世的探索之旅",
-    "device": [0],
-    "categories": [1, 3, 5]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3,
+      5
+    ]
   },
   {
     "id": "726214ca",
     "lang": "zh_CN",
     "name": "LightUI",
     "introduction": "美观好用的大屏四指键位",
-    "device": [0, 1],
-    "categories": [1]
+    "device": [
+      0,
+      1
+    ],
+    "categories": [
+      1
+    ]
   },
   {
     "id": "cd792f25",
     "lang": "zh_CN",
     "name": "三折叠屏",
     "introduction": "有事联系qq 3791193182",
-    "device": [0],
-    "categories": [1]
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
   },
   {
     "id": "d237e382",
     "lang": "zh_CN",
     "name": "Mo Control Full",
     "introduction": "主打功能多，简洁，精细的键位",
-    "device": [0],
-    "categories": [1, 4, 5]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      4,
+      5
+    ]
   },
   {
     "id": "9812b344",
     "lang": "zh_CN",
     "name": "姹紫嫣红",
     "introduction": "一个好看、简洁、实用的四指生存键位(≧∇≦)/",
-    "device": [0],
-    "categories": [1, 5]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
     "id": "c45e374e",
     "lang": "zh_CN",
     "name": "SHPE",
     "introduction": "更新相机功能，添加游戏外的全键盘。我们还承诺永远不做开始界面，指令只能自己记，不做指令库！",
-    "device": [0, 1, 2],
-    "categories": [1, 5]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
     "id": "d01659ea",
     "lang": "zh_CN",
     "name": "GXSKEY",
     "introduction": "龟先生仿基岩版键位\n            作者：小龟不会游泳\n         参考MBE",
-    "device": [0],
-    "categories": [1, 3]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
   },
   {
     "id": "69c32f5c",
     "lang": "zh_CN",
     "name": "〖星霜〗轻量版",
     "introduction": "轻量、简约、美观       \n(一定要看图片，有提醒的哦！)",
-    "device": [0],
-    "categories": [1, 2, 5]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "id": "9e6f85df",
     "lang": "zh_CN",
     "name": "土豆的键位",
     "introduction": "一个简洁又不失功能的键位，也有仿基岩版，基于FCL默认键位的控制方式制作(目前仅支持平板，手机端正在开发)                                                                                                                                                                                    Beta0.2.0更新日志:1.新增仿基岩版 2.新增更多常驻 3.修复已知BUG",
-    "device": [1],
-    "categories": [1, 3]
+    "device": [
+      1
+    ],
+    "categories": [
+      1,
+      3
+    ]
   },
   {
     "id": "1a8945e2",
     "lang": "zh_CN",
     "name": "Z_linofe的简易按键",
     "introduction": "简易按键，一款以简单强大为设计目标的按键布局",
-    "device": [0],
-    "categories": [1]
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
   },
   {
     "id": "69ede3be",
     "lang": "en",
     "name": "MBE controller",
     "introduction": "Mimicking the MCBE controller.",
-    "device": [0],
-    "categories": [1, 3]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
   },
   {
     "id": "61678503",
     "lang": "zh_CN",
     "name": "史诗战斗按键",
     "introduction": "星芙制作",
-    "device": [0],
-    "categories": [1, 2, 4, 5]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2,
+      4,
+      5
+    ]
   },
   {
     "id": "14b99193",
     "lang": "zh_CN",
     "name": "QE",
     "introduction": "简而不简，功能完善。内置快捷指令及全键盘",
-    "device": [0],
-    "categories": [1, 5]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
-    "categories": [1],
-    "device": [0],
     "id": "173a026d",
-    "introduction": "能不能给孩子一个币啊",
     "lang": "zh_CN",
-    "name": "Windows10"
+    "name": "Windows10",
+    "introduction": "能不能给孩子一个币啊",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
   },
   {
     "id": "55fc44a2",
     "lang": "zh_CN",
     "name": "Mcna-P-V-P-Vua-cocG",
     "introduction": "更新至完整版",
-    "device": [0],
-    "categories": [1, 4]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      4
+    ]
   },
   {
     "id": "dta5a60d",
     "lang": "zh_CN",
     "name": "FullsUI",
     "introduction": "够完整（精简",
-    "device": [0],
-    "categories": [1, 5]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
-    "categories": [1, 2, 5],
-    "device": [0],
     "id": "007ade84",
-    "introduction": "简洁明了有全键盘以及指令页，适合普通玩家使用，添加部分模组按键(不定时更新)，控件组标记清楚，会修改可自行拓展；“按键样式使用了B站XiaoluoFoxington的bedjava”",
     "lang": "zh_CN",
-    "name": "简单的布局"
+    "name": "简单的布局",
+    "introduction": "简洁明了有全键盘以及指令页，适合普通玩家使用，添加部分模组按键(不定时更新)，控件组标记清楚，会修改可自行拓展；“按键样式使用了B站XiaoluoFoxington的bedjava”",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "id": "3395db5d",
     "lang": "zh_CN",
     "name": "XR.旭日自制布局",
     "introduction": "自己做了一个觉得不错的布局",
-    "device": [0],
-    "categories": [1]
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
   },
   {
-    "categories": [1, 5],
-    "device": [0],
     "id": "f0364afd",
-    "introduction": "一个功能简洁的自制键位                                                           建议使用6.78英寸及以上的设备                                                                除去原版功能外新增:                                                                                1.<Mods>(增加Mod自定义快捷键）                                                                       2.<指令>（增加多种快捷指令）                                                                     3.<全键盘>（显示所有按键）                                                      使用了一些小优化（如点击空白处退出等）                                                                                       有问题可以通过QQ反馈                                              QQ:640238634",
     "lang": "zh_CN",
-    "name": "W-nG简易键位[测试]"
+    "name": "W-nG简易键位[测试]",
+    "introduction": "一个功能简洁的自制键位                                                           建议使用6.78英寸及以上的设备                                                                除去原版功能外新增:                                                                                1.\u003cMods\u003e(增加Mod自定义快捷键）                                                                       2.\u003c指令\u003e（增加多种快捷指令）                                                                     3.\u003c全键盘\u003e（显示所有按键）                                                      使用了一些小优化（如点击空白处退出等）                                                                                       有问题可以通过QQ反馈                                              QQ:640238634",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
-    "categories": [1, 3, 5],
-    "device": [0],
     "id": "a7340b9f",
-    "introduction": "四指、手感、简约、创新、质量、功能、大型",
     "lang": "zh_CN",
-    "name": "mc原潮布局"
+    "name": "mc原潮布局",
+    "introduction": "四指、手感、简约、创新、质量、功能、大型",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3,
+      5
+    ]
   },
   {
     "id": "f2fc047c",
     "lang": "zh_CN",
     "name": "TACZ",
     "introduction": "专门为TACZ设计的键位，里面包含生存和射击两种按键，q群（694129073）也欢迎进q群反馈一些键位问题",
-    "device": [0],
-    "categories": [1, 2]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2
+    ]
   },
   {
     "id": "4865b746",
     "lang": "zh_CN",
     "name": "高对比",
     "introduction": "三连",
-    "device": [0],
-    "categories": [1]
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
   },
   {
     "id": "fca21d1e",
     "lang": "zh_CN",
     "name": "TLBE",
     "introduction": "仿基岩控件",
-    "device": [0],
-    "categories": [1, 3]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
   },
   {
     "id": "d32a9b00",
     "lang": "zh_CN",
     "name": "ZH极致舒适按键（全键盘）",
     "introduction": "极致舒适",
-    "device": [0],
-    "categories": [1]
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
   },
   {
     "id": "dce5b3f1",
     "lang": "zh_CN",
     "name": "小幽made布局",
     "introduction": "幽制布局：多功能梗体布局，你最棒的伙伴（",
-    "device": [0, 1, 2],
-    "categories": [1, 5]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
     "id": "899a1e2b",
     "lang": "zh_CN",
     "name": "真•全键盘",
     "introduction": "真•全键盘，是UP主093883734在fcl经典键位上，改编的一款全键位键盘。方案一可以快速输入键盘；方案二的其他键盘可以拖动，不挡住屏幕，方案四内置常用大部分指令，非常好用；另外还有连点，保持按下，对于各领域玩家都很适用",
-    "device": [0, 1, 2],
-    "categories": [5]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      5
+    ]
   },
   {
     "id": "b8d5fg39",
-    "introduction": "Default controller of Genshin Impact.Translated version into English",
     "lang": "en",
     "name": "GIcontroller",
-    "categories": [1, 3, 5],
-    "device": [0]
+    "introduction": "Default controller of Genshin Impact.Translated version into English",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3,
+      5
+    ]
   },
   {
-    "categories": [4],
-    "device": [0, 2],
     "id": "d5461e0b",
-    "introduction": "可生存,可PVP用 的简单键位",
     "lang": "zh_CN",
-    "name": "NAS油条PVP+生存键位"
+    "name": "NAS油条PVP+生存键位",
+    "introduction": "可生存,可PVP用 的简单键位",
+    "device": [
+      0,
+      2
+    ],
+    "categories": [
+      4
+    ]
   },
   {
     "id": "etc1db85",
     "lang": "zh_CN",
     "name": "InfinityXL",
     "introduction": "是CRGM对未来的想象（doge",
-    "device": [0],
-    "categories": [1, 5]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
     "id": "2f0ceac4",
     "lang": "zh_CN",
     "name": "HY:FCL-JarExecutor",
     "introduction": "根据 FCL Jar 运行器界面制作，适用于文本编辑界面。",
-    "device": [0, 1, 2],
-    "categories": [3]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      3
+    ]
   },
   {
     "id": "74d08ec6",
     "lang": "all",
     "name": "Simple Control[简捷布局]",
     "introduction": "Simple, beautiful and feature-rich layout | 简洁美观而功能丰富的布局",
-    "device": [0, 1, 2],
-    "categories": [1, 3, 5]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      3,
+      5
+    ]
   },
   {
-    "categories": [1, 3],
-    "device": [0],
     "id": "8df54701",
+    "lang": "zh_CN",
+    "name": "基岩按键",
     "introduction": "酷似基岩版指针操控的按键",
-    "lang": "zh_CN",
-    "name": "基岩按键"
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
   },
   {
-    "categories": [1],
-    "device": [1],
     "id": "347b57b4",
+    "lang": "zh_CN",
+    "name": "『摇杆可多指操作按键』正式版1.0",
     "introduction": "基本的操作，微调完全可上手。有问题反馈QQ655868158\nv3.8\n『完结撒花，最终优化.....增加了物品栏左右切换的按键[仿制鼠标样式]，增加主、副手物品切换按键』\nv3.7\n『优化代码逻辑与顺序，减少加载时长，减少负载』 『优化了控件美化，使其更接近现代化美术』\n『修复全键盘输入/无字空白等问题』\n『添加了一种全键盘兼容[使用FCL启动器自带的移动按键时，全键盘的移动键↑↓←→会失去作用]』\nv3.6\n『优化全键盘，正常情况下使用原键盘~游玩服务器关键tab键』\nv3.5\n『优化了部分控件跳转问题』『添加缺少的控件』『大力优化了：全键盘---优化了键盘方案。』『为两个常用标准，一个兼容方案』",
-    "lang": "zh_CN",
-    "name": "『摇杆可多指操作按键』正式版1.0"
+    "device": [
+      1
+    ],
+    "categories": [
+      1
+    ]
   },
   {
-    "categories": [1, 3],
-    "device": [0],
     "id": "8166a0d3",
+    "lang": "zh_CN",
+    "name": "AugStart 正式版b16",
     "introduction": "你从未见过的极简布局 适用于所有MC版本 包括PVP TACz YSM 以及生电 整合包)",
-    "lang": "zh_CN",
-    "name": "AugStart 正式版b16"
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
   },
   {
-    "categories": [1, 5],
-    "device": [0, 1, 2],
     "id": "98d3c75d",
+    "lang": "zh_CN",
+    "name": "『永恆の愛莉希雅』",
     "introduction": "沒什麼好描述的，愛莉希雅與你同在！",
-    "lang": "zh_CN",
-    "name": "『永恆の愛莉希雅』"
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
-    "categories": [1, 3],
-    "device": [0],
     "id": "052af265",
-    "introduction": "由粉丝制作的二创作品,是仿制类罢",
     "lang": "zh_CN",
-    "name": "可恶の星穹列车"
+    "name": "可恶の星穹列车",
+    "introduction": "由粉丝制作的二创作品,是仿制类罢",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
   },
   {
-    "categories": [1, 3, 5],
-    "device": [0, 1],
     "id": "db7337cf",
-    "introduction": "简洁优秀的键位\n2.0更新TouchController键位(需要搭配TouchController mods)\n3.0更新了设置界面(设置时也可操作游戏，重新制作了设置布局，更美观)",
     "lang": "zh_CN",
-    "name": "tortoiseUI"
+    "name": "tortoiseUI",
+    "introduction": "简洁优秀的键位\n2.0更新TouchController键位(需要搭配TouchController mods)\n3.0更新了设置界面(设置时也可操作游戏，重新制作了设置布局，更美观)",
+    "device": [
+      0,
+      1
+    ],
+    "categories": [
+      1,
+      3,
+      5
+    ]
   },
   {
     "id": "e5e2294f",
     "lang": "zh_CN",
     "name": "Master全功能键盘pro",
-    "introduction": "大型整合包必备键盘，正式5.0版本更新，高达42个控件组制作，只为满足你的游戏诉求，基础界面全透明材质按键，简洁严谨，按键区域留存合理，上方中心为Jade留存，右上方为小地图留存，控件逻辑清晰，新添加清晰的指令集以及快捷操作，附加两种全键盘：屏幕中心全键盘，随时拉取，不遮挡正常游戏操作；全键盘Pro：此区域制作使用高达15个控件组，两种模式：全键模式、组合模式；两套指位：四指模式、二&三模式。提供4种融合方式，附加一套功能键、两套数字键，支持全键位覆盖，适合大型整合包的键位需求。PVP键盘：四指键位，快捷物品切换，快捷搭路垫高，策略家级按键排布，稳定发挥，所向披靡。附加可定制专属模组按键，让你的游戏更具个性化。如有疑问，建议，交友，请加作者QQ：3054421046",
-    "device": [0, 1, 2],
-    "categories": [1, 3, 4, 5]
+    "introduction": "大型整合包必备键盘，正式5.0版本更新，高达42个控件组制作，只为满足你的游戏诉求，基础界面全透明材质按键，简洁严谨，按键区域留存合理，上方中心为Jade留存，右上方为小地图留存，控件逻辑清晰，新添加清晰的指令集以及快捷操作，附加两种全键盘：屏幕中心全键盘，随时拉取，不遮挡正常游戏操作；全键盘Pro：此区域制作使用高达15个控件组，两种模式：全键模式、组合模式；两套指位：四指模式、二\u0026三模式。提供4种融合方式，附加一套功能键、两套数字键，支持全键位覆盖，适合大型整合包的键位需求。PVP键盘：四指键位，快捷物品切换，快捷搭路垫高，策略家级按键排布，稳定发挥，所向披靡。附加可定制专属模组按键，让你的游戏更具个性化。如有疑问，建议，交友，请加作者QQ：3054421046",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      3,
+      4,
+      5
+    ]
   },
   {
     "id": "c15c762f",
     "lang": "zh_CN",
     "name": "MO key_U",
     "introduction": "修复了功能键不能使用的bug，修复了全键pro/pvp键位返回后没有MORE和MOD按键的bug",
-    "device": [0],
-    "categories": [1, 5]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
     "id": "b6f5bfa4",
     "lang": "zh_CN",
     "name": "ReplayMod回放键位",
     "introduction": "这是专门为录制mod提供后期剪辑的键位个人觉得挺好用的",
-    "device": [0, 1, 2],
-    "categories": [2]
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      2
+    ]
   },
   {
     "id": "5ff7cbf6",
     "lang": "zh_CN",
     "name": "仿绝区零键位",
     "introduction": "世界全剧终，欢迎来到新艾利都",
-    "device": [0],
-    "categories": [1, 3]
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
   },
   {
-    "categories": [6],
-    "device": [0, 1, 2],
     "id": "01e2cb7e",
-    "introduction": "此布局提供了38种控件样式和38种方向键样式。",
     "lang": "all",
-    "name": "76种控件样式"
+    "name": "76种控件样式",
+    "introduction": "此布局提供了38种控件样式和38种方向键样式。",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      6
+    ]
   },
   {
-    "categories": [1, 5],
-    "device": [0],
     "id": "e8e11c3f",
-    "introduction": "Darn! 1.6.0.101's 99% bugs is free!!!",
     "lang": "zh_CN",
-    "name": "Fire潮汐 Next"
+    "name": "Fire潮汐 Next",
+    "introduction": "Darn! 1.6.0.101's 99% bugs is free!!!",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
   },
   {
-    "categories": [1],
-    "device": [0],
     "id": "9258d60b",
-    "introduction": "简洁而优秀的键位",
     "lang": "zh_CN",
-    "name": "xueliang简洁舒适键位"
+    "name": "xueliang简洁舒适键位",
+    "introduction": "简洁而优秀的键位",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
   },
   {
     "id": "4aa33472",
     "lang": "zh_CN",
     "name": "OneSht Lite",
     "introduction": "可配置的布局，可以快速加装控件，最初灵感来源于win10方方正正的外观，尽可能的减少了控件重叠",
-    "device": [0],
-    "categories": [1, 2, 3]
-  },
-  {
-    "categories": [1, 5],
-    "device": [0],
-    "id": "603cf3f9",
-    "introduction": "内置全键盘 测试",
-    "lang": "zh_CN",
-    "name": "21.TACZ.existence"
-  },
-  {
-    "categories": [1, 5],
-    "device": [0],
-    "id": "c25e359c",
-    "introduction": "用于原版生存模组是XAERO的小地图和TACZ***",
-    "lang": "zh_CN",
-    "name": "21.TACZ.existence"
-  },
-  {
-    "categories": [1, 3],
-    "device": [0],
-    "id": "28f47a5d",
-    "introduction": "由一人研发的凝华LE触控，目前版本是3.0_ZS(正式版)",
-    "lang": "zh-CN",
-    "name": "凝华LE"
-  },
-  {
-    "categories": [1],
-    "device": [0],
-    "id": "a0839bd4",
-    "introduction": "By pkin for Minecraft Parkour",
-    "lang": "zh-CN",
-    "name": "技术性跑酷专用键位"
-  },
-  {
-    "categories": [1, 3],
-    "device": [0],
-    "id": "d623354f",
-    "introduction": "由一人研发的凝华LE SE,这是最终更新",
-    "lang": "zh_CN",
-    "name": "凝华LE SE"
-  },
-  {
-    "categories": [1, 3],
-    "device": [0, 1],
-    "id": "936dd9ab",
-    "introduction": "针对于FCL启动器玩家的《我的奶块》仿奶块触控布局。新增为左撇子玩家做的按键。",
-    "lang": "zh_CN",
-    "name": "仿·奶块布局"
-  },
-  {
-    "categories": [1],
-    "device": [0],
-    "id": "5681c982",
-    "introduction": "这是一个对萌新极其友好的键位，内置常用按键说明助你轻松游玩Java爱慕希。本键位主打一个生存实用简洁美观不会华而不实让人难以上手。",
-    "lang": "zh-CN",
-    "name": "寄寄猫键位"
-  },
-  {
-    "categories": [1, 2, 5],
-    "device": [0, 1],
-    "id": "35b11461",
-    "introduction": "本版本为：非显示刘海屏版(非全屏)\n一些按键长按或者双击某写按键就可以呼出来了\n如果你在使用过程中发现了不足之处，\n欢迎向我的邮箱：2910522265@qq.com反馈。",
-    "lang": "zh_CN",
-    "name": "CraftSync Pro"
-  },
-  {
-    "categories": [1, 5],
-    "device": [0, 1, 2],
-    "id": "e31e7243",
-    "introduction": "简约好用的按键",
-    "lang": "zh_CN",
-    "name": "便捷键位⇔快速调试丨适合生存"
-  },
-  {
-    "categories": [1, 5],
-    "device": [0, 1, 2],
-    "id": "203c478d",
-    "introduction": "  这是一个专为320×480分辨率的老年机设计的按键，老年机的型号为TCL508n、酷派金世纪y60、百合A89、以晴老年机等机器准备的，为什么要准备这个样的按键？因为这些手机的分辨率太小了，并且不好设置按键，而且自己设置方向键，那方向键拖动的过程中会乱飞，虽然布局很像是官方的，但是为了适配老年机一个一个创建按键重新调整的新布局，这是一个简易布局可以按个人需求添加想要的按键，以下是关于老年机的灵敏度等调整:灵敏度为550，窗口分辨率为145方可畅玩游戏！目前老年机无法直接在游戏内呼出输入法，你可以点击输入，然后添加你想要的内容，点击你输入的内容，虽然慢了一点，但是也将就能用qwq",
-    "lang": "zh_CN",
-    "name": "专为5G老年机设计的按键"
-  },
-  {
-    "categories": [1, 3],
-    "device": [0],
-    "id": "1d4caf3",
-    "introduction": "跨越尘世的探索之旅",
-    "lang": "zh_CN",
-    "name": "云·原神键位"
-  },
-  {
-    "categories": [1, 5],
-    "device": [0],
-    "id": "8c872618",
-    "introduction": "「𝑬𝑪」-全键- 只是一个全键，没有很多内容，后面会更新的，主体偏向于简洁，作者QQ名称:💀Bro💀",
-    "lang": "zh_CN",
-    "name": "「𝑬𝑪」-全键-"
-  },
-  {
-    "categories": [1, 3],
-    "device": [0, 1, 2],
-    "id": "09aaa09c",
-    "introduction": "RTM鍵/管理世界/數字鍵",
-    "lang": "zh_CN",
-    "name": "RTM"
-  },
-  {
-    "categories": [1],
-    "device": [0],
-    "id": "180d52d5",
-    "introduction": "一个轻量而美观的键位，适用于大部分玩家",
-    "lang": "zh_CN",
-    "name": "[清风]轻量键位"
-  },
-  {
-    "categories": [1, 3],
-    "device": [0],
-    "id": "760c3516",
-    "introduction": "新触控在fcl启动器出现",
-    "lang": "zh_CN",
-    "name": "ITC凤梨触控"
-  },
-  {
-    "categories": [1],
-    "device": [0],
-    "id": "4cb86b8d",
-    "introduction": "以美观的布局方式来，减少遮挡,更小的按键。",
-    "lang": "zh_CN",
-    "name": "多功能简单的键位布局【红月落】"
-  },
-  {
-    "categories": [1],
-    "device": [0],
-    "id": "839a5283",
-    "introduction": "简约",
-    "lang": "zh_CN",
-    "name": "新手友好布局"
-  },
-  {
-    "categories": [1, 5],
-    "device": [1],
-    "id": "8a12b231",
-    "introduction": "玻璃板主题布局，适当的通透，共三个控件组，方便修改，包含全键盘，用于4:3平板设备（其他设备不保证布局位置正确)\n\n本次更新/修改内容:\n\n———游戏内———\n1.增加TAB键(自动保持)\n2.调整更多细节(有调整，不是水:)\n\n———游戏外———\n1.增加TAB键(非自动保持)\n2.修复100%大小的按键意外的使用了150%大小的样式\n3.调整更多细节(有调整，真的不是水:)\n\n———全键盘———\n1.修改字体大小以解决字符越界问题\n2.修复无法正确弹出全键盘问题\n\n———配色———\n常规状态:改为50%透明度黑色染色玻璃板\n触发状态:改为50%透明度白色染色玻璃板\n\n———FQA———\nQ: 我发现了一个问题/我有一个想法该如何告诉你?\nA: Bilibili私信\"火速学习历史\"并描述\n\nQ: 为什么我下载的布局位置和你图片上的不一样?\nA: 暂时不适配您设备的比例或dpi，图片上的是4:3比例屏幕设备⁽¹⁾ 的预览效果(布局也是根据该类设备制作)，您可以尝试自行编辑布局位置，以后可能会尝试适配\n......\n\n注:\n  (1)具体分辨率: 1600x2176(2K)，DPI: 320(xhdpi)\n\n———By Bilibili 火速学习历史",
-    "lang": "zh_CN",
-    "name": "玻璃布局"
-  },
-  {
-    "categories": [1, 5],
-    "device": [0],
-    "id": "68fb5ffd",
-    "introduction": "一个简约大气又不牺牲太多功能的一个Fold Craft Launcher控件。",
-    "lang": "zh_CN",
-    "name": "BlockFold"
-  },
-  {
-    "categories": [1],
-    "device": [0],
-    "id": "50a4236b",
-    "introduction": "“楠木青城按键布局，让操作更精准，让游戏更尽兴！”​",
-    "lang": "zh_CN",
-    "name": "楠木青城"
-  },
-  {
-    "categories": [1],
-    "device": [0],
-    "id": "f5f2bfc2",
-    "introduction": "[FoldCraftLauncher]MING PE按键系列│再次:触碰极致│封包：2025.7.22｜MING PE说明文档 https://docs.qq.com/doc/DZk5CZEhackxsUXNa",
-    "lang": "zh_CN",
-    "name": "MING PE按键系列8｜25715"
-  },
-  {
-    "categories": [1,4,5],
-    "device": [0],
-    "id": "a87cd054",
-    "introduction": "【极光天使】感谢你使用这个键位，冬至快乐\n版本：25.1.0.1221\n更新时间：2025.12.21",
-    "lang": "all",
-    "name": "「极光天使」AuroraAngel UI"
-  },
-  {
-    "categories": [4],
-    "device": [0],
-    "id": "5241fb24",
-    "introduction": "方便 简洁 流畅 PVP 四指",
-    "lang": "zh_CN",
-    "name": "ZXCV的PVP键位"
-  },
-  {
-    "categories": [1, 3],
-    "device": [0],
-    "id": "3e109d06",
-    "introduction": "一个由一人研发的凝华LE NEXT,主打简洁",
-    "lang": "zh_CN",
-    "name": "凝华LE NEXT"
-  },
-  {
-      "categories": [
-      1,
-      2
-    ],
     "device": [
       0
     ],
-    "id": "05d7c101",
-    "introduction": "疾跑切换视角还有模组快捷键是我自己自定义的按键使用前建议在游戏设置中更改最后想要获取更多信息请来到我们的QQ群954301671后续我们也会持续更新的",
+    "categories": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "603cf3f9",
     "lang": "zh_CN",
-    "name": "MeXing自制"
+    "name": "21.TACZ.existence",
+    "introduction": "内置全键盘 测试",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "c25e359c",
+    "lang": "zh_CN",
+    "name": "21.TACZ.existence",
+    "introduction": "用于原版生存模组是XAERO的小地图和TACZ***",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "28f47a5d",
+    "lang": "zh_CN",
+    "name": "凝华LE",
+    "introduction": "更新日志 :由于是非正式版，无更新日志",
+    "device": [
+      0
+    ],
+    "categories": []
+  },
+  {
+    "id": "a0839bd4",
+    "lang": "zh-CN",
+    "name": "技术性跑酷专用键位",
+    "introduction": "By pkin for Minecraft Parkour",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "d623354f",
+    "lang": "zh_CN",
+    "name": "凝华LE SE",
+    "introduction": "由一人研发的凝华LE SE,这是最终更新",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "936dd9ab",
+    "lang": "zh_CN",
+    "name": "仿·奶块布局",
+    "introduction": "针对于FCL启动器玩家的《我的奶块》仿奶块触控布局。新增为左撇子玩家做的按键。",
+    "device": [
+      0,
+      1
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "5681c982",
+    "lang": "zh-CN",
+    "name": "寄寄猫键位",
+    "introduction": "这是一个对萌新极其友好的键位，内置常用按键说明助你轻松游玩Java爱慕希。本键位主打一个生存实用简洁美观不会华而不实让人难以上手。",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "35b11461",
+    "lang": "zh_CN",
+    "name": "CraftSync Pro",
+    "introduction": "本版本为：非显示刘海屏版(非全屏)\n一些按键长按或者双击某写按键就可以呼出来了\n如果你在使用过程中发现了不足之处，\n欢迎向我的邮箱：2910522265@qq.com反馈。",
+    "device": [
+      0,
+      1
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id": "e31e7243",
+    "lang": "zh_CN",
+    "name": "便捷键位⇔快速调试丨适合生存",
+    "introduction": "简约好用的按键",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "203c478d",
+    "lang": "zh_CN",
+    "name": "专为5G老年机设计的按键",
+    "introduction": "  这是一个专为320×480分辨率的老年机设计的按键，老年机的型号为TCL508n、酷派金世纪y60、百合A89、以晴老年机等机器准备的，为什么要准备这个样的按键？因为这些手机的分辨率太小了，并且不好设置按键，而且自己设置方向键，那方向键拖动的过程中会乱飞，虽然布局很像是官方的，但是为了适配老年机一个一个创建按键重新调整的新布局，这是一个简易布局可以按个人需求添加想要的按键，以下是关于老年机的灵敏度等调整:灵敏度为550，窗口分辨率为145方可畅玩游戏！目前老年机无法直接在游戏内呼出输入法，你可以点击输入，然后添加你想要的内容，点击你输入的内容，虽然慢了一点，但是也将就能用qwq",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "1d4caf3",
+    "lang": "zh_CN",
+    "name": "云·原神键位",
+    "introduction": "跨越尘世的探索之旅",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "8c872618",
+    "lang": "zh_CN",
+    "name": "「𝑬𝑪」-全键-",
+    "introduction": "「𝑬𝑪」-全键- 只是一个全键，没有很多内容，后面会更新的，主体偏向于简洁，作者QQ名称:💀Bro💀",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "09aaa09c",
+    "lang": "zh_CN",
+    "name": "RTM",
+    "introduction": "RTM鍵/管理世界/數字鍵",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "180d52d5",
+    "lang": "zh_CN",
+    "name": "[清风]轻量键位",
+    "introduction": "一个轻量而美观的键位，适用于大部分玩家",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "760c3516",
+    "lang": "zh_CN",
+    "name": "ITC凤梨触控",
+    "introduction": "新触控在fcl启动器出现",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "4cb86b8d",
+    "lang": "zh_CN",
+    "name": "多功能简单的键位布局【红月落】",
+    "introduction": "以美观的布局方式来，减少遮挡,更小的按键。",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "839a5283",
+    "lang": "zh_CN",
+    "name": "新手友好布局",
+    "introduction": "简约",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "8a12b231",
+    "lang": "zh_CN",
+    "name": "玻璃布局",
+    "introduction": "玻璃板主题布局，适当的通透，共三个控件组，方便修改，包含全键盘，用于4:3平板设备（其他设备不保证布局位置正确)\n\n本次更新/修改内容:\n\n———游戏内———\n1.增加TAB键(自动保持)\n2.调整更多细节(有调整，不是水:)\n\n———游戏外———\n1.增加TAB键(非自动保持)\n2.修复100%大小的按键意外的使用了150%大小的样式\n3.调整更多细节(有调整，真的不是水:)\n\n———全键盘———\n1.修改字体大小以解决字符越界问题\n2.修复无法正确弹出全键盘问题\n\n———配色———\n常规状态:改为50%透明度黑色染色玻璃板\n触发状态:改为50%透明度白色染色玻璃板\n\n———FQA———\nQ: 我发现了一个问题/我有一个想法该如何告诉你?\nA: Bilibili私信\"火速学习历史\"并描述\n\nQ: 为什么我下载的布局位置和你图片上的不一样?\nA: 暂时不适配您设备的比例或dpi，图片上的是4:3比例屏幕设备⁽¹⁾ 的预览效果(布局也是根据该类设备制作)，您可以尝试自行编辑布局位置，以后可能会尝试适配\n......\n\n注:\n  (1)具体分辨率: 1600x2176(2K)，DPI: 320(xhdpi)\n\n———By Bilibili 火速学习历史",
+    "device": [
+      1
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "68fb5ffd",
+    "lang": "zh_CN",
+    "name": "BlockFold",
+    "introduction": "一个简约大气又不牺牲太多功能的一个Fold Craft Launcher控件。",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "50a4236b",
+    "lang": "zh_CN",
+    "name": "楠木青城",
+    "introduction": "“楠木青城按键布局，让操作更精准，让游戏更尽兴！”​",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "f5f2bfc2",
+    "lang": "zh_CN",
+    "name": "MING PE按键系列8｜25715",
+    "introduction": "[FoldCraftLauncher]MING PE按键系列│再次:触碰极致│封包：2025.7.22｜MING PE说明文档 https://docs.qq.com/doc/DZk5CZEhackxsUXNa",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "a87cd054",
+    "lang": "all",
+    "name": "「极光天使」AuroraAngel UI",
+    "introduction": "【极光天使】感谢你使用这个键位，冬至快乐\n版本：25.1.0.1221\n更新时间：2025.12.21",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "5241fb24",
+    "lang": "zh_CN",
+    "name": "ZXCV的PVP键位",
+    "introduction": "方便 简洁 流畅 PVP 四指",
+    "device": [
+      0
+    ],
+    "categories": [
+      4
+    ]
+  },
+  {
+    "id": "3e109d06",
+    "lang": "zh_CN",
+    "name": "凝华LE NEXT",
+    "introduction": "一个由一人研发的凝华LE NEXT,主打简洁",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "05d7c101",
+    "lang": "zh_CN",
+    "name": "MeXing自制",
+    "introduction": "疾跑切换视角还有模组快捷键是我自己自定义的按键使用前建议在游戏设置中更改最后想要获取更多信息请来到我们的QQ群954301671后续我们也会持续更新的",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "2441f31d",
+    "lang": "all",
+    "name": "BBS模组布局",
+    "introduction": "BBS的按键里面都有，还有一些正常有的按键",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "db13451b",
+    "lang": "zh_CN",
+    "name": "极简风格",
+    "introduction": "界面清爽，专为原版客户端打造的极简布局，可随时拓展。",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "e65beeef",
+    "lang": "zh_CN",
+    "name": "Unforgettable",
+    "introduction": "一个仿基岩触控。",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "fa095f58",
+    "lang": "zh_CN",
+    "name": "MO key",
+    "introduction": "ConfectionaryQwQ注:\n\"这款键位本人于自从2023.08.12使用至今，已使用超过两年多\n此键位最初灵感来源于本人2023.4.30发布的键位(BV1cX4y1U7dP)，距今已有三年历史\n随后由作者XIAOMO_S制作于FCL启动器，称之为MO Key，版本号为0.4.0\n最后一个MO Key的版本为0.5.0，发布于2023.11.11，已停更许久，单这不妨碍0.4.0依旧是最经典，最好用的版本，特此纪念。\"\n\n原作者哔哩哔哩XIAOMO_S注:\n\n\"适用于FCL的美化布局(制作不易，记得关注啊)\n部分图标借鉴于哔哩哔哩-ConfectionaryQwQ(UID:694203513)\n仿照Pojav默认布局风格制作\n本次(0.4.0更新汇总):\n1.修复前几个版本留下来的bug\n2.移除\"GUI\"键\n3.优化、美化全键盘及命令区\n4.添加左键自动保持(双击“LEFT”开启)\n5.添加摇杆\n6.游戏外shift自动保持调整(双击开启自动保持)\"",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
   }
 ]
-
-
