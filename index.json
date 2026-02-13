@@ -1234,7 +1234,10 @@
     "device": [
       0
     ],
-    "categories": []
+    "categories": [
+      1,
+      2
+    ]
   },
   {
     "id": "db13451b",
@@ -1244,7 +1247,9 @@
     "device": [
       0
     ],
-    "categories": []
+    "categories": [
+      1
+    ]
   },
   {
     "id": "e65beeef",
@@ -1254,6 +1259,9 @@
     "device": [
       0
     ],
-    "categories": []
+    "categories": [
+      1,
+      3
+    ]
   }
 ]
