@@ -1,0 +1,1054 @@
+{
+  "id": "2441f31d",
+  "name": "BBS模组布局",
+  "version": "0.1",
+  "versionCode": 1,
+  "author": "老马_skary",
+  "description": "BBS的按键里面都有，还有一些正常有的按键",
+  "controllerVersion": 20,
+  "buttonStyles": [
+    {
+      "name": "背包",
+      "textColor": -1,
+      "textSize": 12,
+      "strokeColor": -9671572,
+      "strokeWidth": 25,
+      "cornerRadius": 0,
+      "fillColor": -2044451804,
+      "textColorPressed": -1,
+      "textSizePressed": 12,
+      "strokeColorPressed": -9671572,
+      "strokeWidthPressed": 25,
+      "cornerRadiusPressed": 0,
+      "fillColorPressed": 1328851982
+    },
+    {
+      "name": "基岩版触控•常",
+      "textColor": -1677721600,
+      "textSize": 25,
+      "strokeColor": 1385337490,
+      "strokeWidth": 54,
+      "cornerRadius": 30,
+      "fillColor": 2023398042,
+      "textColorPressed": -1677721600,
+      "textSizePressed": 25,
+      "strokeColorPressed": 1385337490,
+      "strokeWidthPressed": 54,
+      "cornerRadiusPressed": 30,
+      "fillColorPressed": 2023398042
+    }
+  ],
+  "directionStyles": [
+    {
+      "name": "基岩新版触控摇杆",
+      "styleType": "ROCKER",
+      "buttonStyle": {
+        "name": "",
+        "textColor": -1677721600,
+        "textSize": 25,
+        "strokeColor": 0,
+        "strokeWidth": 54,
+        "cornerRadius": 30,
+        "fillColor": 0,
+        "textColorPressed": -1660944385,
+        "textSizePressed": 25,
+        "strokeColorPressed": 2091230629,
+        "strokeWidthPressed": 54,
+        "cornerRadiusPressed": 30,
+        "fillColorPressed": -1886548595
+      },
+      "rockerStyle": {
+        "rockerSize": 500,
+        "bgCornerRadius": 65,
+        "bgStrokeWidth": 15,
+        "bgStrokeColor": -1677721600,
+        "bgFillColor": 503316479,
+        "rockerCornerRadius": 65,
+        "rockerStrokeWidth": 15,
+        "rockerStrokeColor": -1677721600,
+        "rockerFillColor": -1672261036
+      }
+    }
+  ],
+  "viewGroups": [
+    {
+      "id": "d1a7e43d-d34f-42f4-bb1b-fb1e78f3a897",
+      "name": "BBS",
+      "visibility": "VISIBLE",
+      "viewData": {
+        "buttonList": [
+          {
+            "id": "bf9f3b7e-efe7-4dd8-9f52-209eeef251f0",
+            "text": "esc",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 20,
+              "yPosition": 8,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  1
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "8fb112af-7e84-4bff-9da4-26bfd0da3738",
+            "text": "背包",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 719,
+              "yPosition": 972,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  18
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "f8229ec3-705a-4695-a655-af79d7a2ff89",
+            "text": "副手",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 276,
+              "yPosition": 972,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  33
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "f07c3a83-f4bc-4a60-aa37-adc060e2b417",
+            "text": "→",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 590,
+              "yPosition": 981,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 150
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  1004
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "746750af-4549-4edc-8e37-9a24f25b35ee",
+            "text": "←",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 414,
+              "yPosition": 980,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 150
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  1003
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "277375a3-1ef5-48e5-90b5-667b2e758686",
+            "text": "左键",
+            "style": "基岩版触控•常",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 788,
+              "yPosition": 664,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 100
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 100
+              }
+            },
+            "event": {
+              "pointerFollow": true,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  1000
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "81a0cac2-81c6-44bd-a723-177a6253f452",
+            "text": "右键",
+            "style": "基岩版触控•常",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 930,
+              "yPosition": 842,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 100
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 100
+              }
+            },
+            "event": {
+              "pointerFollow": true,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  1002
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "c4fccbbc-e256-4e62-8d8e-093841e4fe84",
+            "text": "跳跃",
+            "style": "基岩版触控•常",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 930,
+              "yPosition": 143,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 100
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 100
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  57
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "52734aef-1dc9-4fca-b799-b5bb84f6029a",
+            "text": "蹲下",
+            "style": "基岩版触控•常",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 930,
+              "yPosition": 482,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 100
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 100
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  42
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "6389b14f-851f-4d79-b280-9f36824494d4",
+            "text": "↑",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "MENU",
+              "xPosition": 265,
+              "yPosition": 646,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  1003
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "c4661de7-d9d0-4071-a028-0733503e394d",
+            "text": "↓",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "MENU",
+              "xPosition": 265,
+              "yPosition": 793,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  1004
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "bc8c0b5c-4f4c-4c13-80fe-d1c61a743289",
+            "text": "疾跑",
+            "style": "基岩版触控•常",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 787,
+              "yPosition": 321,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 100
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 100
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  29
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "1a43b488-6660-4289-b877-3e5813687142",
+            "text": "仪表盘",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 72,
+              "yPosition": 186,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  11
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "06c0a600-50d0-4f32-bbc5-220df9c7e72d",
+            "text": "传送至当前回放",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 153,
+              "yPosition": 186,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 85
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  21
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "a539b6bf-747f-4a60-b176-dd7ed1783a77",
+            "text": "取消伪装",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 72,
+              "yPosition": 320,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  52
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "1294b398-ef51-4da3-8b10-d08ac39bc531",
+            "text": "录制当前回放",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 152,
+              "yPosition": 319,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 85
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  100
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "9e53e8c7-bc3a-44e0-b4bb-ae2cc4e6b297",
+            "text": "录制视频",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 680,
+              "yPosition": 186,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  62
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "027e0e3a-bff3-4189-9c17-639850aca3ef",
+            "text": "打开伪装菜单",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 245,
+              "yPosition": 185,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  48
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "8e766cd6-a9a6-4aa5-b873-feea47d3ac14",
+            "text": "打开回放列表",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 244,
+              "yPosition": 319,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  54
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "df9755be-0f80-4bd9-ae69-bd81a519f322",
+            "text": "播放影片",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 679,
+              "yPosition": 335,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  97
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "316a6726-6815-48d5-9b51-702f0494fb1c",
+            "text": "暂停影片",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 616,
+              "yPosition": 334,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  22
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "db28ecc8-1152-4d07-838e-99f1f080938e",
+            "text": "物品编辑器",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 303,
+              "yPosition": 185,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  23
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "f2c17c18-5eef-4574-a101-83d340c03b2e",
+            "text": "瞄准（BBS枪）",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 314,
+              "yPosition": 319,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 85
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  49
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "1f4c4f9e-b837-463f-b23c-47df665c0fe8",
+            "text": "视角",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "IN_GAME",
+              "xPosition": 782,
+              "yPosition": 25,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [
+                  63
+                ],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "c4596cd1-c17e-41cc-8410-f8cd4b930f86",
+            "text": "输入法",
+            "style": "背包",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 718,
+              "yPosition": 24,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 50
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "input": true,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              }
+            }
+          }
+        ],
+        "directionList": [
+          {
+            "id": "0e1e8323-1a57-436c-88ae-83d8e60424f7",
+            "style": "基岩新版触控摇杆",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 36,
+              "yPosition": 872,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 209
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 209
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

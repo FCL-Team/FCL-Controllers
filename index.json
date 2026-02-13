@@ -1225,5 +1225,35 @@
       1,
       2
     ]
+  },
+  {
+    "id": "2441f31d",
+    "lang": "all",
+    "name": "BBS模组布局",
+    "introduction": "BBS的按键里面都有，还有一些正常有的按键",
+    "device": [
+      0
+    ],
+    "categories": []
+  },
+  {
+    "id": "db13451b",
+    "lang": "zh_CN",
+    "name": "极简风格",
+    "introduction": "界面清爽，专为原版客户端打造的极简布局，可随时拓展。",
+    "device": [
+      0
+    ],
+    "categories": []
+  },
+  {
+    "id": "e65beeef",
+    "lang": "zh_CN",
+    "name": "Unforgettable",
+    "introduction": "一个仿基岩触控。",
+    "device": [
+      0
+    ],
+    "categories": []
   }
 ]
