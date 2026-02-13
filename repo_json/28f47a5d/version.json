@@ -1,6 +1,11 @@
 {
+  "screenshot": 13,
+  "description": "一个由一人研发的触控",
   "author": "taoluwa",
-  "description": "更新日志: 更改了大部分的界面,使得整体更加简约,修复和优化了一些东西,增加了调试模式的第二页，如果有什么问题或者想授权，二改的，请加我QQ：3812633092",
+  "latest": {
+    "versionCode": 60,
+    "versionName": "26.1.1 alpha"
+  },
   "history": [
     {
       "versionCode": 7,
@@ -97,11 +102,10 @@
     {
       "versionCode": 45,
       "versionName": "3.0.2a_RC"
+    },
+    {
+      "versionCode": 46,
+      "versionName": "3.0_ZS"
     }
-  ],
-  "latest": {
-    "versionCode": 46,
-    "versionName": "3.0_ZS"
-  },
-  "screenshot": 16
+  ]
 }
