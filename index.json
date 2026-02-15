@@ -558,7 +558,7 @@
     ],
     "categories": [
       1,
-      3,
+      2,
       5
     ]
   },
@@ -932,11 +932,14 @@
     "id": "28f47a5d",
     "lang": "zh_CN",
     "name": "凝华LE",
-    "introduction": "更新日志 :由于是非正式版，无更新日志",
+    "introduction": "一个由一人编写的触控，耗时了“1145个小时”",
     "device": [
       0
     ],
-    "categories": []
+    "categories": [
+      1,
+      2
+    ]
   },
   {
     "id": "a0839bd4",

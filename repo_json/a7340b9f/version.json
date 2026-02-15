@@ -1,6 +1,11 @@
 {
+  "screenshot": 16,
+  "description": "•少量参考原神和鸣潮游戏键位布局\n•四指、手感、简约、创新、质量、功能、大型\n•意见q群：712715920\n⚠注意：图中的模组按键是本人根据自己添加的模组绑定的，为适合大部分玩家，下载的是无模组按键绑定的，可根据自己的需求自行修改",
   "author": "q：得   bilibili：卬呜-得",
-  "description": "•少量参考原神和鸣潮游戏键位布局\n•简约、手感、创新、严谨、功能、四指\n•意见q群：712715920\n⚠注意：图中的模组按键是本人根据自己添加的模组绑定的，为适合大部分玩家，下载的是无模组按键绑定的，需根据自己添加的模组在游戏设置中的“按键绑定”自行绑定模组按键",
+  "latest": {
+    "versionCode": 7,
+    "versionName": "3.3   4.01M"
+  },
   "history": [
     {
       "versionCode": 1,
@@ -21,11 +26,10 @@
     {
       "versionCode": 5,
       "versionName": "3.1   1.75M"
+    },
+    {
+      "versionCode": 6,
+      "versionName": "3.2   2.38M"
     }
-  ],
-  "latest": {
-    "versionCode": 6,
-    "versionName": "3.2   2.38M"
-  },
-  "screenshot": 15
+  ]
 }
