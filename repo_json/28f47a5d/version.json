@@ -1,10 +1,10 @@
 {
-  "screenshot": 13,
-  "description": "一个由一人研发的触控",
+  "screenshot": 16,
+  "description": "更新日志：大改了主界面并引入了更多有用有趣的界面；\n加了分支非常多的分支，包括：初始、更新、声明、反馈等；\n对仿基岩版样式界面进行了大改，并且加入了新的模式；\n优化了六指按键布局的bug，以及给她添加了一些功能；\n删除了旧版触控菜单，因为新版本已经更好了;\n将某些界面改成了仿基岩版样式更舒适；\n触控引入了全新版本号年份命名法；\n优化重复的地方，合并在一起\n\n由于空间不足了，所以就展示了这么多，剩下的欢迎冒险家自己探索！",
   "author": "taoluwa",
   "latest": {
-    "versionCode": 60,
-    "versionName": "26.1.1 alpha"
+    "versionCode": 61,
+    "versionName": "v26.2.1"
   },
   "history": [
     {
@@ -106,6 +106,10 @@
     {
       "versionCode": 46,
       "versionName": "3.0_ZS"
+    },
+    {
+      "versionCode": 60,
+      "versionName": "26.1.1 alpha"
     }
   ]
 }
