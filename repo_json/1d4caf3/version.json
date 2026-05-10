@@ -3,8 +3,8 @@
   "description": "派蒙为了让旅行者在低配置手机上畅玩Minecraft而制作的键位，本控件为『仿原神键位』的精简版，删除了其中为了美观而不必要的控件，持续更新中，欢迎下载体验",
   "author": "coMicBox",
   "latest": {
-    "versionCode": 10,
-    "versionName": "6.3"
+    "versionCode": 12,
+    "versionName": "6.5"
   },
   "history": [
     {
@@ -26,6 +26,10 @@
     {
       "versionCode": 9,
       "versionName": "6.2"
+    },
+    {
+      "versionCode": 10,
+      "versionName": "6.3"
     }
   ]
 }
