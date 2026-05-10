@@ -1294,5 +1294,19 @@
       4,
       5
     ]
+  },
+  {
+    "id": "df0855a9",
+    "lang": "zh_CN",
+    "name": "cxykevin-航空学-全键盘",
+    "introduction": "手机二指，提供多个mod快捷键和全键盘\nCreate 优化\n必读帮助！",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
   }
 ]
