@@ -3,8 +3,8 @@
   "description": "派蒙为了让旅行者在手机上畅玩Minecraft而制作的键位，持续更新中，欢迎下载体验",
   "author": "coMicBox",
   "latest": {
-    "versionCode": 24,
-    "versionName": "6.3"
+    "versionCode": 26,
+    "versionName": "6.5_v2"
   },
   "history": [
     {
@@ -62,6 +62,10 @@
     {
       "versionCode": 23,
       "versionName": "6.2"
+    },
+    {
+      "versionCode": 24,
+      "versionName": "6.3"
     }
   ]
 }
