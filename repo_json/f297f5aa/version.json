@@ -1,10 +1,15 @@
 {
   "author": "我叫c小龙",
-  "description": "PVP类 四指操作 偏向黑色系的PVP控件 27个控件组 近100个按键",
-  "history": [],
+  "description": "黑色系\nPVP类 四指操作",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "1.8.9"
+    }
+  ],
   "latest": {
-    "versionCode": 1,
-    "versionName": "1.8.9"
+    "versionCode": 2,
+    "versionName": "1.8.9 _1.1"
   },
-  "screenshot": 2
+  "screenshot": 5
 }
