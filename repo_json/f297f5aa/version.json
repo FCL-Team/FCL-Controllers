@@ -1,15 +1,19 @@
 {
   "author": "我叫c小龙",
-  "description": "黑色系\nPVP类 四指操作",
+  "description": "黑色系 PVP类 四指操作\n",
   "history": [
     {
       "versionCode": 1,
       "versionName": "1.8.9"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "1.8.9 _1.1"
     }
   ],
   "latest": {
-    "versionCode": 2,
-    "versionName": "1.8.9 _1.1"
+    "versionCode": 3,
+    "versionName": "1.8.9 _1.2"
   },
-  "screenshot": 5
+  "screenshot": 4
 }

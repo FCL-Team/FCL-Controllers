@@ -1,10 +1,15 @@
 {
   "author": "cxykevin",
   "description": "手机二指，提供多个mod快捷键和全键盘\nCreate 优化\n必读帮助！",
-  "history": [],
+  "history": [
+    {
+      "versionCode": 2,
+      "versionName": "v0.0.2"
+    }
+  ],
   "latest": {
-    "versionCode": 2,
-    "versionName": "v0.0.2"
+    "versionCode": 3,
+    "versionName": "v0.0.3"
   },
   "screenshot": 5
 }
