@@ -1305,5 +1305,15 @@
       2,
       5
     ]
+  },
+  {
+    "categories": [],
+    "device": [
+      0
+    ],
+    "id": "bca4ef28",
+    "introduction": "一个模拟全键盘的布局！\n红：常用按键   蓝：不常用按键   绿：无用按键\n本布局以原版（1.21.11）为参考，mod特殊按键不予修改。\nbug反馈：\nB站@柷愈\nX@zhuyu_china\nkeyboard系列_KA",
+    "lang": "zh_CN",
+    "name": "keyboard"
   }
 ]
