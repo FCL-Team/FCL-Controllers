@@ -1,48 +1,10 @@
 {
   "author": "THERON_VAUX",
-  "description": "Aurora Angel 键位\nVanilla Edition\n-----------\n感谢你使用这个小小的键位，冬至快乐\n版本：25.1.0.1221\n更新时间：2025.12.21\n温馨提示\n在修改此键位之前，请先了解本键位的\n运作原理与各控件页之间的关系\n如果你修改了且修改废了，可以去FCL\n的键位市场重新下载；如果你有想法可\n以加作者或者进FCL控件交流群向作者\n提出你宝贵的意见\n-----------\n更新链接：https://www.123865.com/s/YNr5Vv-6Atbd\n如有需要可通过此链接下载\nAurora Angel最新版本\n\nBy THERON_VAUX",
-  "history": [
-    {
-    "versionCode": 1001,
-    "versionName": "1.0.0"
-    },
-    {
-      "versionCode": 5000,
-      "versionName": "5.0.0"
-    },
-    {
-      "versionCode": 6000,
-      "versionName": "6.0.0"
-    },
-    {
-      "versionCode": 6001,
-      "versionName": "6.1.0.102"
-    },
-    {
-      "versionCode": 6002,
-      "versionName": "6.1.0.103"
-    },
-    {
-      "versionCode": 6100,
-      "versionName": "6.1.0"
-    },
-    {
-      "versionCode": 7000,
-      "versionName": "7.0.0"
-    },
-    {
-      "versionCode": 8000,
-      "versionName": "8.0.0"
-    },
-    {
-      "versionCode": 8100,
-      "versionName": "8.1.0"
-    }
-  ],
+  "description": "Aurora Angel 键位\nVanilla Edition\n-----------\n感谢你使用这个小小的键位，冬至快乐\n版本：26.2.0.0525\n更新时间：2026.05.25\n温馨提示\n在修改此键位之前，请先了解本键位的\n运作原理与各控件页之间的关系\n如果你修改了且修改废了，可以去FCL\n的键位市场重新下载；如果你有想法可\n以加作者或者进FCL控件交流群向作者\n提出你宝贵的意见\n-----------\n更新链接：https://1859081968.share.123865.com/123pan/dEscvd-RSx83\n如有需要可通过此链接下载\nAurora Angel最新版本\n\nBy THERON_VAUX",
+  "history": [],
   "latest": {
-    "versionCode": 25101,
-    "versionName": "25.1.0.1221"
+    "versionCode": 26203,
+    "versionName": "26.2.0.0525"
   },
-  "screenshot": 5
+  "screenshot": 7
 }
-
