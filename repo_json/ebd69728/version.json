@@ -1,10 +1,15 @@
 {
   "author": "WuQing_Tick12OwO",
-  "description": "自己摸索吧",
-  "history": [],
+  "description": "更新了",
+  "history": [
+    {
+      "versionCode": 0,
+      "versionName": ""
+    }
+  ],
   "latest": {
-    "versionCode": 7891,
-    "versionName": ""
+    "versionCode": 1,
+    "versionName": "1.01"
   },
-  "screenshot": 1
+  "screenshot": 2
 }
