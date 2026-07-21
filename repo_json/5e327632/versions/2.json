@@ -1,10 +1,10 @@
 {
   "id": "5e327632",
   "name": "水晶PVP WuQing_Tick12OwO",
-  "version": "",
-  "versionCode": 0,
+  "version": "1.11",
+  "versionCode": 2,
   "author": "WuQing_Tick12OwO",
-  "description": "GG",
+  "description": "把一些反人类的给移到旁边去了，让你的水晶更加流畅",
   "controllerVersion": 21,
   "buttonStyles": [
     {
@@ -98,7 +98,7 @@
             "style": "Only",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 291,
+              "xPosition": 292,
               "yPosition": 810,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
@@ -784,7 +784,7 @@
               },
               "percentageHeight": {
                 "reference": "SCREEN_WIDTH",
-                "size": 75
+                "size": 77
               }
             },
             "event": {
@@ -999,7 +999,7 @@
             "baseInfo": {
               "visibilityType": "ALWAYS",
               "xPosition": 835,
-              "yPosition": 742,
+              "yPosition": 741,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -1080,7 +1080,7 @@
               "absoluteHeight": 50,
               "percentageWidth": {
                 "reference": "SCREEN_HEIGHT",
-                "size": 226
+                "size": 224
               },
               "percentageHeight": {
                 "reference": "SCREEN_HEIGHT",
@@ -1148,18 +1148,18 @@
             "style": "Only",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 832,
-              "yPosition": 435,
+              "xPosition": 644,
+              "yPosition": 668,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
               "percentageWidth": {
                 "reference": "SCREEN_HEIGHT",
-                "size": 240
+                "size": 180
               },
               "percentageHeight": {
                 "reference": "SCREEN_HEIGHT",
-                "size": 204
+                "size": 160
               }
             },
             "event": {
@@ -1223,14 +1223,14 @@
             "style": "Only",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 945,
+              "xPosition": 946,
               "yPosition": 342,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
               "percentageWidth": {
                 "reference": "SCREEN_HEIGHT",
-                "size": 226
+                "size": 210
               },
               "percentageHeight": {
                 "reference": "SCREEN_HEIGHT",
@@ -1305,7 +1305,7 @@
               "absoluteHeight": 50,
               "percentageWidth": {
                 "reference": "SCREEN_WIDTH",
-                "size": 102
+                "size": 110
               },
               "percentageHeight": {
                 "reference": "SCREEN_WIDTH",
@@ -1827,18 +1827,18 @@
             "style": "Only",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 832,
+              "xPosition": 826,
               "yPosition": 0,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
               "percentageWidth": {
                 "reference": "SCREEN_WIDTH",
-                "size": 102
+                "size": 95
               },
               "percentageHeight": {
                 "reference": "SCREEN_WIDTH",
-                "size": 76
+                "size": 70
               }
             },
             "event": {
@@ -1903,7 +1903,7 @@
             "style": "Only",
             "baseInfo": {
               "visibilityType": "ALWAYS",
-              "xPosition": 894,
+              "xPosition": 886,
               "yPosition": 0,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
@@ -1914,7 +1914,7 @@
               },
               "percentageHeight": {
                 "reference": "SCREEN_WIDTH",
-                "size": 76
+                "size": 70
               }
             },
             "event": {
@@ -2127,7 +2127,7 @@
             "style": "Only",
             "baseInfo": {
               "visibilityType": "IN_GAME",
-              "xPosition": 74,
+              "xPosition": 76,
               "yPosition": 0,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
@@ -2797,8 +2797,8 @@
             "style": "Only",
             "baseInfo": {
               "visibilityType": "MENU",
-              "xPosition": 25,
-              "yPosition": 305,
+              "xPosition": 40,
+              "yPosition": 215,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -2944,17 +2944,17 @@
             "baseInfo": {
               "visibilityType": "ALWAYS",
               "xPosition": 860,
-              "yPosition": 205,
+              "yPosition": 256,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
               "percentageWidth": {
                 "reference": "SCREEN_WIDTH",
-                "size": 65
+                "size": 80
               },
               "percentageHeight": {
                 "reference": "SCREEN_WIDTH",
-                "size": 80
+                "size": 178
               }
             },
             "event": {
@@ -2962,7 +2962,7 @@
               "Movable": false,
               "pressEvent": {
                 "autoKeep": false,
-                "autoClick": true,
+                "autoClick": false,
                 "openMenu": false,
                 "switchTouchMode": false,
                 "switchMouseMode": false,
@@ -3252,7 +3252,7 @@
               "absoluteHeight": 50,
               "percentageWidth": {
                 "reference": "SCREEN_WIDTH",
-                "size": 102
+                "size": 110
               },
               "percentageHeight": {
                 "reference": "SCREEN_WIDTH",
@@ -3322,7 +3322,7 @@
             "baseInfo": {
               "visibilityType": "ALWAYS",
               "xPosition": 930,
-              "yPosition": 190,
+              "yPosition": 176,
               "sizeType": "PERCENTAGE",
               "absoluteWidth": 50,
               "absoluteHeight": 50,
@@ -3332,7 +3332,7 @@
               },
               "percentageHeight": {
                 "reference": "SCREEN_WIDTH",
-                "size": 50
+                "size": 55
               }
             },
             "event": {
@@ -3574,6 +3574,79 @@
                 "outputKeycodes": [
                   1001
                 ],
+                "bindViewGroup": []
+              },
+              "longPressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "clickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              },
+              "doubleClickEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "",
+                "outputKeycodes": [],
+                "bindViewGroup": []
+              }
+            }
+          },
+          {
+            "id": "62f248ce-cea6-42fb-85e7-4e250af4824e",
+            "text": "spawn",
+            "style": "Only",
+            "baseInfo": {
+              "visibilityType": "ALWAYS",
+              "xPosition": 311,
+              "yPosition": 0,
+              "sizeType": "PERCENTAGE",
+              "absoluteWidth": 50,
+              "absoluteHeight": 50,
+              "percentageWidth": {
+                "reference": "SCREEN_WIDTH",
+                "size": 60
+              },
+              "percentageHeight": {
+                "reference": "SCREEN_WIDTH",
+                "size": 60
+              }
+            },
+            "event": {
+              "pointerFollow": false,
+              "Movable": false,
+              "pressEvent": {
+                "autoKeep": false,
+                "autoClick": false,
+                "openMenu": false,
+                "switchTouchMode": false,
+                "switchMouseMode": false,
+                "input": false,
+                "quickInput": false,
+                "outputText": "/spawn",
+                "outputKeycodes": [],
                 "bindViewGroup": []
               },
               "longPressEvent": {

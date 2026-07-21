@@ -89,11 +89,15 @@
     {
     "versionCode": 22,
     "versionName": "1.8.61"
+    },
+    {
+    "versionCode": 23,
+    "versionName": "1.8.62"
     }
   ],
   "latest": {
-    "versionCode": 23,
-    "versionName": "1.8.62"
+    "versionCode": 24,
+    "versionName": "1.9.6"
   },
-  "screenshot": 9
+  "screenshot": 8
 }
