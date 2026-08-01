@@ -4,12 +4,16 @@
   "history": [
     {
       "versionCode": 0,
-      "versionName": ""
+      "versionName": "0"
+    },
+    {
+      "versionCode": 1,
+      "versionName": "1.01"
     }
   ],
   "latest": {
-    "versionCode": 1,
-    "versionName": "1.01"
+    "versionCode": 2,
+    "versionName": "1.11"
   },
   "screenshot": 2
 }

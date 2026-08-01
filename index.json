@@ -1386,7 +1386,7 @@
 "id": "ebd69728",
 "lang": "all",
 "name": "WuQing_Tick12OwO",
-"introduction": "更新了",
+"introduction": "破盾更好一些",
 "device": [
 0
 ],
@@ -1406,6 +1406,18 @@
 "categories": [
 1,
 2
+]
+},
+{
+"id": "4ff7b141",
+"lang": "all",
+"name": "极简",
+"introduction": "极简风格美观",
+"device": [
+0
+],
+"categories": [
+1
 ]
 }
 ]
