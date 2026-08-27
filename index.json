@@ -1432,5 +1432,17 @@
       1,
       2
     ]
+  },
+  {
+    "id": "da4e5cdb",
+    "lang": "all",
+    "name": "PTS-Analog handle",
+    "introduction": "模拟手柄按键",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
   }
 ]
